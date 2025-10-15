@@ -1,0 +1,5572 @@
+municipio,uf_raw,populacao,capital,classe_populacao
+Alta Floresta D'Oeste,RO,22516.0,0,BAIXO
+Ariquemes,RO,111148.0,0,MEDIO
+Cabixi,RO,5067.0,0,BAIXO
+Cacoal,RO,86416.0,0,BAIXO
+Cerejeiras,RO,16088.0,0,BAIXO
+Colorado Do Oeste,RO,15213.0,0,BAIXO
+Corumbiara,RO,7052.0,0,BAIXO
+Costa Marques,RO,19255.0,0,BAIXO
+Espigao D'Oeste,RO,33009.0,0,BAIXO
+Guajara-Mirim,RO,46930.0,0,BAIXO
+Jaru,RO,51469.0,0,BAIXO
+Ji-Parana,RO,131026.0,0,MEDIO
+Machadinho D'Oeste,RO,41724.0,0,BAIXO
+Nova Brasilandia D'Oeste,RO,20504.0,0,BAIXO
+Ouro Preto Do Oeste,RO,35445.0,0,BAIXO
+Pimenta Bueno,RO,37098.0,0,BAIXO
+Porto Velho,RO,548952.0,1,ALTO
+Presidente Medici,RO,18165.0,0,BAIXO
+Rio Crespo,RO,3843.0,0,BAIXO
+Rolim De Moura,RO,55748.0,0,BAIXO
+Santa Luzia D'Oeste,RO,5942.0,0,BAIXO
+Vilhena,RO,104517.0,0,MEDIO
+Sao Miguel Do Guapore,RO,23147.0,0,BAIXO
+Nova Mamore,RO,32184.0,0,BAIXO
+Alvorada D'Oeste,RO,13807.0,0,BAIXO
+Alto Alegre Dos Parecis,RO,13268.0,0,BAIXO
+Alto Paraiso,RO,22258.0,0,BAIXO
+Buritis,RO,41043.0,0,BAIXO
+Novo Horizonte Do Oeste,RO,8125.0,0,BAIXO
+Cacaulandia,RO,6307.0,0,BAIXO
+Campo Novo De Rondonia,RO,14391.0,0,BAIXO
+Candeias Do Jamari,RO,28068.0,0,BAIXO
+Castanheiras,RO,2923.0,0,BAIXO
+Chupinguaia,RO,11755.0,0,BAIXO
+Cujubim,RO,27131.0,0,BAIXO
+Governador Jorge Teixeira,RO,7130.0,0,BAIXO
+Itapua Do Oeste,RO,10819.0,0,BAIXO
+Ministro Andreazza,RO,9461.0,0,BAIXO
+Mirante Da Serra,RO,10691.0,0,BAIXO
+Monte Negro,RO,16158.0,0,BAIXO
+Nova Uniao,RO,6822.0,0,BAIXO
+Parecis,RO,6319.0,0,BAIXO
+Pimenteiras Do Oeste,RO,2127.0,0,BAIXO
+Primavera De Rondonia,RO,2697.0,0,BAIXO
+Sao Felipe D'Oeste,RO,4962.0,0,BAIXO
+Sao Francisco Do Guapore,RO,21088.0,0,BAIXO
+Seringueiras,RO,11846.0,0,BAIXO
+Teixeiropolis,RO,4160.0,0,BAIXO
+Theobroma,RO,10348.0,0,BAIXO
+Urupa,RO,11081.0,0,BAIXO
+Vale Do Anari,RO,11545.0,0,BAIXO
+Vale Do Paraiso,RO,6490.0,0,BAIXO
+Acrelandia,AC,15721.0,0,BAIXO
+Assis Brasil,AC,7649.0,0,BAIXO
+Brasileia,AC,27123.0,0,BAIXO
+Bujari,AC,10572.0,0,BAIXO
+Capixaba,AC,12280.0,0,BAIXO
+Cruzeiro Do Sul,AC,89760.0,0,BAIXO
+Epitaciolandia,AC,18979.0,0,BAIXO
+Feijo,AC,34986.0,0,BAIXO
+Jordao,AC,8628.0,0,BAIXO
+Mancio Lima,AC,19643.0,0,BAIXO
+Manoel Urbano,AC,9701.0,0,BAIXO
+Marechal Thaumaturgo,AC,19727.0,0,BAIXO
+Placido De Castro,AC,20147.0,0,BAIXO
+Porto Walter,AC,12497.0,0,BAIXO
+Rio Branco,AC,419452.0,1,MEDIO
+Rodrigues Alves,AC,19767.0,0,BAIXO
+Santa Rosa Do Purus,AC,6893.0,0,BAIXO
+Senador Guiomard,AC,23446.0,0,BAIXO
+Sena Madureira,AC,47168.0,0,BAIXO
+Tarauaca,AC,43730.0,0,BAIXO
+Xapuri,AC,19866.0,0,BAIXO
+Porto Acre,AC,19141.0,0,BAIXO
+Alvaraes,AM,16396.0,0,BAIXO
+Amatura,AM,11934.0,0,BAIXO
+Anama,AM,14292.0,0,BAIXO
+Anori,AM,21937.0,0,BAIXO
+Apui,AM,22739.0,0,BAIXO
+Atalaia Do Norte,AM,20868.0,0,BAIXO
+Autazes,AM,41005.0,0,BAIXO
+Barcelos,AM,27772.0,0,BAIXO
+Barreirinha,AM,32919.0,0,BAIXO
+Benjamin Constant,AM,44873.0,0,BAIXO
+Beruri,AM,20503.0,0,BAIXO
+Boa Vista Do Ramos,AM,20040.0,0,BAIXO
+Boca Do Acre,AM,34958.0,0,BAIXO
+Borba,AM,42328.0,0,BAIXO
+Caapiranga,AM,13482.0,0,BAIXO
+Canutama,AM,15981.0,0,BAIXO
+Carauari,AM,28719.0,0,BAIXO
+Careiro,AM,38820.0,0,BAIXO
+Careiro Da Varzea,AM,31459.0,0,BAIXO
+Coari,AM,86713.0,0,BAIXO
+Codajas,AM,29691.0,0,BAIXO
+Eirunepe,AM,36121.0,0,BAIXO
+Envira,AM,20748.0,0,BAIXO
+Fonte Boa,AM,16409.0,0,BAIXO
+Guajara,AM,17193.0,0,BAIXO
+Humaita,AM,57195.0,0,BAIXO
+Ipixuna,AM,31172.0,0,BAIXO
+Iranduba,AM,49718.0,0,BAIXO
+Itacoatiara,AM,104046.0,0,MEDIO
+Itamarati,AM,7777.0,0,BAIXO
+Itapiranga,AM,9312.0,0,BAIXO
+Japura,AM,1755.0,0,BAIXO
+Jurua,AM,15495.0,0,BAIXO
+Jutai,AM,13462.0,0,BAIXO
+Labrea,AM,47685.0,0,BAIXO
+Manacapuru,AM,99613.0,0,BAIXO
+Manaquiri,AM,33981.0,0,BAIXO
+Manaus,AM,2255903.0,1,ALTO
+Manicore,AM,57405.0,0,BAIXO
+Maraa,AM,18298.0,0,BAIXO
+Maues,AM,66159.0,0,BAIXO
+Nhamunda,AM,21710.0,0,BAIXO
+Nova Olinda Do Norte,AM,38665.0,0,BAIXO
+Novo Airao,AM,20395.0,0,BAIXO
+Novo Aripuana,AM,26443.0,0,BAIXO
+Parintins,AM,116439.0,0,MEDIO
+Pauini,AM,19616.0,0,BAIXO
+Presidente Figueiredo,AM,38095.0,0,BAIXO
+Rio Preto Da Eva,AM,34856.0,0,BAIXO
+Santa Isabel Do Rio Negro,AM,26566.0,0,BAIXO
+Santo Antonio Do Ica,AM,20889.0,0,BAIXO
+Sao Gabriel Da Cachoeira,AM,47031.0,0,BAIXO
+Sao Paulo De Olivenca,AM,40837.0,0,BAIXO
+Sao Sebastiao Do Uatuma,AM,14678.0,0,BAIXO
+Silves,AM,9289.0,0,BAIXO
+Tabatinga,AM,68502.0,0,BAIXO
+Tapaua,AM,16876.0,0,BAIXO
+Tefe,AM,59250.0,0,BAIXO
+Tonantins,AM,19038.0,0,BAIXO
+Uarini,AM,13839.0,0,BAIXO
+Urucara,AM,16007.0,0,BAIXO
+Urucurituba,AM,24098.0,0,BAIXO
+Amajari,RR,13561.0,0,BAIXO
+Alto Alegre,RR,15249.0,0,BAIXO
+Boa Vista,RR,436591.0,1,MEDIO
+Bonfim,RR,12701.0,0,BAIXO
+Canta,RR,19257.0,0,BAIXO
+Caracarai,RR,22635.0,0,BAIXO
+Caroebe,RR,10595.0,0,BAIXO
+Iracema,RR,12637.0,0,BAIXO
+Mucajai,RR,18482.0,0,BAIXO
+Normandia,RR,11772.0,0,BAIXO
+Pacaraima,RR,20108.0,0,BAIXO
+Rorainopolis,RR,31387.0,0,BAIXO
+Sao Joao Da Baliza,RR,8492.0,0,BAIXO
+Sao Luiz,RR,8232.0,0,BAIXO
+Uiramuta,RR,11014.0,0,BAIXO
+Abaetetuba,PA,160439.0,0,MEDIO
+Abel Figueiredo,PA,7536.0,0,BAIXO
+Acara,PA,55744.0,0,BAIXO
+Afua,PA,39910.0,0,BAIXO
+Agua Azul Do Norte,PA,27797.0,0,BAIXO
+Alenquer,PA,57390.0,0,BAIXO
+Almeirim,PA,34044.0,0,BAIXO
+Altamira,PA,117320.0,0,MEDIO
+Anajas,PA,30091.0,0,BAIXO
+Ananindeua,PA,540410.0,0,ALTO
+Anapu,PA,29312.0,0,BAIXO
+Augusto Correa,PA,46937.0,0,BAIXO
+Aurora Do Para,PA,32200.0,0,BAIXO
+Aveiro,PA,16421.0,0,BAIXO
+Bagre,PA,31967.0,0,BAIXO
+Baiao,PA,49454.0,0,BAIXO
+Bannach,PA,3239.0,0,BAIXO
+Barcarena,PA,129333.0,0,MEDIO
+Belem,PA,1506420.0,1,ALTO
+Belterra,PA,17944.0,0,BAIXO
+Benevides,PA,64780.0,0,BAIXO
+Bom Jesus Do Tocantins,PA,17254.0,0,BAIXO
+Bonito,PA,16769.0,0,BAIXO
+Braganca,PA,130122.0,0,MEDIO
+Brasil Novo,PA,14883.0,0,BAIXO
+Brejo Grande Do Araguaia,PA,7357.0,0,BAIXO
+Breu Branco,PA,68597.0,0,BAIXO
+Breves,PA,104280.0,0,MEDIO
+Bujaru,PA,29717.0,0,BAIXO
+Cachoeira Do Piria,PA,35307.0,0,BAIXO
+Cachoeira Do Arari,PA,24355.0,0,BAIXO
+Cameta,PA,140814.0,0,MEDIO
+Canaa Dos Carajas,PA,39103.0,0,BAIXO
+Capanema,PA,69828.0,0,BAIXO
+Capitao Poco,PA,54545.0,0,BAIXO
+Castanhal,PA,205667.0,0,MEDIO
+Chaves,PA,24175.0,0,BAIXO
+Colares,PA,12175.0,0,BAIXO
+Conceicao Do Araguaia,PA,48115.0,0,BAIXO
+Concordia Do Para,PA,34236.0,0,BAIXO
+Cumaru Do Norte,PA,14044.0,0,BAIXO
+Curionopolis,PA,17764.0,0,BAIXO
+Curralinho,PA,35530.0,0,BAIXO
+Curua,PA,14776.0,0,BAIXO
+Curuca,PA,41093.0,0,BAIXO
+Dom Eliseu,PA,61206.0,0,BAIXO
+Eldorado Do Carajas,PA,34069.0,0,BAIXO
+Faro,PA,6949.0,0,BAIXO
+Floresta Do Araguaia,PA,20742.0,0,BAIXO
+Garrafao Do Norte,PA,26155.0,0,BAIXO
+Goianesia Do Para,PA,41678.0,0,BAIXO
+Gurupa,PA,34127.0,0,BAIXO
+Igarape-Acu,PA,39234.0,0,BAIXO
+Igarape-Miri,PA,63367.0,0,BAIXO
+Inhangapi,PA,12009.0,0,BAIXO
+Ipixuna Do Para,PA,67170.0,0,BAIXO
+Irituia,PA,32639.0,0,BAIXO
+Itaituba,PA,101541.0,0,MEDIO
+Itupiranga,PA,53439.0,0,BAIXO
+Jacareacanga,PA,6952.0,0,BAIXO
+Jacunda,PA,60517.0,0,BAIXO
+Juruti,PA,59961.0,0,BAIXO
+Limoeiro Do Ajuru,PA,29623.0,0,BAIXO
+Mae Do Rio,PA,30389.0,0,BAIXO
+Magalhaes Barata,PA,8598.0,0,BAIXO
+Maraba,PA,287664.0,0,MEDIO
+Maracana,PA,29559.0,0,BAIXO
+Marapanim,PA,28563.0,0,BAIXO
+Marituba,PA,135812.0,0,MEDIO
+Medicilandia,PA,32347.0,0,BAIXO
+Melgaco,PA,28121.0,0,BAIXO
+Mocajuba,PA,31917.0,0,BAIXO
+Moju,PA,84251.0,0,BAIXO
+Mojui Dos Campos,PA,16282.0,0,BAIXO
+Monte Alegre,PA,58289.0,0,BAIXO
+Muana,PA,41454.0,0,BAIXO
+Nova Esperanca Do Piria,PA,21519.0,0,BAIXO
+Nova Ipixuna,PA,17027.0,0,BAIXO
+Nova Timboteua,PA,15646.0,0,BAIXO
+Novo Progresso,PA,25769.0,0,BAIXO
+Novo Repartimento,PA,78488.0,0,BAIXO
+Obidos,PA,52473.0,0,BAIXO
+Oeiras Do Para,PA,33182.0,0,BAIXO
+Oriximina,PA,74921.0,0,BAIXO
+Ourem,PA,18079.0,0,BAIXO
+Ourilandia Do Norte,PA,33831.0,0,BAIXO
+Pacaja,PA,49110.0,0,BAIXO
+Palestina Do Para,PA,7575.0,0,BAIXO
+Paragominas,PA,115838.0,0,MEDIO
+Parauapebas,PA,218787.0,0,MEDIO
+Pau D'Arco,PA,5339.0,0,BAIXO
+Peixe-Boi,PA,8084.0,0,BAIXO
+Picarra,PA,12976.0,0,BAIXO
+Placas,PA,32325.0,0,BAIXO
+Ponta De Pedras,PA,32007.0,0,BAIXO
+Portel,PA,63831.0,0,BAIXO
+Porto De Moz,PA,42456.0,0,BAIXO
+Prainha,PA,29827.0,0,BAIXO
+Primavera,PA,10889.0,0,BAIXO
+Quatipuru,PA,13794.0,0,BAIXO
+Redencao,PA,86326.0,0,BAIXO
+Rio Maria,PA,18208.0,0,BAIXO
+Rondon Do Para,PA,53242.0,0,BAIXO
+Ruropolis,PA,52473.0,0,BAIXO
+Salinopolis,PA,41164.0,0,BAIXO
+Salvaterra,PA,24392.0,0,BAIXO
+Santa Barbara Do Para,PA,21811.0,0,BAIXO
+Santa Cruz Do Arari,PA,10496.0,0,BAIXO
+Santa Izabel Do Para,PA,72856.0,0,BAIXO
+Santa Luzia Do Para,PA,19839.0,0,BAIXO
+Santa Maria Das Barreiras,PA,22244.0,0,BAIXO
+Santa Maria Do Para,PA,25127.0,0,BAIXO
+Santana Do Araguaia,PA,75995.0,0,BAIXO
+Santarem,PA,308339.0,0,MEDIO
+Santarem Novo,PA,6796.0,0,BAIXO
+Santo Antonio Do Taua,PA,32346.0,0,BAIXO
+Sao Caetano De Odivelas,PA,18207.0,0,BAIXO
+Sao Domingos Do Araguaia,PA,25945.0,0,BAIXO
+Sao Domingos Do Capim,PA,32285.0,0,BAIXO
+Sao Felix Do Xingu,PA,135732.0,0,MEDIO
+Sao Francisco Do Para,PA,15978.0,0,BAIXO
+Sao Geraldo Do Araguaia,PA,24566.0,0,BAIXO
+Sao Joao Da Ponta,PA,6294.0,0,BAIXO
+Sao Joao De Pirabas,PA,23440.0,0,BAIXO
+Sao Joao Do Araguaia,PA,14105.0,0,BAIXO
+Sao Miguel Do Guama,PA,60268.0,0,BAIXO
+Sao Sebastiao Da Boa Vista,PA,27302.0,0,BAIXO
+Sapucaia,PA,6088.0,0,BAIXO
+Senador Jose Porfirio,PA,11305.0,0,BAIXO
+Soure,PA,25752.0,0,BAIXO
+Tailandia,PA,111554.0,0,MEDIO
+Terra Alta,PA,11971.0,0,BAIXO
+Terra Santa,PA,19063.0,0,BAIXO
+Tome-Acu,PA,64604.0,0,BAIXO
+Tracuateua,PA,31549.0,0,BAIXO
+Trairao,PA,19344.0,0,BAIXO
+Tucuma,PA,40661.0,0,BAIXO
+Tucurui,PA,116605.0,0,MEDIO
+Ulianopolis,PA,62286.0,0,BAIXO
+Uruara,PA,45395.0,0,BAIXO
+Vigia,PA,54650.0,0,BAIXO
+Viseu,PA,62093.0,0,BAIXO
+Vitoria Do Xingu,PA,15421.0,0,BAIXO
+Xinguara,PA,45416.0,0,BAIXO
+Serra Do Navio,AP,5577.0,0,BAIXO
+Amapa,AP,9265.0,0,BAIXO
+Pedra Branca Do Amapari,AP,17625.0,0,BAIXO
+Calcoene,AP,11493.0,0,BAIXO
+Cutias,AP,6217.0,0,BAIXO
+Ferreira Gomes,AP,8151.0,0,BAIXO
+Itaubal,AP,5730.0,0,BAIXO
+Laranjal Do Jari,AP,52302.0,0,BAIXO
+Macapa,AP,522357.0,1,ALTO
+Mazagao,AP,22468.0,0,BAIXO
+Oiapoque,AP,28534.0,0,BAIXO
+Porto Grande,AP,22927.0,0,BAIXO
+Pracuuba,AP,5370.0,0,BAIXO
+Santana,AP,124808.0,0,MEDIO
+Tartarugalzinho,AP,18217.0,0,BAIXO
+Vitoria Do Jari,AP,16572.0,0,BAIXO
+Abreulandia,TO,2609.0,0,BAIXO
+Aguiarnopolis,TO,7049.0,0,BAIXO
+Alianca Do Tocantins,TO,5303.0,0,BAIXO
+Almas,TO,6905.0,0,BAIXO
+Alvorada,TO,8381.0,0,BAIXO
+Ananas,TO,9435.0,0,BAIXO
+Angico,TO,3475.0,0,BAIXO
+Aparecida Do Rio Negro,TO,4901.0,0,BAIXO
+Aragominas,TO,5705.0,0,BAIXO
+Araguacema,TO,7223.0,0,BAIXO
+Araguacu,TO,8418.0,0,BAIXO
+Araguaina,TO,186245.0,0,MEDIO
+Araguana,TO,5856.0,0,BAIXO
+Araguatins,TO,36573.0,0,BAIXO
+Arapoema,TO,6590.0,0,BAIXO
+Arraias,TO,10502.0,0,BAIXO
+Augustinopolis,TO,18870.0,0,BAIXO
+Aurora Do Tocantins,TO,3809.0,0,BAIXO
+Axixa Do Tocantins,TO,9817.0,0,BAIXO
+Babaculandia,TO,10668.0,0,BAIXO
+Bandeirantes Do Tocantins,TO,3631.0,0,BAIXO
+Barra Do Ouro,TO,4673.0,0,BAIXO
+Barrolandia,TO,5669.0,0,BAIXO
+Bernardo Sayao,TO,4439.0,0,BAIXO
+Bom Jesus Do Tocantins,TO,5120.0,0,BAIXO
+Brasilandia Do Tocantins,TO,2221.0,0,BAIXO
+Brejinho De Nazare,TO,5540.0,0,BAIXO
+Buriti Do Tocantins,TO,11644.0,0,BAIXO
+Cachoeirinha,TO,2293.0,0,BAIXO
+Campos Lindos,TO,10505.0,0,BAIXO
+Cariri Do Tocantins,TO,4499.0,0,BAIXO
+Carmolandia,TO,2627.0,0,BAIXO
+Carrasco Bonito,TO,4165.0,0,BAIXO
+Caseara,TO,5514.0,0,BAIXO
+Centenario,TO,2966.0,0,BAIXO
+Chapada De Areia,TO,1415.0,0,BAIXO
+Chapada Da Natividade,TO,3330.0,0,BAIXO
+Colinas Do Tocantins,TO,36271.0,0,BAIXO
+Combinado,TO,4870.0,0,BAIXO
+Conceicao Do Tocantins,TO,4070.0,0,BAIXO
+Couto Magalhaes,TO,5690.0,0,BAIXO
+Cristalandia,TO,7268.0,0,BAIXO
+Crixas Do Tocantins,TO,1749.0,0,BAIXO
+Darcinopolis,TO,6250.0,0,BAIXO
+Dianopolis,TO,22704.0,0,BAIXO
+Divinopolis Do Tocantins,TO,6986.0,0,BAIXO
+Dois Irmaos Do Tocantins,TO,7173.0,0,BAIXO
+Duere,TO,4686.0,0,BAIXO
+Esperantina,TO,11280.0,0,BAIXO
+Fatima,TO,3824.0,0,BAIXO
+Figueiropolis,TO,5222.0,0,BAIXO
+Filadelfia,TO,8892.0,0,BAIXO
+Formoso Do Araguaia,TO,18358.0,0,BAIXO
+Tabocao,TO,2615.0,0,BAIXO
+Goianorte,TO,5136.0,0,BAIXO
+Goiatins,TO,13169.0,0,BAIXO
+Guarai,TO,26403.0,0,BAIXO
+Gurupi,TO,88428.0,0,BAIXO
+Ipueiras,TO,2088.0,0,BAIXO
+Itacaja,TO,7471.0,0,BAIXO
+Itaguatins,TO,5801.0,0,BAIXO
+Itapiratins,TO,3814.0,0,BAIXO
+Itapora Do Tocantins,TO,2412.0,0,BAIXO
+Jau Do Tocantins,TO,3906.0,0,BAIXO
+Juarina,TO,2174.0,0,BAIXO
+Lagoa Da Confusao,TO,13989.0,0,BAIXO
+Lagoa Do Tocantins,TO,4470.0,0,BAIXO
+Lajeado,TO,3199.0,0,BAIXO
+Lavandeira,TO,1984.0,0,BAIXO
+Lizarda,TO,3727.0,0,BAIXO
+Luzinopolis,TO,3200.0,0,BAIXO
+Marianopolis Do Tocantins,TO,5332.0,0,BAIXO
+Mateiros,TO,2773.0,0,BAIXO
+Maurilandia Do Tocantins,TO,3470.0,0,BAIXO
+Miracema Do Tocantins,TO,17628.0,0,BAIXO
+Miranorte,TO,13551.0,0,BAIXO
+Monte Do Carmo,TO,8182.0,0,BAIXO
+Monte Santo Do Tocantins,TO,2311.0,0,BAIXO
+Palmeiras Do Tocantins,TO,6830.0,0,BAIXO
+Muricilandia,TO,3623.0,0,BAIXO
+Natividade,TO,9256.0,0,BAIXO
+Nazare,TO,3772.0,0,BAIXO
+Nova Olinda,TO,12014.0,0,BAIXO
+Nova Rosalandia,TO,4348.0,0,BAIXO
+Novo Acordo,TO,4450.0,0,BAIXO
+Novo Alegre,TO,2332.0,0,BAIXO
+Novo Jardim,TO,2768.0,0,BAIXO
+Oliveira De Fatima,TO,1124.0,0,BAIXO
+Palmeirante,TO,6234.0,0,BAIXO
+Palmeiropolis,TO,7694.0,0,BAIXO
+Paraiso Do Tocantins,TO,52521.0,0,BAIXO
+Parana,TO,10426.0,0,BAIXO
+Pau D'Arco,TO,4885.0,0,BAIXO
+Pedro Afonso,TO,13964.0,0,BAIXO
+Peixe,TO,11996.0,0,BAIXO
+Pequizeiro,TO,5546.0,0,BAIXO
+Colmeia,TO,8078.0,0,BAIXO
+Pindorama Do Tocantins,TO,4414.0,0,BAIXO
+Piraque,TO,3038.0,0,BAIXO
+Pium,TO,7830.0,0,BAIXO
+Ponte Alta Do Bom Jesus,TO,4586.0,0,BAIXO
+Ponte Alta Do Tocantins,TO,8192.0,0,BAIXO
+Porto Alegre Do Tocantins,TO,3200.0,0,BAIXO
+Porto Nacional,TO,53618.0,0,BAIXO
+Praia Norte,TO,8563.0,0,BAIXO
+Presidente Kennedy,TO,3668.0,0,BAIXO
+Pugmil,TO,2746.0,0,BAIXO
+Recursolandia,TO,4389.0,0,BAIXO
+Riachinho,TO,4723.0,0,BAIXO
+Rio Da Conceicao,TO,2211.0,0,BAIXO
+Rio Dos Bois,TO,2879.0,0,BAIXO
+Rio Sono,TO,6498.0,0,BAIXO
+Sampaio,TO,4876.0,0,BAIXO
+Sandolandia,TO,3371.0,0,BAIXO
+Santa Fe Do Araguaia,TO,7678.0,0,BAIXO
+Santa Maria Do Tocantins,TO,3537.0,0,BAIXO
+Santa Rita Do Tocantins,TO,2407.0,0,BAIXO
+Santa Rosa Do Tocantins,TO,4864.0,0,BAIXO
+Santa Tereza Do Tocantins,TO,2928.0,0,BAIXO
+Santa Terezinha Do Tocantins,TO,2530.0,0,BAIXO
+Sao Bento Do Tocantins,TO,5457.0,0,BAIXO
+Sao Felix Do Tocantins,TO,1610.0,0,BAIXO
+Sao Miguel Do Tocantins,TO,12445.0,0,BAIXO
+Sao Salvador Do Tocantins,TO,3106.0,0,BAIXO
+Sao Sebastiao Do Tocantins,TO,4898.0,0,BAIXO
+Sao Valerio,TO,3848.0,0,BAIXO
+Silvanopolis,TO,5452.0,0,BAIXO
+Sitio Novo Do Tocantins,TO,8965.0,0,BAIXO
+Sucupira,TO,2007.0,0,BAIXO
+Taguatinga,TO,16966.0,0,BAIXO
+Taipas Do Tocantins,TO,2183.0,0,BAIXO
+Talisma,TO,2831.0,0,BAIXO
+Palmas,TO,313349.0,1,MEDIO
+Tocantinia,TO,7688.0,0,BAIXO
+Tocantinopolis,TO,22820.0,0,BAIXO
+Tupirama,TO,1952.0,0,BAIXO
+Tupiratins,TO,2785.0,0,BAIXO
+Wanderlandia,TO,11783.0,0,BAIXO
+Xambioa,TO,11500.0,0,BAIXO
+Acailandia,MA,113783.0,0,MEDIO
+Afonso Cunha,MA,6631.0,0,BAIXO
+Agua Doce Do Maranhao,MA,12731.0,0,BAIXO
+Alcantara,MA,22126.0,0,BAIXO
+Aldeias Altas,MA,26979.0,0,BAIXO
+Altamira Do Maranhao,MA,8250.0,0,BAIXO
+Alto Alegre Do Maranhao,MA,28066.0,0,BAIXO
+Alto Alegre Do Pindare,MA,31967.0,0,BAIXO
+Alto Parnaiba,MA,11233.0,0,BAIXO
+Amapa Do Maranhao,MA,7047.0,0,BAIXO
+Amarante Do Maranhao,MA,42017.0,0,BAIXO
+Anajatuba,MA,27170.0,0,BAIXO
+Anapurus,MA,16054.0,0,BAIXO
+Apicum-Acu,MA,17582.0,0,BAIXO
+Araguana,MA,15675.0,0,BAIXO
+Araioses,MA,47095.0,0,BAIXO
+Arame,MA,32825.0,0,BAIXO
+Arari,MA,30014.0,0,BAIXO
+Axixa,MA,12234.0,0,BAIXO
+Bacabal,MA,105094.0,0,MEDIO
+Bacabeira,MA,17446.0,0,BAIXO
+Bacuri,MA,18726.0,0,BAIXO
+Bacurituba,MA,5696.0,0,BAIXO
+Balsas,MA,96951.0,0,BAIXO
+Barao De Grajau,MA,19026.0,0,BAIXO
+Barra Do Corda,MA,88895.0,0,BAIXO
+Barreirinhas,MA,63891.0,0,BAIXO
+Belagua,MA,7586.0,0,BAIXO
+Bela Vista Do Maranhao,MA,11347.0,0,BAIXO
+Benedito Leite,MA,5643.0,0,BAIXO
+Bequimao,MA,21317.0,0,BAIXO
+Bernardo Do Mearim,MA,6102.0,0,BAIXO
+Boa Vista Do Gurupi,MA,8494.0,0,BAIXO
+Bom Jardim,MA,42010.0,0,BAIXO
+Bom Jesus Das Selvas,MA,35095.0,0,BAIXO
+Bom Lugar,MA,16578.0,0,BAIXO
+Brejo,MA,36900.0,0,BAIXO
+Brejo De Areia,MA,8841.0,0,BAIXO
+Buriti,MA,28916.0,0,BAIXO
+Buriti Bravo,MA,23993.0,0,BAIXO
+Buriticupu,MA,73595.0,0,BAIXO
+Buritirana,MA,15503.0,0,BAIXO
+Cachoeira Grande,MA,9524.0,0,BAIXO
+Cajapio,MA,11255.0,0,BAIXO
+Cajari,MA,19521.0,0,BAIXO
+Campestre Do Maranhao,MA,14530.0,0,BAIXO
+Candido Mendes,MA,20376.0,0,BAIXO
+Cantanhede,MA,22236.0,0,BAIXO
+Capinzal Do Norte,MA,10937.0,0,BAIXO
+Carolina,MA,24151.0,0,BAIXO
+Carutapera,MA,24095.0,0,BAIXO
+Caxias,MA,166159.0,0,MEDIO
+Cedral,MA,10711.0,0,BAIXO
+Central Do Maranhao,MA,8806.0,0,BAIXO
+Centro Do Guilherme,MA,13876.0,0,BAIXO
+Centro Novo Do Maranhao,MA,22056.0,0,BAIXO
+Chapadinha,MA,80705.0,0,BAIXO
+Cidelandia,MA,14855.0,0,BAIXO
+Codo,MA,123368.0,0,MEDIO
+Coelho Neto,MA,49804.0,0,BAIXO
+Colinas,MA,41443.0,0,BAIXO
+Conceicao Do Lago-Acu,MA,16559.0,0,BAIXO
+Coroata,MA,65788.0,0,BAIXO
+Cururupu,MA,32559.0,0,BAIXO
+Davinopolis,MA,12923.0,0,BAIXO
+Dom Pedro,MA,23393.0,0,BAIXO
+Duque Bacelar,MA,11451.0,0,BAIXO
+Esperantinopolis,MA,16971.0,0,BAIXO
+Estreito,MA,43097.0,0,BAIXO
+Feira Nova Do Maranhao,MA,8506.0,0,BAIXO
+Fernando Falcao,MA,10559.0,0,BAIXO
+Formosa Da Serra Negra,MA,19425.0,0,BAIXO
+Fortaleza Dos Nogueiras,MA,12662.0,0,BAIXO
+Fortuna,MA,17812.0,0,BAIXO
+Godofredo Viana,MA,12104.0,0,BAIXO
+Goncalves Dias,MA,17953.0,0,BAIXO
+Governador Archer,MA,10931.0,0,BAIXO
+Governador Edison Lobao,MA,18740.0,0,BAIXO
+Governador Eugenio Barros,MA,14703.0,0,BAIXO
+Governador Luiz Rocha,MA,7878.0,0,BAIXO
+Governador Newton Bello,MA,10121.0,0,BAIXO
+Governador Nunes Freire,MA,25502.0,0,BAIXO
+Graca Aranha,MA,6261.0,0,BAIXO
+Grajau,MA,70692.0,0,BAIXO
+Guimaraes,MA,11966.0,0,BAIXO
+Humberto De Campos,MA,29143.0,0,BAIXO
+Icatu,MA,27423.0,0,BAIXO
+Igarape Do Meio,MA,14470.0,0,BAIXO
+Igarape Grande,MA,11453.0,0,BAIXO
+Imperatriz,MA,259980.0,0,MEDIO
+Itaipava Do Grajau,MA,16158.0,0,BAIXO
+Itapecuru Mirim,MA,69233.0,0,BAIXO
+Itinga Do Maranhao,MA,26134.0,0,BAIXO
+Jatoba,MA,10464.0,0,BAIXO
+Jenipapo Dos Vieiras,MA,17123.0,0,BAIXO
+Joao Lisboa,MA,23677.0,0,BAIXO
+Joselandia,MA,16228.0,0,BAIXO
+Junco Do Maranhao,MA,4334.0,0,BAIXO
+Lago Da Pedra,MA,50959.0,0,BAIXO
+Lago Do Junco,MA,10900.0,0,BAIXO
+Lago Verde,MA,16369.0,0,BAIXO
+Lagoa Do Mato,MA,11280.0,0,BAIXO
+Lago Dos Rodrigues,MA,8841.0,0,BAIXO
+Lagoa Grande Do Maranhao,MA,11534.0,0,BAIXO
+Lajeado Novo,MA,7653.0,0,BAIXO
+Lima Campos,MA,11943.0,0,BAIXO
+Loreto,MA,12271.0,0,BAIXO
+Luis Domingues,MA,7016.0,0,BAIXO
+Magalhaes De Almeida,MA,20228.0,0,BAIXO
+Maracacume,MA,21773.0,0,BAIXO
+Maraja Do Sena,MA,7757.0,0,BAIXO
+Maranhaozinho,MA,16754.0,0,BAIXO
+Mata Roma,MA,17122.0,0,BAIXO
+Matinha,MA,23591.0,0,BAIXO
+Matoes,MA,34099.0,0,BAIXO
+Matoes Do Norte,MA,17316.0,0,BAIXO
+Milagres Do Maranhao,MA,8502.0,0,BAIXO
+Mirador,MA,21045.0,0,BAIXO
+Miranda Do Norte,MA,29121.0,0,BAIXO
+Mirinzal,MA,15059.0,0,BAIXO
+Moncao,MA,33888.0,0,BAIXO
+Montes Altos,MA,9064.0,0,BAIXO
+Morros,MA,19708.0,0,BAIXO
+Nina Rodrigues,MA,14826.0,0,BAIXO
+Nova Colinas,MA,5469.0,0,BAIXO
+Nova Iorque,MA,4682.0,0,BAIXO
+Nova Olinda Do Maranhao,MA,21228.0,0,BAIXO
+Olho D'Agua Das Cunhas,MA,19616.0,0,BAIXO
+Olinda Nova Do Maranhao,MA,14968.0,0,BAIXO
+Paco Do Lumiar,MA,125265.0,0,MEDIO
+Palmeirandia,MA,19840.0,0,BAIXO
+Paraibano,MA,21571.0,0,BAIXO
+Parnarama,MA,35108.0,0,BAIXO
+Passagem Franca,MA,19253.0,0,BAIXO
+Pastos Bons,MA,19693.0,0,BAIXO
+Paulino Neves,MA,16295.0,0,BAIXO
+Paulo Ramos,MA,21092.0,0,BAIXO
+Pedreiras,MA,39153.0,0,BAIXO
+Pedro Do Rosario,MA,25560.0,0,BAIXO
+Penalva,MA,38987.0,0,BAIXO
+Peri Mirim,MA,14371.0,0,BAIXO
+Peritoro,MA,23530.0,0,BAIXO
+Pindare-Mirim,MA,33186.0,0,BAIXO
+Pinheiro,MA,84160.0,0,BAIXO
+Pio Xii,MA,21274.0,0,BAIXO
+Pirapemas,MA,18814.0,0,BAIXO
+Pocao De Pedras,MA,17321.0,0,BAIXO
+Porto Franco,MA,24294.0,0,BAIXO
+Porto Rico Do Maranhao,MA,5936.0,0,BAIXO
+Presidente Dutra,MA,48264.0,0,BAIXO
+Presidente Juscelino,MA,12939.0,0,BAIXO
+Presidente Medici,MA,7124.0,0,BAIXO
+Presidente Sarney,MA,19217.0,0,BAIXO
+Presidente Vargas,MA,11328.0,0,BAIXO
+Primeira Cruz,MA,15545.0,0,BAIXO
+Raposa,MA,31586.0,0,BAIXO
+Riachao,MA,20288.0,0,BAIXO
+Ribamar Fiquene,MA,7859.0,0,BAIXO
+Rosario,MA,43243.0,0,BAIXO
+Sambaiba,MA,5686.0,0,BAIXO
+Santa Filomena Do Maranhao,MA,7878.0,0,BAIXO
+Santa Helena,MA,42829.0,0,BAIXO
+Santa Ines,MA,89927.0,0,BAIXO
+Santa Luzia,MA,73105.0,0,BAIXO
+Santa Luzia Do Parua,MA,25487.0,0,BAIXO
+Santa Quiteria Do Maranhao,MA,25884.0,0,BAIXO
+Santa Rita,MA,38732.0,0,BAIXO
+Santana Do Maranhao,MA,13704.0,0,BAIXO
+Santo Amaro Do Maranhao,MA,16219.0,0,BAIXO
+Santo Antonio Dos Lopes,MA,14516.0,0,BAIXO
+Sao Benedito Do Rio Preto,MA,18769.0,0,BAIXO
+Sao Bento,MA,45989.0,0,BAIXO
+Sao Bernardo,MA,28825.0,0,BAIXO
+Sao Domingos Do Azeitao,MA,7448.0,0,BAIXO
+Sao Domingos Do Maranhao,MA,34391.0,0,BAIXO
+Sao Felix De Balsas,MA,4540.0,0,BAIXO
+Sao Francisco Do Brejao,MA,12082.0,0,BAIXO
+Sao Francisco Do Maranhao,MA,12226.0,0,BAIXO
+Sao Joao Batista,MA,20736.0,0,BAIXO
+Sao Joao Do Caru,MA,15768.0,0,BAIXO
+Sao Joao Do Paraiso,MA,11207.0,0,BAIXO
+Sao Joao Do Soter,MA,18746.0,0,BAIXO
+Sao Joao Dos Patos,MA,26063.0,0,BAIXO
+Sao Jose De Ribamar,MA,180345.0,0,MEDIO
+Sao Jose Dos Basilios,MA,7639.0,0,BAIXO
+Sao Luis,MA,1115932.0,1,ALTO
+Sao Luis Gonzaga Do Maranhao,MA,18600.0,0,BAIXO
+Sao Mateus Do Maranhao,MA,41750.0,0,BAIXO
+Sao Pedro Da Agua Branca,MA,12779.0,0,BAIXO
+Sao Pedro Dos Crentes,MA,4700.0,0,BAIXO
+Sao Raimundo Das Mangabeiras,MA,19090.0,0,BAIXO
+Sao Raimundo Do Doca Bezerra,MA,5028.0,0,BAIXO
+Sao Roberto,MA,6856.0,0,BAIXO
+Sao Vicente Ferrer,MA,22452.0,0,BAIXO
+Satubinha,MA,14274.0,0,BAIXO
+Senador Alexandre Costa,MA,11285.0,0,BAIXO
+Senador La Rocque,MA,13981.0,0,BAIXO
+Serrano Do Maranhao,MA,10343.0,0,BAIXO
+Sitio Novo,MA,18237.0,0,BAIXO
+Sucupira Do Norte,MA,10631.0,0,BAIXO
+Sucupira Do Riachao,MA,5692.0,0,BAIXO
+Tasso Fragoso,MA,8642.0,0,BAIXO
+Timbiras,MA,29241.0,0,BAIXO
+Timon,MA,171317.0,0,MEDIO
+Trizidela Do Vale,MA,22223.0,0,BAIXO
+Tufilandia,MA,5868.0,0,BAIXO
+Tuntum,MA,42242.0,0,BAIXO
+Turiacu,MA,35811.0,0,BAIXO
+Turilandia,MA,26112.0,0,BAIXO
+Tutoia,MA,59927.0,0,BAIXO
+Urbano Santos,MA,33791.0,0,BAIXO
+Vargem Grande,MA,57813.0,0,BAIXO
+Viana,MA,52852.0,0,BAIXO
+Vila Nova Dos Martirios,MA,13800.0,0,BAIXO
+Vitoria Do Mearim,MA,32956.0,0,BAIXO
+Vitorino Freire,MA,31520.0,0,BAIXO
+Ze Doca,MA,52190.0,0,BAIXO
+Acaua,PI,7119.0,0,BAIXO
+Agricolandia,PI,5123.0,0,BAIXO
+Agua Branca,PI,17525.0,0,BAIXO
+Alagoinha Do Piaui,PI,7678.0,0,BAIXO
+Alegrete Do Piaui,PI,4921.0,0,BAIXO
+Alto Longa,PI,14371.0,0,BAIXO
+Altos,PI,40681.0,0,BAIXO
+Alvorada Do Gurgueia,PI,5469.0,0,BAIXO
+Amarante,PI,17609.0,0,BAIXO
+Angical Do Piaui,PI,6779.0,0,BAIXO
+Anisio De Abreu,PI,9994.0,0,BAIXO
+Antonio Almeida,PI,3175.0,0,BAIXO
+Aroazes,PI,5819.0,0,BAIXO
+Aroeiras Do Itaim,PI,2551.0,0,BAIXO
+Arraial,PI,4713.0,0,BAIXO
+Assuncao Do Piaui,PI,7879.0,0,BAIXO
+Avelino Lopes,PI,11361.0,0,BAIXO
+Baixa Grande Do Ribeiro,PI,11751.0,0,BAIXO
+Barra D'Alcantara,PI,3953.0,0,BAIXO
+Barras,PI,47298.0,0,BAIXO
+Barreiras Do Piaui,PI,3356.0,0,BAIXO
+Barro Duro,PI,7022.0,0,BAIXO
+Batalha,PI,26951.0,0,BAIXO
+Bela Vista Do Piaui,PI,4044.0,0,BAIXO
+Belem Do Piaui,PI,3607.0,0,BAIXO
+Beneditinos,PI,10479.0,0,BAIXO
+Bertolinia,PI,5512.0,0,BAIXO
+Betania Do Piaui,PI,6214.0,0,BAIXO
+Boa Hora,PI,6848.0,0,BAIXO
+Bocaina,PI,4509.0,0,BAIXO
+Bom Jesus,PI,25584.0,0,BAIXO
+Bom Principio Do Piaui,PI,5670.0,0,BAIXO
+Bonfim Do Piaui,PI,5700.0,0,BAIXO
+Boqueirao Do Piaui,PI,6443.0,0,BAIXO
+Brasileira,PI,8364.0,0,BAIXO
+Brejo Do Piaui,PI,3824.0,0,BAIXO
+Buriti Dos Lopes,PI,19832.0,0,BAIXO
+Buriti Dos Montes,PI,8282.0,0,BAIXO
+Cabeceiras Do Piaui,PI,10671.0,0,BAIXO
+Cajazeiras Do Piaui,PI,3586.0,0,BAIXO
+Cajueiro Da Praia,PI,7704.0,0,BAIXO
+Caldeirao Grande Do Piaui,PI,5786.0,0,BAIXO
+Campinas Do Piaui,PI,5628.0,0,BAIXO
+Campo Alegre Do Fidalgo,PI,5093.0,0,BAIXO
+Campo Grande Do Piaui,PI,5987.0,0,BAIXO
+Campo Largo Do Piaui,PI,7342.0,0,BAIXO
+Campo Maior,PI,46950.0,0,BAIXO
+Canavieira,PI,3938.0,0,BAIXO
+Canto Do Buriti,PI,21326.0,0,BAIXO
+Capitao De Campos,PI,11471.0,0,BAIXO
+Capitao Gervasio Oliveira,PI,4127.0,0,BAIXO
+Caracol,PI,11009.0,0,BAIXO
+Caraubas Do Piaui,PI,5910.0,0,BAIXO
+Caridade Do Piaui,PI,5102.0,0,BAIXO
+Castelo Do Piaui,PI,19716.0,0,BAIXO
+Caxingo,PI,5477.0,0,BAIXO
+Cocal,PI,27901.0,0,BAIXO
+Cocal De Telha,PI,4908.0,0,BAIXO
+Cocal Dos Alves,PI,6180.0,0,BAIXO
+Coivaras,PI,4044.0,0,BAIXO
+Colonia Do Gurgueia,PI,6545.0,0,BAIXO
+Colonia Do Piaui,PI,7665.0,0,BAIXO
+Conceicao Do Caninde,PI,4811.0,0,BAIXO
+Coronel Jose Dias,PI,4688.0,0,BAIXO
+Corrente,PI,26771.0,0,BAIXO
+Cristalandia Do Piaui,PI,8350.0,0,BAIXO
+Cristino Castro,PI,10464.0,0,BAIXO
+Curimata,PI,11461.0,0,BAIXO
+Currais,PI,4982.0,0,BAIXO
+Curralinhos,PI,4475.0,0,BAIXO
+Curral Novo Do Piaui,PI,5390.0,0,BAIXO
+Demerval Lobao,PI,13862.0,0,BAIXO
+Dirceu Arcoverde,PI,7046.0,0,BAIXO
+Dom Expedito Lopes,PI,6940.0,0,BAIXO
+Domingos Mourao,PI,4352.0,0,BAIXO
+Dom Inocencio,PI,9574.0,0,BAIXO
+Elesbao Veloso,PI,14550.0,0,BAIXO
+Eliseu Martins,PI,4943.0,0,BAIXO
+Esperantina,PI,39953.0,0,BAIXO
+Fartura Do Piaui,PI,5330.0,0,BAIXO
+Flores Do Piaui,PI,4461.0,0,BAIXO
+Floresta Do Piaui,PI,2561.0,0,BAIXO
+Floriano,PI,60111.0,0,BAIXO
+Francinopolis,PI,5345.0,0,BAIXO
+Francisco Ayres,PI,4300.0,0,BAIXO
+Francisco Macedo,PI,3216.0,0,BAIXO
+Francisco Santos,PI,9423.0,0,BAIXO
+Fronteiras,PI,11690.0,0,BAIXO
+Geminiano,PI,5477.0,0,BAIXO
+Gilbues,PI,10698.0,0,BAIXO
+Guadalupe,PI,10496.0,0,BAIXO
+Guaribas,PI,4573.0,0,BAIXO
+Hugo Napoleao,PI,3880.0,0,BAIXO
+Ilha Grande,PI,9487.0,0,BAIXO
+Inhuma,PI,15330.0,0,BAIXO
+Ipiranga Do Piaui,PI,9863.0,0,BAIXO
+Isaias Coelho,PI,8582.0,0,BAIXO
+Itainopolis,PI,11571.0,0,BAIXO
+Itaueira,PI,11037.0,0,BAIXO
+Jacobina Do Piaui,PI,5718.0,0,BAIXO
+Jaicos,PI,19233.0,0,BAIXO
+Jardim Do Mulato,PI,4522.0,0,BAIXO
+Jatoba Do Piaui,PI,4885.0,0,BAIXO
+Jerumenha,PI,4443.0,0,BAIXO
+Joao Costa,PI,3003.0,0,BAIXO
+Joaquim Pires,PI,14396.0,0,BAIXO
+Joca Marques,PI,5488.0,0,BAIXO
+Jose De Freitas,PI,39457.0,0,BAIXO
+Juazeiro Do Piaui,PI,5491.0,0,BAIXO
+Julio Borges,PI,5653.0,0,BAIXO
+Jurema,PI,4790.0,0,BAIXO
+Lagoinha Do Piaui,PI,2870.0,0,BAIXO
+Lagoa Alegre,PI,8610.0,0,BAIXO
+Lagoa Do Barro Do Piaui,PI,4658.0,0,BAIXO
+Lagoa De Sao Francisco,PI,6795.0,0,BAIXO
+Lagoa Do Piaui,PI,4086.0,0,BAIXO
+Lagoa Do Sitio,PI,5219.0,0,BAIXO
+Landri Sales,PI,5272.0,0,BAIXO
+Luis Correia,PI,30558.0,0,BAIXO
+Luzilandia,PI,25521.0,0,BAIXO
+Madeiro,PI,8372.0,0,BAIXO
+Manoel Emidio,PI,5352.0,0,BAIXO
+Marcolandia,PI,8590.0,0,BAIXO
+Marcos Parente,PI,4546.0,0,BAIXO
+Massape Do Piaui,PI,6456.0,0,BAIXO
+Matias Olimpio,PI,10979.0,0,BAIXO
+Miguel Alves,PI,33901.0,0,BAIXO
+Miguel Leao,PI,1239.0,0,BAIXO
+Milton Brandao,PI,6603.0,0,BAIXO
+Monsenhor Gil,PI,10563.0,0,BAIXO
+Monsenhor Hipolito,PI,7785.0,0,BAIXO
+Monte Alegre Do Piaui,PI,10618.0,0,BAIXO
+Morro Cabeca No Tempo,PI,4527.0,0,BAIXO
+Morro Do Chapeu Do Piaui,PI,6825.0,0,BAIXO
+Murici Dos Portelas,PI,9258.0,0,BAIXO
+Nazare Do Piaui,PI,7307.0,0,BAIXO
+Nazaria,PI,8632.0,0,BAIXO
+Nossa Senhora De Nazare,PI,4911.0,0,BAIXO
+Nossa Senhora Dos Remedios,PI,8751.0,0,BAIXO
+Novo Oriente Do Piaui,PI,6548.0,0,BAIXO
+Novo Santo Antonio,PI,3014.0,0,BAIXO
+Oeiras,PI,37138.0,0,BAIXO
+Olho D'Agua Do Piaui,PI,2477.0,0,BAIXO
+Padre Marcos,PI,6879.0,0,BAIXO
+Paes Landim,PI,4124.0,0,BAIXO
+Pajeu Do Piaui,PI,3416.0,0,BAIXO
+Palmeira Do Piaui,PI,5029.0,0,BAIXO
+Palmeirais,PI,14633.0,0,BAIXO
+Paqueta,PI,3931.0,0,BAIXO
+Parnagua,PI,10846.0,0,BAIXO
+Parnaiba,PI,153863.0,0,MEDIO
+Passagem Franca Do Piaui,PI,4331.0,0,BAIXO
+Patos Do Piaui,PI,6420.0,0,BAIXO
+Pau D'Arco Do Piaui,PI,4084.0,0,BAIXO
+Paulistana,PI,20583.0,0,BAIXO
+Pavussu,PI,3662.0,0,BAIXO
+Pedro Ii,PI,38812.0,0,BAIXO
+Pedro Laurentino,PI,2551.0,0,BAIXO
+Nova Santa Rita,PI,4392.0,0,BAIXO
+Picos,PI,78627.0,0,BAIXO
+Pimenteiras,PI,12150.0,0,BAIXO
+Pio Ix,PI,18492.0,0,BAIXO
+Piracuruca,PI,28952.0,0,BAIXO
+Piripiri,PI,63829.0,0,BAIXO
+Porto,PI,12646.0,0,BAIXO
+Porto Alegre Do Piaui,PI,2728.0,0,BAIXO
+Prata Do Piaui,PI,3149.0,0,BAIXO
+Queimada Nova,PI,9041.0,0,BAIXO
+Redencao Do Gurgueia,PI,8814.0,0,BAIXO
+Regeneracao,PI,17979.0,0,BAIXO
+Riacho Frio,PI,4306.0,0,BAIXO
+Ribeira Do Piaui,PI,4499.0,0,BAIXO
+Ribeiro Goncalves,PI,7408.0,0,BAIXO
+Rio Grande Do Piaui,PI,6434.0,0,BAIXO
+Santa Cruz Do Piaui,PI,6254.0,0,BAIXO
+Santa Cruz Dos Milagres,PI,4046.0,0,BAIXO
+Santa Filomena,PI,6256.0,0,BAIXO
+Santa Luz,PI,5903.0,0,BAIXO
+Santana Do Piaui,PI,4650.0,0,BAIXO
+Santa Rosa Do Piaui,PI,5254.0,0,BAIXO
+Santo Antonio De Lisboa,PI,6466.0,0,BAIXO
+Santo Antonio Dos Milagres,PI,2172.0,0,BAIXO
+Santo Inacio Do Piaui,PI,3809.0,0,BAIXO
+Sao Braz Do Piaui,PI,4454.0,0,BAIXO
+Sao Felix Do Piaui,PI,2923.0,0,BAIXO
+Sao Francisco De Assis Do Piaui,PI,5801.0,0,BAIXO
+Sao Francisco Do Piaui,PI,6417.0,0,BAIXO
+Sao Goncalo Do Gurgueia,PI,3071.0,0,BAIXO
+Sao Goncalo Do Piaui,PI,5044.0,0,BAIXO
+Sao Joao Da Canabrava,PI,4619.0,0,BAIXO
+Sao Joao Da Fronteira,PI,6084.0,0,BAIXO
+Sao Joao Da Serra,PI,6106.0,0,BAIXO
+Sao Joao Da Varjota,PI,4856.0,0,BAIXO
+Sao Joao Do Arraial,PI,8085.0,0,BAIXO
+Sao Joao Do Piaui,PI,20720.0,0,BAIXO
+Sao Jose Do Divino,PI,5361.0,0,BAIXO
+Sao Jose Do Peixe,PI,3737.0,0,BAIXO
+Sao Jose Do Piaui,PI,6696.0,0,BAIXO
+Sao Juliao,PI,6379.0,0,BAIXO
+Sao Lourenco Do Piaui,PI,4581.0,0,BAIXO
+Sao Luis Do Piaui,PI,2648.0,0,BAIXO
+Sao Miguel Da Baixa Grande,PI,2456.0,0,BAIXO
+Sao Miguel Do Fidalgo,PI,3037.0,0,BAIXO
+Sao Miguel Do Tapuio,PI,17617.0,0,BAIXO
+Sao Pedro Do Piaui,PI,14356.0,0,BAIXO
+Sao Raimundo Nonato,PI,35035.0,0,BAIXO
+Sebastiao Barros,PI,3434.0,0,BAIXO
+Sebastiao Leal,PI,4311.0,0,BAIXO
+Sigefredo Pacheco,PI,10074.0,0,BAIXO
+Simoes,PI,14664.0,0,BAIXO
+Simplicio Mendes,PI,12778.0,0,BAIXO
+Socorro Do Piaui,PI,4557.0,0,BAIXO
+Sussuapara,PI,6801.0,0,BAIXO
+Tamboril Do Piaui,PI,2939.0,0,BAIXO
+Tanque Do Piaui,PI,2781.0,0,BAIXO
+Teresina,PI,871126.0,1,ALTO
+Uniao,PI,44649.0,0,BAIXO
+Urucui,PI,21746.0,0,BAIXO
+Valenca Do Piaui,PI,20940.0,0,BAIXO
+Varzea Branca,PI,4930.0,0,BAIXO
+Varzea Grande,PI,4382.0,0,BAIXO
+Vera Mendes,PI,3082.0,0,BAIXO
+Vila Nova Do Piaui,PI,2935.0,0,BAIXO
+Wall Ferraz,PI,4479.0,0,BAIXO
+Abaiara,CE,11965.0,0,BAIXO
+Acarape,CE,15140.0,0,BAIXO
+Acarau,CE,63556.0,0,BAIXO
+Acopiara,CE,54687.0,0,BAIXO
+Aiuaba,CE,17584.0,0,BAIXO
+Alcantaras,CE,11846.0,0,BAIXO
+Altaneira,CE,7712.0,0,BAIXO
+Alto Santo,CE,16077.0,0,BAIXO
+Amontada,CE,44195.0,0,BAIXO
+Antonina Do Norte,CE,7402.0,0,BAIXO
+Apuiares,CE,14742.0,0,BAIXO
+Aquiraz,CE,81581.0,0,BAIXO
+Aracati,CE,75392.0,0,BAIXO
+Aracoiaba,CE,26600.0,0,BAIXO
+Ararenda,CE,10983.0,0,BAIXO
+Araripe,CE,21707.0,0,BAIXO
+Aratuba,CE,11759.0,0,BAIXO
+Arneiroz,CE,7848.0,0,BAIXO
+Assare,CE,23537.0,0,BAIXO
+Aurora,CE,24567.0,0,BAIXO
+Baixio,CE,6318.0,0,BAIXO
+Banabuiu,CE,18313.0,0,BAIXO
+Barbalha,CE,61662.0,0,BAIXO
+Barreira,CE,22715.0,0,BAIXO
+Barro,CE,22834.0,0,BAIXO
+Barroquinha,CE,15069.0,0,BAIXO
+Baturite,CE,36127.0,0,BAIXO
+Beberibe,CE,54315.0,0,BAIXO
+Bela Cruz,CE,32851.0,0,BAIXO
+Boa Viagem,CE,54680.0,0,BAIXO
+Brejo Santo,CE,50195.0,0,BAIXO
+Camocim,CE,64147.0,0,BAIXO
+Campos Sales,CE,27513.0,0,BAIXO
+Caninde,CE,77484.0,0,BAIXO
+Capistrano,CE,17830.0,0,BAIXO
+Caridade,CE,23011.0,0,BAIXO
+Carire,CE,18470.0,0,BAIXO
+Caririacu,CE,27008.0,0,BAIXO
+Carius,CE,18700.0,0,BAIXO
+Carnaubal,CE,17763.0,0,BAIXO
+Cascavel,CE,72706.0,0,BAIXO
+Catarina,CE,21041.0,0,BAIXO
+Catunda,CE,10410.0,0,BAIXO
+Caucaia,CE,368918.0,0,MEDIO
+Cedro,CE,25612.0,0,BAIXO
+Chaval,CE,13112.0,0,BAIXO
+Choro,CE,13608.0,0,BAIXO
+Chorozinho,CE,20286.0,0,BAIXO
+Coreau,CE,23340.0,0,BAIXO
+Crateus,CE,75241.0,0,BAIXO
+Crato,CE,133913.0,0,MEDIO
+Croata,CE,18201.0,0,BAIXO
+Cruz,CE,25121.0,0,BAIXO
+Deputado Irapuan Pinheiro,CE,9698.0,0,BAIXO
+Erere,CE,7254.0,0,BAIXO
+Eusebio,CE,55035.0,0,BAIXO
+Farias Brito,CE,19330.0,0,BAIXO
+Forquilha,CE,24680.0,0,BAIXO
+Fortaleza,CE,2703391.0,1,ALTO
+Fortim,CE,16776.0,0,BAIXO
+Frecheirinha,CE,14195.0,0,BAIXO
+General Sampaio,CE,7767.0,0,BAIXO
+Graca,CE,14415.0,0,BAIXO
+Granja,CE,55170.0,0,BAIXO
+Granjeiro,CE,4784.0,0,BAIXO
+Groairas,CE,11219.0,0,BAIXO
+Guaiuba,CE,26508.0,0,BAIXO
+Guaraciaba Do Norte,CE,40921.0,0,BAIXO
+Guaramiranga,CE,5073.0,0,BAIXO
+Hidrolandia,CE,20126.0,0,BAIXO
+Horizonte,CE,69688.0,0,BAIXO
+Ibaretama,CE,13385.0,0,BAIXO
+Ibiapina,CE,25165.0,0,BAIXO
+Ibicuitinga,CE,12730.0,0,BAIXO
+Icapui,CE,20183.0,0,BAIXO
+Ico,CE,68303.0,0,BAIXO
+Iguatu,CE,103633.0,0,MEDIO
+Independencia,CE,26196.0,0,BAIXO
+Ipaporanga,CE,11597.0,0,BAIXO
+Ipaumirim,CE,12507.0,0,BAIXO
+Ipu,CE,42148.0,0,BAIXO
+Ipueiras,CE,38064.0,0,BAIXO
+Iracema,CE,14351.0,0,BAIXO
+Iraucuba,CE,24450.0,0,BAIXO
+Itaicaba,CE,7904.0,0,BAIXO
+Itaitinga,CE,38661.0,0,BAIXO
+Itapaje,CE,53448.0,0,BAIXO
+Itapipoca,CE,131687.0,0,MEDIO
+Itapiuna,CE,20653.0,0,BAIXO
+Itarema,CE,42595.0,0,BAIXO
+Itatira,CE,22018.0,0,BAIXO
+Jaguaretama,CE,18133.0,0,BAIXO
+Jaguaribara,CE,11580.0,0,BAIXO
+Jaguaribe,CE,34592.0,0,BAIXO
+Jaguaruana,CE,33960.0,0,BAIXO
+Jardim,CE,27187.0,0,BAIXO
+Jati,CE,8150.0,0,BAIXO
+Jijoca De Jericoacoara,CE,20351.0,0,BAIXO
+Juazeiro Do Norte,CE,278264.0,0,MEDIO
+Jucas,CE,24949.0,0,BAIXO
+Lavras Da Mangabeira,CE,31476.0,0,BAIXO
+Limoeiro Do Norte,CE,60232.0,0,BAIXO
+Madalena,CE,20031.0,0,BAIXO
+Maracanau,CE,230986.0,0,MEDIO
+Maranguape,CE,131677.0,0,MEDIO
+Marco,CE,27822.0,0,BAIXO
+Martinopole,CE,11407.0,0,BAIXO
+Massape,CE,39341.0,0,BAIXO
+Mauriti,CE,48370.0,0,BAIXO
+Meruoca,CE,15309.0,0,BAIXO
+Milagres,CE,27413.0,0,BAIXO
+Milha,CE,13129.0,0,BAIXO
+Miraima,CE,13965.0,0,BAIXO
+Missao Velha,CE,35566.0,0,BAIXO
+Mombaca,CE,43917.0,0,BAIXO
+Monsenhor Tabosa,CE,17264.0,0,BAIXO
+Morada Nova,CE,61590.0,0,BAIXO
+Moraujo,CE,8833.0,0,BAIXO
+Morrinhos,CE,22830.0,0,BAIXO
+Mucambo,CE,14561.0,0,BAIXO
+Mulungu,CE,11056.0,0,BAIXO
+Nova Olinda,CE,15798.0,0,BAIXO
+Nova Russas,CE,32487.0,0,BAIXO
+Novo Oriente,CE,28737.0,0,BAIXO
+Ocara,CE,25958.0,0,BAIXO
+Oros,CE,21342.0,0,BAIXO
+Pacajus,CE,74145.0,0,BAIXO
+Pacatuba,CE,85647.0,0,BAIXO
+Pacoti,CE,12313.0,0,BAIXO
+Pacuja,CE,6565.0,0,BAIXO
+Palhano,CE,9458.0,0,BAIXO
+Palmacia,CE,13553.0,0,BAIXO
+Paracuru,CE,35526.0,0,BAIXO
+Paraipaba,CE,33232.0,0,BAIXO
+Parambu,CE,31391.0,0,BAIXO
+Paramoti,CE,12276.0,0,BAIXO
+Pedra Branca,CE,43359.0,0,BAIXO
+Penaforte,CE,9207.0,0,BAIXO
+Pentecoste,CE,38045.0,0,BAIXO
+Pereiro,CE,16356.0,0,BAIXO
+Pindoretama,CE,20964.0,0,BAIXO
+Piquet Carneiro,CE,17210.0,0,BAIXO
+Pires Ferreira,CE,11052.0,0,BAIXO
+Poranga,CE,12358.0,0,BAIXO
+Porteiras,CE,14920.0,0,BAIXO
+Potengi,CE,11165.0,0,BAIXO
+Potiretama,CE,6455.0,0,BAIXO
+Quiterianopolis,CE,21246.0,0,BAIXO
+Quixada,CE,88899.0,0,BAIXO
+Quixelo,CE,16116.0,0,BAIXO
+Quixeramobim,CE,82455.0,0,BAIXO
+Quixere,CE,22432.0,0,BAIXO
+Redencao,CE,29238.0,0,BAIXO
+Reriutaba,CE,18279.0,0,BAIXO
+Russas,CE,79550.0,0,BAIXO
+Saboeiro,CE,15757.0,0,BAIXO
+Salitre,CE,16714.0,0,BAIXO
+Santana Do Acarau,CE,32851.0,0,BAIXO
+Santana Do Cariri,CE,17726.0,0,BAIXO
+Santa Quiteria,CE,43719.0,0,BAIXO
+Sao Benedito,CE,48354.0,0,BAIXO
+Sao Goncalo Do Amarante,CE,49306.0,0,BAIXO
+Sao Joao Do Jaguaribe,CE,7557.0,0,BAIXO
+Sao Luis Do Curu,CE,13086.0,0,BAIXO
+Senador Pompeu,CE,25418.0,0,BAIXO
+Senador Sa,CE,7758.0,0,BAIXO
+Sobral,CE,212437.0,0,MEDIO
+Solonopole,CE,18389.0,0,BAIXO
+Tabuleiro Do Norte,CE,32079.0,0,BAIXO
+Tamboril,CE,26199.0,0,BAIXO
+Tarrafas,CE,8555.0,0,BAIXO
+Taua,CE,59259.0,0,BAIXO
+Tejucuoca,CE,19551.0,0,BAIXO
+Tiangua,CE,77111.0,0,BAIXO
+Trairi,CE,56653.0,0,BAIXO
+Tururu,CE,16588.0,0,BAIXO
+Ubajara,CE,35295.0,0,BAIXO
+Umari,CE,7740.0,0,BAIXO
+Umirim,CE,19976.0,0,BAIXO
+Uruburetama,CE,22223.0,0,BAIXO
+Uruoca,CE,13988.0,0,BAIXO
+Varjota,CE,18520.0,0,BAIXO
+Varzea Alegre,CE,41078.0,0,BAIXO
+Vicosa Do Ceara,CE,61916.0,0,BAIXO
+Acari,RN,11106.0,0,BAIXO
+Acu,RN,58743.0,0,BAIXO
+Afonso Bezerra,RN,11024.0,0,BAIXO
+Agua Nova,RN,3293.0,0,BAIXO
+Alexandria,RN,13529.0,0,BAIXO
+Almino Afonso,RN,4685.0,0,BAIXO
+Alto Do Rodrigues,RN,14923.0,0,BAIXO
+Angicos,RN,11695.0,0,BAIXO
+Antonio Martins,RN,7162.0,0,BAIXO
+Apodi,RN,35904.0,0,BAIXO
+Areia Branca,RN,28156.0,0,BAIXO
+Ares,RN,14526.0,0,BAIXO
+Campo Grande,RN,9686.0,0,BAIXO
+Baia Formosa,RN,9373.0,0,BAIXO
+Barauna,RN,29112.0,0,BAIXO
+Barcelona,RN,3989.0,0,BAIXO
+Bento Fernandes,RN,5552.0,0,BAIXO
+Bodo,RN,2171.0,0,BAIXO
+Bom Jesus,RN,10323.0,0,BAIXO
+Brejinho,RN,12873.0,0,BAIXO
+Caicara Do Norte,RN,6572.0,0,BAIXO
+Caicara Do Rio Do Vento,RN,3745.0,0,BAIXO
+Caico,RN,68726.0,0,BAIXO
+Campo Redondo,RN,11363.0,0,BAIXO
+Canguaretama,RN,34814.0,0,BAIXO
+Caraubas,RN,20588.0,0,BAIXO
+Carnauba Dos Dantas,RN,8297.0,0,BAIXO
+Carnaubais,RN,10972.0,0,BAIXO
+Ceara-Mirim,RN,74268.0,0,BAIXO
+Cerro Cora,RN,11182.0,0,BAIXO
+Coronel Ezequiel,RN,5501.0,0,BAIXO
+Coronel Joao Pessoa,RN,4918.0,0,BAIXO
+Cruzeta,RN,7968.0,0,BAIXO
+Currais Novos,RN,45022.0,0,BAIXO
+Doutor Severiano,RN,7068.0,0,BAIXO
+Parnamirim,RN,272490.0,0,MEDIO
+Encanto,RN,5697.0,0,BAIXO
+Equador,RN,6064.0,0,BAIXO
+Espirito Santo,RN,10463.0,0,BAIXO
+Extremoz,RN,29282.0,0,BAIXO
+Felipe Guerra,RN,6009.0,0,BAIXO
+Fernando Pedroza,RN,3081.0,0,BAIXO
+Florania,RN,9772.0,0,BAIXO
+Francisco Dantas,RN,2801.0,0,BAIXO
+Frutuoso Gomes,RN,4015.0,0,BAIXO
+Galinhos,RN,2903.0,0,BAIXO
+Goianinha,RN,27004.0,0,BAIXO
+Governador Dix-Sept Rosado,RN,13115.0,0,BAIXO
+Grossos,RN,10541.0,0,BAIXO
+Guamare,RN,16261.0,0,BAIXO
+Ielmo Marinho,RN,14033.0,0,BAIXO
+Ipanguacu,RN,15759.0,0,BAIXO
+Ipueira,RN,2264.0,0,BAIXO
+Itaja,RN,7641.0,0,BAIXO
+Itau,RN,5916.0,0,BAIXO
+Jacana,RN,9341.0,0,BAIXO
+Jandaira,RN,6907.0,0,BAIXO
+Janduis,RN,5228.0,0,BAIXO
+Januario Cicco,RN,10367.0,0,BAIXO
+Japi,RN,4935.0,0,BAIXO
+Jardim De Angicos,RN,2600.0,0,BAIXO
+Jardim De Piranhas,RN,15044.0,0,BAIXO
+Jardim Do Serido,RN,12397.0,0,BAIXO
+Joao Camara,RN,35360.0,0,BAIXO
+Joao Dias,RN,2653.0,0,BAIXO
+Jose Da Penha,RN,5941.0,0,BAIXO
+Jucurutu,RN,18335.0,0,BAIXO
+Jundia,RN,3945.0,0,BAIXO
+Lagoa D'Anta,RN,6851.0,0,BAIXO
+Lagoa De Pedras,RN,7624.0,0,BAIXO
+Lagoa De Velhos,RN,2732.0,0,BAIXO
+Lagoa Nova,RN,15880.0,0,BAIXO
+Lagoa Salgada,RN,8348.0,0,BAIXO
+Lajes,RN,11410.0,0,BAIXO
+Lajes Pintadas,RN,4768.0,0,BAIXO
+Lucrecia,RN,4053.0,0,BAIXO
+Luis Gomes,RN,10175.0,0,BAIXO
+Macaiba,RN,82828.0,0,BAIXO
+Macau,RN,32260.0,0,BAIXO
+Major Sales,RN,4102.0,0,BAIXO
+Marcelino Vieira,RN,8325.0,0,BAIXO
+Martins,RN,8790.0,0,BAIXO
+Maxaranguape,RN,12714.0,0,BAIXO
+Messias Targino,RN,4665.0,0,BAIXO
+Montanhas,RN,11166.0,0,BAIXO
+Monte Alegre,RN,22698.0,0,BAIXO
+Monte Das Gameleiras,RN,2063.0,0,BAIXO
+Mossoro,RN,303792.0,0,MEDIO
+Natal,RN,896708.0,1,ALTO
+Nisia Floresta,RN,28266.0,0,BAIXO
+Nova Cruz,RN,37554.0,0,BAIXO
+Olho D'Agua Do Borges,RN,4231.0,0,BAIXO
+Ouro Branco,RN,4813.0,0,BAIXO
+Parana,RN,4298.0,0,BAIXO
+Parau,RN,3732.0,0,BAIXO
+Parazinho,RN,5307.0,0,BAIXO
+Parelhas,RN,21611.0,0,BAIXO
+Rio Do Fogo,RN,10961.0,0,BAIXO
+Passa E Fica,RN,13667.0,0,BAIXO
+Passagem,RN,3114.0,0,BAIXO
+Patu,RN,12861.0,0,BAIXO
+Santa Maria,RN,5689.0,0,BAIXO
+Pau Dos Ferros,RN,30802.0,0,BAIXO
+Pedra Grande,RN,3163.0,0,BAIXO
+Pedra Preta,RN,2419.0,0,BAIXO
+Pedro Avelino,RN,6591.0,0,BAIXO
+Pedro Velho,RN,14881.0,0,BAIXO
+Pendencias,RN,15411.0,0,BAIXO
+Piloes,RN,3900.0,0,BAIXO
+Poco Branco,RN,15646.0,0,BAIXO
+Portalegre,RN,7944.0,0,BAIXO
+Porto Do Mangue,RN,6605.0,0,BAIXO
+Serra Caiada,RN,10646.0,0,BAIXO
+Pureza,RN,9825.0,0,BAIXO
+Rafael Fernandes,RN,5158.0,0,BAIXO
+Rafael Godeiro,RN,3214.0,0,BAIXO
+Riacho Da Cruz,RN,3648.0,0,BAIXO
+Riacho De Santana,RN,4194.0,0,BAIXO
+Riachuelo,RN,8310.0,0,BAIXO
+Rodolfo Fernandes,RN,4457.0,0,BAIXO
+Tibau,RN,4173.0,0,BAIXO
+Ruy Barbosa,RN,3584.0,0,BAIXO
+Santa Cruz,RN,40295.0,0,BAIXO
+Santana Do Matos,RN,11808.0,0,BAIXO
+Santana Do Serido,RN,2699.0,0,BAIXO
+Santo Antonio,RN,24422.0,0,BAIXO
+Sao Bento Do Norte,RN,2687.0,0,BAIXO
+Sao Bento Do Trairi,RN,4541.0,0,BAIXO
+Sao Fernando,RN,3606.0,0,BAIXO
+Sao Francisco Do Oeste,RN,4281.0,0,BAIXO
+Sao Goncalo Do Amarante,RN,104919.0,0,MEDIO
+Sao Joao Do Sabugi,RN,6221.0,0,BAIXO
+Sao Jose De Mipibu,RN,44566.0,0,BAIXO
+Sao Jose Do Campestre,RN,12901.0,0,BAIXO
+Sao Jose Do Serido,RN,4696.0,0,BAIXO
+Sao Miguel,RN,23789.0,0,BAIXO
+Sao Miguel Do Gostoso,RN,10441.0,0,BAIXO
+Sao Paulo Do Potengi,RN,17858.0,0,BAIXO
+Sao Pedro,RN,5889.0,0,BAIXO
+Sao Rafael,RN,8183.0,0,BAIXO
+Sao Tome,RN,11051.0,0,BAIXO
+Sao Vicente,RN,6476.0,0,BAIXO
+Senador Eloi De Souza,RN,6167.0,0,BAIXO
+Senador Georgino Avelino,RN,4527.0,0,BAIXO
+Serra De Sao Bento,RN,5739.0,0,BAIXO
+Serra Do Mel,RN,12225.0,0,BAIXO
+Serra Negra Do Norte,RN,8105.0,0,BAIXO
+Serrinha,RN,6128.0,0,BAIXO
+Serrinha Dos Pintos,RN,4832.0,0,BAIXO
+Severiano Melo,RN,1743.0,0,BAIXO
+Sitio Novo,RN,5600.0,0,BAIXO
+Taboleiro Grande,RN,2606.0,0,BAIXO
+Taipu,RN,12314.0,0,BAIXO
+Tangara,RN,16008.0,0,BAIXO
+Tenente Ananias,RN,10923.0,0,BAIXO
+Tenente Laurentino Cruz,RN,6085.0,0,BAIXO
+Tibau Do Sul,RN,14694.0,0,BAIXO
+Timbauba Dos Batistas,RN,2427.0,0,BAIXO
+Touros,RN,33716.0,0,BAIXO
+Triunfo Potiguar,RN,3195.0,0,BAIXO
+Umarizal,RN,10485.0,0,BAIXO
+Upanema,RN,14937.0,0,BAIXO
+Varzea,RN,5529.0,0,BAIXO
+Venha-Ver,RN,4232.0,0,BAIXO
+Vera Cruz,RN,12789.0,0,BAIXO
+Vicosa,RN,1731.0,0,BAIXO
+Vila Flor,RN,3217.0,0,BAIXO
+Agua Branca,PB,10375.0,0,BAIXO
+Aguiar,PB,5622.0,0,BAIXO
+Alagoa Grande,PB,28384.0,0,BAIXO
+Alagoa Nova,PB,20992.0,0,BAIXO
+Alagoinha,PB,14629.0,0,BAIXO
+Alcantil,PB,5527.0,0,BAIXO
+Algodao De Jandaira,PB,2588.0,0,BAIXO
+Alhandra,PB,19865.0,0,BAIXO
+Sao Joao Do Rio Do Peixe,PB,18020.0,0,BAIXO
+Amparo,PB,2264.0,0,BAIXO
+Aparecida,PB,8482.0,0,BAIXO
+Aracagi,PB,16857.0,0,BAIXO
+Arara,PB,13613.0,0,BAIXO
+Araruna,PB,20610.0,0,BAIXO
+Areia,PB,22493.0,0,BAIXO
+Areia De Baraunas,PB,2105.0,0,BAIXO
+Areial,PB,7054.0,0,BAIXO
+Aroeiras,PB,19081.0,0,BAIXO
+Assuncao,PB,4067.0,0,BAIXO
+Baia Da Traicao,PB,9197.0,0,BAIXO
+Bananeiras,PB,21220.0,0,BAIXO
+Barauna,PB,5033.0,0,BAIXO
+Barra De Santana,PB,8338.0,0,BAIXO
+Barra De Santa Rosa,PB,15607.0,0,BAIXO
+Barra De Sao Miguel,PB,6095.0,0,BAIXO
+Bayeux,PB,97519.0,0,BAIXO
+Belem,PB,17733.0,0,BAIXO
+Belem Do Brejo Do Cruz,PB,7356.0,0,BAIXO
+Bernardino Batista,PB,3571.0,0,BAIXO
+Boa Ventura,PB,5248.0,0,BAIXO
+Boa Vista,PB,7218.0,0,BAIXO
+Bom Jesus,PB,2588.0,0,BAIXO
+Bom Sucesso,PB,4937.0,0,BAIXO
+Bonito De Santa Fe,PB,12126.0,0,BAIXO
+Boqueirao,PB,17934.0,0,BAIXO
+Igaracy,PB,6092.0,0,BAIXO
+Borborema,PB,5311.0,0,BAIXO
+Brejo Do Cruz,PB,14287.0,0,BAIXO
+Brejo Dos Santos,PB,6479.0,0,BAIXO
+Caapora,PB,22079.0,0,BAIXO
+Cabaceiras,PB,5710.0,0,BAIXO
+Cabedelo,PB,69773.0,0,BAIXO
+Cachoeira Dos Indios,PB,10364.0,0,BAIXO
+Cacimba De Areia,PB,3708.0,0,BAIXO
+Cacimba De Dentro,PB,17169.0,0,BAIXO
+Cacimbas,PB,7225.0,0,BAIXO
+Caicara,PB,7182.0,0,BAIXO
+Cajazeiras,PB,62576.0,0,BAIXO
+Cajazeirinhas,PB,3217.0,0,BAIXO
+Caldas Brandao,PB,6077.0,0,BAIXO
+Camalau,PB,6048.0,0,BAIXO
+Campina Grande,PB,413830.0,0,MEDIO
+Capim,PB,6715.0,0,BAIXO
+Caraubas,PB,4206.0,0,BAIXO
+Carrapateira,PB,2714.0,0,BAIXO
+Casserengue,PB,7530.0,0,BAIXO
+Catingueira,PB,4938.0,0,BAIXO
+Catole Do Rocha,PB,30819.0,0,BAIXO
+Caturite,PB,4898.0,0,BAIXO
+Conceicao,PB,19030.0,0,BAIXO
+Condado,PB,6662.0,0,BAIXO
+Conde,PB,25341.0,0,BAIXO
+Congo,PB,4787.0,0,BAIXO
+Coremas,PB,15438.0,0,BAIXO
+Coxixola,PB,1948.0,0,BAIXO
+Cruz Do Espirito Santo,PB,17599.0,0,BAIXO
+Cubati,PB,7866.0,0,BAIXO
+Cuite,PB,20331.0,0,BAIXO
+Cuitegi,PB,6748.0,0,BAIXO
+Cuite De Mamanguape,PB,6360.0,0,BAIXO
+Curral De Cima,PB,5209.0,0,BAIXO
+Curral Velho,PB,2508.0,0,BAIXO
+Damiao,PB,5409.0,0,BAIXO
+Desterro,PB,8332.0,0,BAIXO
+Vista Serrana,PB,3850.0,0,BAIXO
+Diamante,PB,6506.0,0,BAIXO
+Dona Ines,PB,10375.0,0,BAIXO
+Duas Estradas,PB,3569.0,0,BAIXO
+Emas,PB,3556.0,0,BAIXO
+Esperanca,PB,33386.0,0,BAIXO
+Fagundes,PB,11180.0,0,BAIXO
+Frei Martinho,PB,2989.0,0,BAIXO
+Gado Bravo,PB,8292.0,0,BAIXO
+Guarabira,PB,59389.0,0,BAIXO
+Gurinhem,PB,14125.0,0,BAIXO
+Gurjao,PB,3477.0,0,BAIXO
+Ibiara,PB,5877.0,0,BAIXO
+Imaculada,PB,11877.0,0,BAIXO
+Inga,PB,18184.0,0,BAIXO
+Itabaiana,PB,24363.0,0,BAIXO
+Itaporanga,PB,24960.0,0,BAIXO
+Itapororoca,PB,18978.0,0,BAIXO
+Itatuba,PB,11069.0,0,BAIXO
+Jacarau,PB,14467.0,0,BAIXO
+Jerico,PB,7751.0,0,BAIXO
+Joao Pessoa,PB,825796.0,1,ALTO
+Juarez Tavora,PB,8014.0,0,BAIXO
+Juazeirinho,PB,18422.0,0,BAIXO
+Junco Do Serido,PB,7238.0,0,BAIXO
+Juripiranga,PB,10830.0,0,BAIXO
+Juru,PB,9831.0,0,BAIXO
+Lagoa,PB,4640.0,0,BAIXO
+Lagoa De Dentro,PB,7754.0,0,BAIXO
+Lagoa Seca,PB,27728.0,0,BAIXO
+Lastro,PB,2698.0,0,BAIXO
+Livramento,PB,7274.0,0,BAIXO
+Logradouro,PB,4406.0,0,BAIXO
+Lucena,PB,13344.0,0,BAIXO
+Mae D'Agua,PB,3988.0,0,BAIXO
+Malta,PB,5745.0,0,BAIXO
+Mamanguape,PB,45385.0,0,BAIXO
+Manaira,PB,10988.0,0,BAIXO
+Marcacao,PB,8746.0,0,BAIXO
+Mari,PB,21895.0,0,BAIXO
+Marizopolis,PB,6689.0,0,BAIXO
+Massaranduba,PB,14077.0,0,BAIXO
+Mataraca,PB,8642.0,0,BAIXO
+Matinhas,PB,4528.0,0,BAIXO
+Mato Grosso,PB,2944.0,0,BAIXO
+Matureia,PB,6690.0,0,BAIXO
+Mogeiro,PB,13238.0,0,BAIXO
+Montadas,PB,5806.0,0,BAIXO
+Monte Horebe,PB,4867.0,0,BAIXO
+Monteiro,PB,33638.0,0,BAIXO
+Mulungu,PB,9962.0,0,BAIXO
+Natuba,PB,10449.0,0,BAIXO
+Nazarezinho,PB,7271.0,0,BAIXO
+Nova Floresta,PB,10614.0,0,BAIXO
+Nova Olinda,PB,5892.0,0,BAIXO
+Nova Palmeira,PB,5011.0,0,BAIXO
+Olho D'Agua,PB,6399.0,0,BAIXO
+Olivedos,PB,3989.0,0,BAIXO
+Ouro Velho,PB,3052.0,0,BAIXO
+Parari,PB,1747.0,0,BAIXO
+Passagem,PB,2453.0,0,BAIXO
+Patos,PB,108766.0,0,MEDIO
+Paulista,PB,12411.0,0,BAIXO
+Pedra Branca,PB,3802.0,0,BAIXO
+Pedra Lavrada,PB,7954.0,0,BAIXO
+Pedras De Fogo,PB,28607.0,0,BAIXO
+Pianco,PB,16147.0,0,BAIXO
+Picui,PB,18737.0,0,BAIXO
+Pilar,PB,12036.0,0,BAIXO
+Piloes,PB,6518.0,0,BAIXO
+Piloezinhos,PB,4937.0,0,BAIXO
+Pirpirituba,PB,10590.0,0,BAIXO
+Pitimbu,PB,19478.0,0,BAIXO
+Pocinhos,PB,18848.0,0,BAIXO
+Poco Dantas,PB,3877.0,0,BAIXO
+Poco De Jose De Moura,PB,4366.0,0,BAIXO
+Pombal,PB,32803.0,0,BAIXO
+Prata,PB,4265.0,0,BAIXO
+Princesa Isabel,PB,23749.0,0,BAIXO
+Puxinana,PB,13801.0,0,BAIXO
+Queimadas,PB,44388.0,0,BAIXO
+Quixaba,PB,2009.0,0,BAIXO
+Remigio,PB,19973.0,0,BAIXO
+Pedro Regis,PB,6139.0,0,BAIXO
+Riachao,PB,3650.0,0,BAIXO
+Riachao Do Bacamarte,PB,4562.0,0,BAIXO
+Riachao Do Poco,PB,4571.0,0,BAIXO
+Riacho De Santo Antonio,PB,1999.0,0,BAIXO
+Riacho Dos Cavalos,PB,8555.0,0,BAIXO
+Rio Tinto,PB,24258.0,0,BAIXO
+Salgadinho,PB,3975.0,0,BAIXO
+Salgado De Sao Felix,PB,12123.0,0,BAIXO
+Santa Cecilia,PB,6526.0,0,BAIXO
+Santa Cruz,PB,6579.0,0,BAIXO
+Santa Helena,PB,5853.0,0,BAIXO
+Santa Ines,PB,3591.0,0,BAIXO
+Santa Luzia,PB,15470.0,0,BAIXO
+Santana De Mangueira,PB,5098.0,0,BAIXO
+Santana Dos Garrotes,PB,6942.0,0,BAIXO
+Joca Claudino,PB,2640.0,0,BAIXO
+Santa Rita,PB,138093.0,0,MEDIO
+Santa Teresinha,PB,4550.0,0,BAIXO
+Santo Andre,PB,2496.0,0,BAIXO
+Sao Bento,PB,34650.0,0,BAIXO
+Sao Bentinho,PB,4602.0,0,BAIXO
+Sao Domingos Do Cariri,PB,2645.0,0,BAIXO
+Sao Domingos,PB,3119.0,0,BAIXO
+Sao Francisco,PB,3377.0,0,BAIXO
+Sao Joao Do Cariri,PB,4170.0,0,BAIXO
+Sao Joao Do Tigre,PB,4408.0,0,BAIXO
+Sao Jose Da Lagoa Tapada,PB,7622.0,0,BAIXO
+Sao Jose De Caiana,PB,6394.0,0,BAIXO
+Sao Jose De Espinharas,PB,4631.0,0,BAIXO
+Sao Jose Dos Ramos,PB,6037.0,0,BAIXO
+Sao Jose De Piranhas,PB,20406.0,0,BAIXO
+Sao Jose De Princesa,PB,3898.0,0,BAIXO
+Sao Jose Do Bonfim,PB,3619.0,0,BAIXO
+Sao Jose Do Brejo Do Cruz,PB,1821.0,0,BAIXO
+Sao Jose Do Sabugi,PB,4153.0,0,BAIXO
+Sao Jose Dos Cordeiros,PB,3607.0,0,BAIXO
+Sao Mamede,PB,7682.0,0,BAIXO
+Sao Miguel De Taipu,PB,7450.0,0,BAIXO
+Sao Sebastiao De Lagoa De Roca,PB,11793.0,0,BAIXO
+Sao Sebastiao Do Umbuzeiro,PB,3534.0,0,BAIXO
+Sape,PB,52977.0,0,BAIXO
+Sao Vicente Do Serido,PB,10919.0,0,BAIXO
+Serra Branca,PB,13807.0,0,BAIXO
+Serra Da Raiz,PB,3114.0,0,BAIXO
+Serra Grande,PB,2921.0,0,BAIXO
+Serra Redonda,PB,7001.0,0,BAIXO
+Serraria,PB,6037.0,0,BAIXO
+Sertaozinho,PB,5152.0,0,BAIXO
+Sobrado,PB,7845.0,0,BAIXO
+Solanea,PB,26051.0,0,BAIXO
+Soledade,PB,15211.0,0,BAIXO
+Sossego,PB,3631.0,0,BAIXO
+Sousa,PB,69997.0,0,BAIXO
+Sume,PB,17096.0,0,BAIXO
+Tacima,PB,11024.0,0,BAIXO
+Taperoa,PB,15505.0,0,BAIXO
+Tavares,PB,14791.0,0,BAIXO
+Teixeira,PB,15333.0,0,BAIXO
+Tenorio,PB,3103.0,0,BAIXO
+Triunfo,PB,9473.0,0,BAIXO
+Uirauna,PB,15356.0,0,BAIXO
+Umbuzeiro,PB,9914.0,0,BAIXO
+Varzea,PB,2870.0,0,BAIXO
+Vieiropolis,PB,5395.0,0,BAIXO
+Zabele,PB,2269.0,0,BAIXO
+Abreu E Lima,PE,100698.0,0,MEDIO
+Afogados Da Ingazeira,PE,37546.0,0,BAIXO
+Afranio,PE,19981.0,0,BAIXO
+Agrestina,PE,25240.0,0,BAIXO
+Agua Preta,PE,37386.0,0,BAIXO
+Aguas Belas,PE,43923.0,0,BAIXO
+Alagoinha,PE,14798.0,0,BAIXO
+Alianca,PE,38408.0,0,BAIXO
+Altinho,PE,22996.0,0,BAIXO
+Amaraji,PE,22910.0,0,BAIXO
+Angelim,PE,11301.0,0,BAIXO
+Aracoiaba,PE,20936.0,0,BAIXO
+Araripina,PE,85301.0,0,BAIXO
+Arcoverde,PE,75295.0,0,BAIXO
+Barra De Guabiraba,PE,14632.0,0,BAIXO
+Barreiros,PE,42866.0,0,BAIXO
+Belem De Maria,PE,12169.0,0,BAIXO
+Belem Do Sao Francisco,PE,20730.0,0,BAIXO
+Belo Jardim,PE,76930.0,0,BAIXO
+Betania,PE,12811.0,0,BAIXO
+Bezerros,PE,60960.0,0,BAIXO
+Bodoco,PE,38605.0,0,BAIXO
+Bom Conselho,PE,48975.0,0,BAIXO
+Bom Jardim,PE,40038.0,0,BAIXO
+Bonito,PE,38101.0,0,BAIXO
+Brejao,PE,8981.0,0,BAIXO
+Brejinho,PE,7489.0,0,BAIXO
+Brejo Da Madre De Deus,PE,51696.0,0,BAIXO
+Buenos Aires,PE,13224.0,0,BAIXO
+Buique,PE,59448.0,0,BAIXO
+Cabo De Santo Agostinho,PE,210796.0,0,MEDIO
+Cabrobo,PE,34778.0,0,BAIXO
+Cachoeirinha,PE,20618.0,0,BAIXO
+Caetes,PE,29065.0,0,BAIXO
+Calcado,PE,10983.0,0,BAIXO
+Calumbi,PE,5744.0,0,BAIXO
+Camaragibe,PE,159945.0,0,MEDIO
+Camocim De Sao Felix,PE,19032.0,0,BAIXO
+Camutanga,PE,8592.0,0,BAIXO
+Canhotinho,PE,24743.0,0,BAIXO
+Capoeiras,PE,20048.0,0,BAIXO
+Carnaiba,PE,19666.0,0,BAIXO
+Carnaubeira Da Penha,PE,13117.0,0,BAIXO
+Carpina,PE,85131.0,0,BAIXO
+Caruaru,PE,369343.0,0,MEDIO
+Casinhas,PE,14395.0,0,BAIXO
+Catende,PE,43778.0,0,BAIXO
+Cedro,PE,11972.0,0,BAIXO
+Cha De Alegria,PE,13641.0,0,BAIXO
+Cha Grande,PE,21929.0,0,BAIXO
+Condado,PE,26755.0,0,BAIXO
+Correntes,PE,18327.0,0,BAIXO
+Cortes,PE,12543.0,0,BAIXO
+Cumaru,PE,9494.0,0,BAIXO
+Cupira,PE,24237.0,0,BAIXO
+Custodia,PE,37633.0,0,BAIXO
+Dormentes,PE,19246.0,0,BAIXO
+Escada,PE,69701.0,0,BAIXO
+Exu,PE,31709.0,0,BAIXO
+Feira Nova,PE,22360.0,0,BAIXO
+Fernando De Noronha,PE,3140.0,0,BAIXO
+Ferreiros,PE,12216.0,0,BAIXO
+Flores,PE,22612.0,0,BAIXO
+Floresta,PE,33488.0,0,BAIXO
+Frei Miguelinho,PE,15633.0,0,BAIXO
+Gameleira,PE,31578.0,0,BAIXO
+Garanhuns,PE,141347.0,0,MEDIO
+Gloria Do Goita,PE,30847.0,0,BAIXO
+Goiana,PE,80345.0,0,BAIXO
+Granito,PE,7586.0,0,BAIXO
+Gravata,PE,85309.0,0,BAIXO
+Iati,PE,19284.0,0,BAIXO
+Ibimirim,PE,29585.0,0,BAIXO
+Ibirajuba,PE,7773.0,0,BAIXO
+Igarassu,PE,119690.0,0,MEDIO
+Iguaracy,PE,12265.0,0,BAIXO
+Inaja,PE,24034.0,0,BAIXO
+Ingazeira,PE,4537.0,0,BAIXO
+Ipojuca,PE,99101.0,0,BAIXO
+Ipubi,PE,31515.0,0,BAIXO
+Itacuruba,PE,5013.0,0,BAIXO
+Itaiba,PE,26268.0,0,BAIXO
+Ilha De Itamaraca,PE,27076.0,0,BAIXO
+Itambe,PE,36495.0,0,BAIXO
+Itapetim,PE,13492.0,0,BAIXO
+Itapissuma,PE,27144.0,0,BAIXO
+Itaquitinga,PE,17056.0,0,BAIXO
+Jaboatao Dos Guararapes,PE,711330.0,0,ALTO
+Jaqueira,PE,11632.0,0,BAIXO
+Jatauba,PE,17305.0,0,BAIXO
+Jatoba,PE,14904.0,0,BAIXO
+Joao Alfredo,PE,33570.0,0,BAIXO
+Joaquim Nabuco,PE,15999.0,0,BAIXO
+Jucati,PE,11545.0,0,BAIXO
+Jupi,PE,15007.0,0,BAIXO
+Jurema,PE,15483.0,0,BAIXO
+Lagoa Do Carro,PE,18429.0,0,BAIXO
+Lagoa De Itaenga,PE,21490.0,0,BAIXO
+Lagoa Do Ouro,PE,13300.0,0,BAIXO
+Lagoa Dos Gatos,PE,16345.0,0,BAIXO
+Lagoa Grande,PE,26090.0,0,BAIXO
+Lajedo,PE,40883.0,0,BAIXO
+Limoeiro,PE,56149.0,0,BAIXO
+Macaparana,PE,25565.0,0,BAIXO
+Machados,PE,16549.0,0,BAIXO
+Manari,PE,22110.0,0,BAIXO
+Maraial,PE,11098.0,0,BAIXO
+Mirandiba,PE,15548.0,0,BAIXO
+Moreno,PE,63792.0,0,BAIXO
+Nazare Da Mata,PE,32673.0,0,BAIXO
+Olinda,PE,393734.0,0,MEDIO
+Orobo,PE,23985.0,0,BAIXO
+Oroco,PE,15309.0,0,BAIXO
+Ouricuri,PE,70466.0,0,BAIXO
+Palmares,PE,63745.0,0,BAIXO
+Palmeirina,PE,7509.0,0,BAIXO
+Panelas,PE,26438.0,0,BAIXO
+Paranatama,PE,11608.0,0,BAIXO
+Parnamirim,PE,22198.0,0,BAIXO
+Passira,PE,28856.0,0,BAIXO
+Paudalho,PE,57346.0,0,BAIXO
+Paulista,PE,336919.0,0,MEDIO
+Pedra,PE,22716.0,0,BAIXO
+Pesqueira,PE,68067.0,0,BAIXO
+Petrolandia,PE,37246.0,0,BAIXO
+Petrolina,PE,359372.0,0,MEDIO
+Pocao,PE,11308.0,0,BAIXO
+Pombos,PE,27204.0,0,BAIXO
+Primavera,PE,15231.0,0,BAIXO
+Quipapa,PE,26309.0,0,BAIXO
+Quixaba,PE,6796.0,0,BAIXO
+Recife,PE,1661017.0,1,ALTO
+Riacho Das Almas,PE,20744.0,0,BAIXO
+Ribeirao,PE,47813.0,0,BAIXO
+Rio Formoso,PE,23719.0,0,BAIXO
+Saire,PE,9600.0,0,BAIXO
+Salgadinho,PE,11214.0,0,BAIXO
+Salgueiro,PE,61561.0,0,BAIXO
+Saloa,PE,15880.0,0,BAIXO
+Sanharo,PE,27308.0,0,BAIXO
+Santa Cruz,PE,15713.0,0,BAIXO
+Santa Cruz Da Baixa Verde,PE,12708.0,0,BAIXO
+Santa Cruz Do Capibaribe,PE,111812.0,0,MEDIO
+Santa Filomena,PE,14645.0,0,BAIXO
+Santa Maria Da Boa Vista,PE,42266.0,0,BAIXO
+Santa Maria Do Cambuca,PE,14308.0,0,BAIXO
+Santa Terezinha,PE,11914.0,0,BAIXO
+Sao Benedito Do Sul,PE,16239.0,0,BAIXO
+Sao Bento Do Una,PE,60567.0,0,BAIXO
+Sao Caitano,PE,37488.0,0,BAIXO
+Sao Joao,PE,23002.0,0,BAIXO
+Sao Joaquim Do Monte,PE,21439.0,0,BAIXO
+Sao Jose Da Coroa Grande,PE,21868.0,0,BAIXO
+Sao Jose Do Belmonte,PE,34082.0,0,BAIXO
+Sao Jose Do Egito,PE,34210.0,0,BAIXO
+Sao Lourenco Da Mata,PE,114910.0,0,MEDIO
+Sao Vicente Ferrer,PE,18150.0,0,BAIXO
+Serra Talhada,PE,87467.0,0,BAIXO
+Serrita,PE,19226.0,0,BAIXO
+Sertania,PE,36189.0,0,BAIXO
+Sirinhaem,PE,46845.0,0,BAIXO
+Moreilandia,PE,11269.0,0,BAIXO
+Solidao,PE,6034.0,0,BAIXO
+Surubim,PE,66192.0,0,BAIXO
+Tabira,PE,28860.0,0,BAIXO
+Tacaimbo,PE,12843.0,0,BAIXO
+Tacaratu,PE,26439.0,0,BAIXO
+Tamandare,PE,23852.0,0,BAIXO
+Taquaritinga Do Norte,PE,29472.0,0,BAIXO
+Terezinha,PE,7227.0,0,BAIXO
+Terra Nova,PE,10314.0,0,BAIXO
+Timbauba,PE,52587.0,0,BAIXO
+Toritama,PE,47088.0,0,BAIXO
+Tracunhaem,PE,13856.0,0,BAIXO
+Trindade,PE,31103.0,0,BAIXO
+Triunfo,PE,15232.0,0,BAIXO
+Tupanatinga,PE,27793.0,0,BAIXO
+Tuparetama,PE,8266.0,0,BAIXO
+Venturosa,PE,18835.0,0,BAIXO
+Verdejante,PE,9572.0,0,BAIXO
+Vertente Do Lerio,PE,7526.0,0,BAIXO
+Vertentes,PE,21172.0,0,BAIXO
+Vicencia,PE,32897.0,0,BAIXO
+Vitoria De Santo Antao,PE,140389.0,0,MEDIO
+Xexeu,PE,14789.0,0,BAIXO
+Agua Branca,AL,20263.0,0,BAIXO
+Anadia,AL,17507.0,0,BAIXO
+Arapiraca,AL,234309.0,0,MEDIO
+Atalaia,AL,47540.0,0,BAIXO
+Barra De Santo Antonio,AL,16201.0,0,BAIXO
+Barra De Sao Miguel,AL,8434.0,0,BAIXO
+Batalha,AL,18440.0,0,BAIXO
+Belem,AL,4226.0,0,BAIXO
+Belo Monte,AL,6717.0,0,BAIXO
+Boca Da Mata,AL,27429.0,0,BAIXO
+Branquinha,AL,10426.0,0,BAIXO
+Cacimbinhas,AL,10920.0,0,BAIXO
+Cajueiro,AL,21397.0,0,BAIXO
+Campestre,AL,6972.0,0,BAIXO
+Campo Alegre,AL,57997.0,0,BAIXO
+Campo Grande,AL,9576.0,0,BAIXO
+Canapi,AL,17715.0,0,BAIXO
+Capela,AL,16907.0,0,BAIXO
+Carneiros,AL,9568.0,0,BAIXO
+Cha Preta,AL,7311.0,0,BAIXO
+Coite Do Noia,AL,10594.0,0,BAIXO
+Colonia Leopoldina,AL,21935.0,0,BAIXO
+Coqueiro Seco,AL,5882.0,0,BAIXO
+Coruripe,AL,57647.0,0,BAIXO
+Craibas,AL,24396.0,0,BAIXO
+Delmiro Gouveia,AL,52501.0,0,BAIXO
+Dois Riachos,AL,11059.0,0,BAIXO
+Estrela De Alagoas,AL,18304.0,0,BAIXO
+Feira Grande,AL,22192.0,0,BAIXO
+Feliz Deserto,AL,4803.0,0,BAIXO
+Flexeiras,AL,12823.0,0,BAIXO
+Girau Do Ponciano,AL,41549.0,0,BAIXO
+Ibateguara,AL,15637.0,0,BAIXO
+Igaci,AL,25596.0,0,BAIXO
+Igreja Nova,AL,24670.0,0,BAIXO
+Inhapi,AL,18398.0,0,BAIXO
+Jacare Dos Homens,AL,5185.0,0,BAIXO
+Jacuipe,AL,6992.0,0,BAIXO
+Japaratinga,AL,8444.0,0,BAIXO
+Jaramataia,AL,5751.0,0,BAIXO
+Jequia Da Praia,AL,11495.0,0,BAIXO
+Joaquim Gomes,AL,24167.0,0,BAIXO
+Jundia,AL,4119.0,0,BAIXO
+Junqueiro,AL,24716.0,0,BAIXO
+Lagoa Da Canoa,AL,17692.0,0,BAIXO
+Limoeiro De Anadia,AL,28904.0,0,BAIXO
+Maceio,AL,1031597.0,1,ALTO
+Major Isidoro,AL,19923.0,0,BAIXO
+Maragogi,AL,33351.0,0,BAIXO
+Maravilha,AL,8850.0,0,BAIXO
+Marechal Deodoro,AL,52848.0,0,BAIXO
+Maribondo,AL,13123.0,0,BAIXO
+Mar Vermelho,AL,3474.0,0,BAIXO
+Mata Grande,AL,25200.0,0,BAIXO
+Matriz De Camaragibe,AL,24627.0,0,BAIXO
+Messias,AL,18201.0,0,BAIXO
+Minador Do Negrao,AL,5315.0,0,BAIXO
+Monteiropolis,AL,7171.0,0,BAIXO
+Murici,AL,28428.0,0,BAIXO
+Novo Lino,AL,12837.0,0,BAIXO
+Olho D'Agua Das Flores,AL,21690.0,0,BAIXO
+Olho D'Agua Do Casado,AL,9507.0,0,BAIXO
+Olho D'Agua Grande,AL,5133.0,0,BAIXO
+Olivenca,AL,11681.0,0,BAIXO
+Ouro Branco,AL,11573.0,0,BAIXO
+Palestina,AL,5061.0,0,BAIXO
+Palmeira Dos Indios,AL,73452.0,0,BAIXO
+Pao De Acucar,AL,24307.0,0,BAIXO
+Pariconha,AL,10546.0,0,BAIXO
+Paripueira,AL,13484.0,0,BAIXO
+Passo De Camaragibe,AL,15270.0,0,BAIXO
+Paulo Jacinto,AL,7556.0,0,BAIXO
+Penedo,AL,64005.0,0,BAIXO
+Piacabucu,AL,17868.0,0,BAIXO
+Pilar,AL,35310.0,0,BAIXO
+Pindoba,AL,2903.0,0,BAIXO
+Piranhas,AL,25324.0,0,BAIXO
+Poco Das Trincheiras,AL,14447.0,0,BAIXO
+Porto Calvo,AL,27331.0,0,BAIXO
+Porto De Pedras,AL,7618.0,0,BAIXO
+Porto Real Do Colegio,AL,20158.0,0,BAIXO
+Quebrangulo,AL,11202.0,0,BAIXO
+Rio Largo,AL,75662.0,0,BAIXO
+Roteiro,AL,6634.0,0,BAIXO
+Santa Luzia Do Norte,AL,7344.0,0,BAIXO
+Santana Do Ipanema,AL,47910.0,0,BAIXO
+Santana Do Mundau,AL,10637.0,0,BAIXO
+Sao Bras,AL,6977.0,0,BAIXO
+Sao Jose Da Laje,AL,24064.0,0,BAIXO
+Sao Jose Da Tapera,AL,32462.0,0,BAIXO
+Sao Luis Do Quitunde,AL,34825.0,0,BAIXO
+Sao Miguel Dos Campos,AL,62328.0,0,BAIXO
+Sao Miguel Dos Milagres,AL,8073.0,0,BAIXO
+Sao Sebastiao,AL,34424.0,0,BAIXO
+Satuba,AL,14042.0,0,BAIXO
+Senador Rui Palmeira,AL,13893.0,0,BAIXO
+Tanque D'Arca,AL,6115.0,0,BAIXO
+Taquarana,AL,20162.0,0,BAIXO
+Teotonio Vilela,AL,44570.0,0,BAIXO
+Traipu,AL,27934.0,0,BAIXO
+Uniao Dos Palmares,AL,65963.0,0,BAIXO
+Vicosa,AL,25655.0,0,BAIXO
+Amparo Do Sao Francisco,SE,2386.0,0,BAIXO
+Aquidaba,SE,21796.0,0,BAIXO
+Aracaju,SE,672614.0,1,ALTO
+Araua,SE,9840.0,0,BAIXO
+Areia Branca,SE,18825.0,0,BAIXO
+Barra Dos Coqueiros,SE,31439.0,0,BAIXO
+Boquim,SE,26980.0,0,BAIXO
+Brejo Grande,SE,8396.0,0,BAIXO
+Campo Do Brito,SE,18325.0,0,BAIXO
+Canhoba,SE,4003.0,0,BAIXO
+Caninde De Sao Francisco,SE,30894.0,0,BAIXO
+Capela,SE,34808.0,0,BAIXO
+Carira,SE,22393.0,0,BAIXO
+Carmopolis,SE,17232.0,0,BAIXO
+Cedro De Sao Joao,SE,5929.0,0,BAIXO
+Cristinapolis,SE,18181.0,0,BAIXO
+Cumbe,SE,4008.0,0,BAIXO
+Divina Pastora,SE,5290.0,0,BAIXO
+Estancia,SE,69919.0,0,BAIXO
+Feira Nova,SE,5617.0,0,BAIXO
+Frei Paulo,SE,15688.0,0,BAIXO
+Gararu,SE,11599.0,0,BAIXO
+General Maynard,SE,3421.0,0,BAIXO
+Gracho Cardoso,SE,5831.0,0,BAIXO
+Ilha Das Flores,SE,8522.0,0,BAIXO
+Indiaroba,SE,18337.0,0,BAIXO
+Itabaiana,SE,96839.0,0,BAIXO
+Itabaianinha,SE,42399.0,0,BAIXO
+Itabi,SE,4869.0,0,BAIXO
+Itaporanga D'Ajuda,SE,35054.0,0,BAIXO
+Japaratuba,SE,19067.0,0,BAIXO
+Japoata,SE,13422.0,0,BAIXO
+Lagarto,SE,106015.0,0,MEDIO
+Laranjeiras,SE,30327.0,0,BAIXO
+Macambira,SE,7002.0,0,BAIXO
+Malhada Dos Bois,SE,3715.0,0,BAIXO
+Malhador,SE,12689.0,0,BAIXO
+Maruim,SE,17328.0,0,BAIXO
+Moita Bonita,SE,11361.0,0,BAIXO
+Monte Alegre De Sergipe,SE,15315.0,0,BAIXO
+Muribeca,SE,7653.0,0,BAIXO
+Neopolis,SE,18688.0,0,BAIXO
+Nossa Senhora Aparecida,SE,8822.0,0,BAIXO
+Nossa Senhora Da Gloria,SE,37715.0,0,BAIXO
+Nossa Senhora Das Dores,SE,26957.0,0,BAIXO
+Nossa Senhora De Lourdes,SE,6509.0,0,BAIXO
+Nossa Senhora Do Socorro,SE,187733.0,0,MEDIO
+Pacatuba,SE,14650.0,0,BAIXO
+Pedra Mole,SE,3309.0,0,BAIXO
+Pedrinhas,SE,9727.0,0,BAIXO
+Pinhao,SE,6678.0,0,BAIXO
+Pirambu,SE,9436.0,0,BAIXO
+Poco Redondo,SE,35461.0,0,BAIXO
+Poco Verde,SE,24003.0,0,BAIXO
+Porto Da Folha,SE,28788.0,0,BAIXO
+Propria,SE,29756.0,0,BAIXO
+Riachao Do Dantas,SE,19813.0,0,BAIXO
+Riachuelo,SE,10354.0,0,BAIXO
+Ribeiropolis,SE,18891.0,0,BAIXO
+Rosario Do Catete,SE,11158.0,0,BAIXO
+Salgado,SE,20051.0,0,BAIXO
+Santa Luzia Do Itanhy,SE,14205.0,0,BAIXO
+Santana Do Sao Francisco,SE,7906.0,0,BAIXO
+Santa Rosa De Lima,SE,3933.0,0,BAIXO
+Santo Amaro Das Brotas,SE,12200.0,0,BAIXO
+Sao Cristovao,SE,92090.0,0,BAIXO
+Sao Domingos,SE,11276.0,0,BAIXO
+Sao Francisco,SE,3837.0,0,BAIXO
+Sao Miguel Do Aleixo,SE,3964.0,0,BAIXO
+Simao Dias,SE,40724.0,0,BAIXO
+Siriri,SE,9046.0,0,BAIXO
+Telha,SE,3271.0,0,BAIXO
+Tobias Barreto,SE,52861.0,0,BAIXO
+Tomar Do Geru,SE,13534.0,0,BAIXO
+Umbauba,SE,25800.0,0,BAIXO
+Abaira,BA,8681.0,0,BAIXO
+Abare,BA,20594.0,0,BAIXO
+Acajutiba,BA,15214.0,0,BAIXO
+Adustina,BA,17209.0,0,BAIXO
+Agua Fria,BA,17096.0,0,BAIXO
+Erico Cardoso,BA,10513.0,0,BAIXO
+Aiquara,BA,4387.0,0,BAIXO
+Alagoinhas,BA,153023.0,0,MEDIO
+Alcobaca,BA,22509.0,0,BAIXO
+Almadina,BA,5273.0,0,BAIXO
+Amargosa,BA,37631.0,0,BAIXO
+Amelia Rodrigues,BA,24997.0,0,BAIXO
+America Dourada,BA,16086.0,0,BAIXO
+Anage,BA,21229.0,0,BAIXO
+Andarai,BA,13122.0,0,BAIXO
+Andorinha,BA,14416.0,0,BAIXO
+Angical,BA,13902.0,0,BAIXO
+Anguera,BA,11369.0,0,BAIXO
+Antas,BA,19659.0,0,BAIXO
+Antonio Cardoso,BA,11670.0,0,BAIXO
+Antonio Goncalves,BA,11955.0,0,BAIXO
+Apora,BA,17840.0,0,BAIXO
+Apuarema,BA,7274.0,0,BAIXO
+Aracatu,BA,12960.0,0,BAIXO
+Aracas,BA,12237.0,0,BAIXO
+Araci,BA,54903.0,0,BAIXO
+Aramari,BA,11519.0,0,BAIXO
+Arataca,BA,10904.0,0,BAIXO
+Aratuipe,BA,8848.0,0,BAIXO
+Aurelino Leal,BA,11079.0,0,BAIXO
+Baianopolis,BA,13979.0,0,BAIXO
+Baixa Grande,BA,20431.0,0,BAIXO
+Banzae,BA,13251.0,0,BAIXO
+Barra,BA,54225.0,0,BAIXO
+Barra Da Estiva,BA,20198.0,0,BAIXO
+Barra Do Choca,BA,30831.0,0,BAIXO
+Barra Do Mendes,BA,13128.0,0,BAIXO
+Barra Do Rocha,BA,5515.0,0,BAIXO
+Barreiras,BA,158432.0,0,MEDIO
+Barro Alto,BA,15171.0,0,BAIXO
+Barrocas,BA,16225.0,0,BAIXO
+Barro Preto,BA,5312.0,0,BAIXO
+Belmonte,BA,23540.0,0,BAIXO
+Belo Campo,BA,17013.0,0,BAIXO
+Biritinga,BA,15989.0,0,BAIXO
+Boa Nova,BA,12039.0,0,BAIXO
+Boa Vista Do Tupim,BA,18491.0,0,BAIXO
+Bom Jesus Da Lapa,BA,70151.0,0,BAIXO
+Bom Jesus Da Serra,BA,9768.0,0,BAIXO
+Boninal,BA,14518.0,0,BAIXO
+Bonito,BA,16999.0,0,BAIXO
+Boquira,BA,21486.0,0,BAIXO
+Botupora,BA,10050.0,0,BAIXO
+Brejoes,BA,14155.0,0,BAIXO
+Brejolandia,BA,10675.0,0,BAIXO
+Brotas De Macaubas,BA,10705.0,0,BAIXO
+Brumado,BA,67468.0,0,BAIXO
+Buerarema,BA,18269.0,0,BAIXO
+Buritirama,BA,21374.0,0,BAIXO
+Caatiba,BA,6232.0,0,BAIXO
+Cabaceiras Do Paraguacu,BA,19010.0,0,BAIXO
+Cachoeira,BA,33659.0,0,BAIXO
+Cacule,BA,23407.0,0,BAIXO
+Caem,BA,8912.0,0,BAIXO
+Caetanos,BA,14671.0,0,BAIXO
+Caetite,BA,51184.0,0,BAIXO
+Cafarnaum,BA,18585.0,0,BAIXO
+Cairu,BA,18666.0,0,BAIXO
+Caldeirao Grande,BA,13452.0,0,BAIXO
+Camacan,BA,32023.0,0,BAIXO
+Camacari,BA,309208.0,0,MEDIO
+Camamu,BA,35444.0,0,BAIXO
+Campo Alegre De Lourdes,BA,28839.0,0,BAIXO
+Campo Formoso,BA,71754.0,0,BAIXO
+Canapolis,BA,9694.0,0,BAIXO
+Canarana,BA,26468.0,0,BAIXO
+Canavieiras,BA,30722.0,0,BAIXO
+Candeal,BA,8109.0,0,BAIXO
+Candeias,BA,87820.0,0,BAIXO
+Candiba,BA,14415.0,0,BAIXO
+Candido Sales,BA,24921.0,0,BAIXO
+Cansancao,BA,34929.0,0,BAIXO
+Canudos,BA,16832.0,0,BAIXO
+Capela Do Alto Alegre,BA,11597.0,0,BAIXO
+Capim Grosso,BA,31055.0,0,BAIXO
+Caraibas,BA,8659.0,0,BAIXO
+Caravelas,BA,22166.0,0,BAIXO
+Cardeal Da Silva,BA,9395.0,0,BAIXO
+Carinhanha,BA,29118.0,0,BAIXO
+Casa Nova,BA,73092.0,0,BAIXO
+Castro Alves,BA,26369.0,0,BAIXO
+Catolandia,BA,3619.0,0,BAIXO
+Catu,BA,55222.0,0,BAIXO
+Caturama,BA,9303.0,0,BAIXO
+Central,BA,17293.0,0,BAIXO
+Chorrocho,BA,11221.0,0,BAIXO
+Cicero Dantas,BA,32636.0,0,BAIXO
+Cipo,BA,17402.0,0,BAIXO
+Coaraci,BA,16128.0,0,BAIXO
+Cocos,BA,18835.0,0,BAIXO
+Conceicao Da Feira,BA,22933.0,0,BAIXO
+Conceicao Do Almeida,BA,17087.0,0,BAIXO
+Conceicao Do Coite,BA,67394.0,0,BAIXO
+Conceicao Do Jacuipe,BA,33631.0,0,BAIXO
+Conde,BA,26223.0,0,BAIXO
+Condeuba,BA,17113.0,0,BAIXO
+Contendas Do Sincora,BA,4025.0,0,BAIXO
+Coracao De Maria,BA,22391.0,0,BAIXO
+Cordeiros,BA,8667.0,0,BAIXO
+Coribe,BA,14108.0,0,BAIXO
+Coronel Joao Sa,BA,15549.0,0,BAIXO
+Correntina,BA,32243.0,0,BAIXO
+Cotegipe,BA,13756.0,0,BAIXO
+Cravolandia,BA,5352.0,0,BAIXO
+Crisopolis,BA,21219.0,0,BAIXO
+Cristopolis,BA,13981.0,0,BAIXO
+Cruz Das Almas,BA,63923.0,0,BAIXO
+Curaca,BA,35065.0,0,BAIXO
+Dario Meira,BA,10347.0,0,BAIXO
+Dias D'Avila,BA,83705.0,0,BAIXO
+Dom Basilio,BA,12281.0,0,BAIXO
+Dom Macedo Costa,BA,4072.0,0,BAIXO
+Elisio Medrado,BA,8129.0,0,BAIXO
+Encruzilhada,BA,15914.0,0,BAIXO
+Entre Rios,BA,42014.0,0,BAIXO
+Esplanada,BA,37902.0,0,BAIXO
+Euclides Da Cunha,BA,61112.0,0,BAIXO
+Eunapolis,BA,115360.0,0,MEDIO
+Fatima,BA,17801.0,0,BAIXO
+Feira Da Mata,BA,5656.0,0,BAIXO
+Feira De Santana,BA,624107.0,0,ALTO
+Filadelfia,BA,16314.0,0,BAIXO
+Firmino Alves,BA,5641.0,0,BAIXO
+Floresta Azul,BA,10525.0,0,BAIXO
+Formosa Do Rio Preto,BA,26111.0,0,BAIXO
+Gandu,BA,32778.0,0,BAIXO
+Gaviao,BA,4417.0,0,BAIXO
+Gentio Do Ouro,BA,11284.0,0,BAIXO
+Gloria,BA,15247.0,0,BAIXO
+Gongogi,BA,6852.0,0,BAIXO
+Governador Mangabeira,BA,20800.0,0,BAIXO
+Guajeru,BA,6371.0,0,BAIXO
+Guanambi,BA,85353.0,0,BAIXO
+Guaratinga,BA,20565.0,0,BAIXO
+Heliopolis,BA,12946.0,0,BAIXO
+Iacu,BA,23950.0,0,BAIXO
+Ibiassuce,BA,8849.0,0,BAIXO
+Ibicarai,BA,21083.0,0,BAIXO
+Ibicoara,BA,19990.0,0,BAIXO
+Ibicui,BA,16262.0,0,BAIXO
+Ibipeba,BA,18421.0,0,BAIXO
+Ibipitanga,BA,14989.0,0,BAIXO
+Ibiquera,BA,4047.0,0,BAIXO
+Ibirapitanga,BA,23433.0,0,BAIXO
+Ibirapua,BA,8740.0,0,BAIXO
+Ibirataia,BA,14476.0,0,BAIXO
+Ibitiara,BA,16463.0,0,BAIXO
+Ibitita,BA,17048.0,0,BAIXO
+Ibotirama,BA,27076.0,0,BAIXO
+Ichu,BA,6232.0,0,BAIXO
+Igapora,BA,15661.0,0,BAIXO
+Igrapiuna,BA,12963.0,0,BAIXO
+Iguai,BA,27006.0,0,BAIXO
+Ilheus,BA,157639.0,0,MEDIO
+Inhambupe,BA,40720.0,0,BAIXO
+Ipecaeta,BA,14229.0,0,BAIXO
+Ipiau,BA,45969.0,0,BAIXO
+Ipira,BA,59281.0,0,BAIXO
+Ipupiara,BA,9954.0,0,BAIXO
+Irajuba,BA,7295.0,0,BAIXO
+Iramaia,BA,7874.0,0,BAIXO
+Iraquara,BA,25728.0,0,BAIXO
+Irara,BA,29305.0,0,BAIXO
+Irece,BA,74050.0,0,BAIXO
+Itabela,BA,30901.0,0,BAIXO
+Itaberaba,BA,64795.0,0,BAIXO
+Itabuna,BA,214123.0,0,MEDIO
+Itacare,BA,29051.0,0,BAIXO
+Itaete,BA,16164.0,0,BAIXO
+Itagi,BA,12140.0,0,BAIXO
+Itagiba,BA,14331.0,0,BAIXO
+Itagimirim,BA,6784.0,0,BAIXO
+Itaguacu Da Bahia,BA,14650.0,0,BAIXO
+Itaju Do Colonia,BA,6515.0,0,BAIXO
+Itajuipe,BA,20309.0,0,BAIXO
+Itamaraju,BA,64423.0,0,BAIXO
+Itamari,BA,7971.0,0,BAIXO
+Itambe,BA,22474.0,0,BAIXO
+Itanagra,BA,6433.0,0,BAIXO
+Itanhem,BA,19231.0,0,BAIXO
+Itaparica,BA,22440.0,0,BAIXO
+Itape,BA,8300.0,0,BAIXO
+Itapebi,BA,10173.0,0,BAIXO
+Itapetinga,BA,77408.0,0,BAIXO
+Itapicuru,BA,36173.0,0,BAIXO
+Itapitanga,BA,10284.0,0,BAIXO
+Itaquara,BA,8375.0,0,BAIXO
+Itarantim,BA,19937.0,0,BAIXO
+Itatim,BA,14588.0,0,BAIXO
+Itirucu,BA,12482.0,0,BAIXO
+Itiuba,BA,36140.0,0,BAIXO
+Itororo,BA,20394.0,0,BAIXO
+Ituacu,BA,19095.0,0,BAIXO
+Itubera,BA,28870.0,0,BAIXO
+Iuiu,BA,11038.0,0,BAIXO
+Jaborandi,BA,8176.0,0,BAIXO
+Jacaraci,BA,14855.0,0,BAIXO
+Jacobina,BA,80749.0,0,BAIXO
+Jaguaquara,BA,54913.0,0,BAIXO
+Jaguarari,BA,33915.0,0,BAIXO
+Jaguaripe,BA,19162.0,0,BAIXO
+Jandaira,BA,10742.0,0,BAIXO
+Jequie,BA,156277.0,0,MEDIO
+Jeremoabo,BA,40832.0,0,BAIXO
+Jiquirica,BA,14576.0,0,BAIXO
+Jitauna,BA,10470.0,0,BAIXO
+Joao Dourado,BA,25606.0,0,BAIXO
+Juazeiro,BA,219544.0,0,MEDIO
+Jucurucu,BA,8856.0,0,BAIXO
+Jussara,BA,15241.0,0,BAIXO
+Jussari,BA,5706.0,0,BAIXO
+Jussiape,BA,5777.0,0,BAIXO
+Lafaiete Coutinho,BA,3663.0,0,BAIXO
+Lagoa Real,BA,15870.0,0,BAIXO
+Laje,BA,24214.0,0,BAIXO
+Lajedao,BA,3993.0,0,BAIXO
+Lajedinho,BA,3735.0,0,BAIXO
+Lajedo Do Tabocal,BA,8591.0,0,BAIXO
+Lamarao,BA,8078.0,0,BAIXO
+Lapao,BA,27323.0,0,BAIXO
+Lauro De Freitas,BA,204669.0,0,MEDIO
+Lencois,BA,11586.0,0,BAIXO
+Licinio De Almeida,BA,12357.0,0,BAIXO
+Livramento De Nossa Senhora,BA,46372.0,0,BAIXO
+Luis Eduardo Magalhaes,BA,92671.0,0,BAIXO
+Macajuba,BA,11318.0,0,BAIXO
+Macarani,BA,19056.0,0,BAIXO
+Macaubas,BA,50481.0,0,BAIXO
+Macurure,BA,7752.0,0,BAIXO
+Madre De Deus,BA,21754.0,0,BAIXO
+Maetinga,BA,2386.0,0,BAIXO
+Maiquinique,BA,10294.0,0,BAIXO
+Mairi,BA,18535.0,0,BAIXO
+Malhada,BA,16875.0,0,BAIXO
+Malhada De Pedras,BA,8326.0,0,BAIXO
+Manoel Vitorino,BA,12944.0,0,BAIXO
+Mansidao,BA,13822.0,0,BAIXO
+Maracas,BA,19973.0,0,BAIXO
+Maragogipe,BA,44902.0,0,BAIXO
+Marau,BA,20664.0,0,BAIXO
+Marcionilio Souza,BA,10357.0,0,BAIXO
+Mascote,BA,13619.0,0,BAIXO
+Mata De Sao Joao,BA,47643.0,0,BAIXO
+Matina,BA,12359.0,0,BAIXO
+Medeiros Neto,BA,22741.0,0,BAIXO
+Miguel Calmon,BA,25771.0,0,BAIXO
+Milagres,BA,10838.0,0,BAIXO
+Mirangaba,BA,18603.0,0,BAIXO
+Mirante,BA,8264.0,0,BAIXO
+Monte Santo,BA,49145.0,0,BAIXO
+Morpara,BA,8476.0,0,BAIXO
+Morro Do Chapeu,BA,35466.0,0,BAIXO
+Mortugaba,BA,12063.0,0,BAIXO
+Mucuge,BA,8725.0,0,BAIXO
+Mucuri,BA,42729.0,0,BAIXO
+Mulungu Do Morro,BA,10469.0,0,BAIXO
+Mundo Novo,BA,27153.0,0,BAIXO
+Muniz Ferreira,BA,7464.0,0,BAIXO
+Muquem Do Sao Francisco,BA,11479.0,0,BAIXO
+Muritiba,BA,29420.0,0,BAIXO
+Mutuipe,BA,22340.0,0,BAIXO
+Nazare,BA,28661.0,0,BAIXO
+Nilo Pecanha,BA,14156.0,0,BAIXO
+Nordestina,BA,13197.0,0,BAIXO
+Nova Canaa,BA,16482.0,0,BAIXO
+Nova Fatima,BA,7830.0,0,BAIXO
+Nova Ibia,BA,6518.0,0,BAIXO
+Nova Itarana,BA,8328.0,0,BAIXO
+Nova Redencao,BA,9126.0,0,BAIXO
+Nova Soure,BA,27047.0,0,BAIXO
+Nova Vicosa,BA,44170.0,0,BAIXO
+Novo Horizonte,BA,12653.0,0,BAIXO
+Novo Triunfo,BA,15445.0,0,BAIXO
+Olindina,BA,28373.0,0,BAIXO
+Oliveira Dos Brejinhos,BA,21797.0,0,BAIXO
+Ouricangas,BA,8575.0,0,BAIXO
+Ourolandia,BA,17567.0,0,BAIXO
+Palmas De Monte Alto,BA,21840.0,0,BAIXO
+Palmeiras,BA,9123.0,0,BAIXO
+Paramirim,BA,21777.0,0,BAIXO
+Paratinga,BA,32274.0,0,BAIXO
+Paripiranga,BA,29124.0,0,BAIXO
+Pau Brasil,BA,9550.0,0,BAIXO
+Paulo Afonso,BA,119213.0,0,MEDIO
+Pe De Serra,BA,13535.0,0,BAIXO
+Pedrao,BA,7438.0,0,BAIXO
+Pedro Alexandre,BA,16698.0,0,BAIXO
+Piata,BA,16854.0,0,BAIXO
+Pilao Arcado,BA,35295.0,0,BAIXO
+Pindai,BA,16308.0,0,BAIXO
+Pindobacu,BA,20048.0,0,BAIXO
+Pintadas,BA,10353.0,0,BAIXO
+Pirai Do Norte,BA,10050.0,0,BAIXO
+Piripa,BA,10253.0,0,BAIXO
+Piritiba,BA,25162.0,0,BAIXO
+Planaltino,BA,9415.0,0,BAIXO
+Planalto,BA,26581.0,0,BAIXO
+Pocoes,BA,46885.0,0,BAIXO
+Pojuca,BA,40401.0,0,BAIXO
+Ponto Novo,BA,14729.0,0,BAIXO
+Porto Seguro,BA,152529.0,0,MEDIO
+Potiragua,BA,6623.0,0,BAIXO
+Prado,BA,28214.0,0,BAIXO
+Presidente Dutra,BA,15180.0,0,BAIXO
+Presidente Janio Quadros,BA,12028.0,0,BAIXO
+Presidente Tancredo Neves,BA,28272.0,0,BAIXO
+Queimadas,BA,25428.0,0,BAIXO
+Quijingue,BA,27672.0,0,BAIXO
+Quixabeira,BA,8939.0,0,BAIXO
+Rafael Jambeiro,BA,22643.0,0,BAIXO
+Remanso,BA,41324.0,0,BAIXO
+Retirolandia,BA,14588.0,0,BAIXO
+Riachao Das Neves,BA,22330.0,0,BAIXO
+Riachao Do Jacuipe,BA,33498.0,0,BAIXO
+Riacho De Santana,BA,35757.0,0,BAIXO
+Ribeira Do Amparo,BA,14631.0,0,BAIXO
+Ribeira Do Pombal,BA,54097.0,0,BAIXO
+Ribeirao Do Largo,BA,4896.0,0,BAIXO
+Rio De Contas,BA,12878.0,0,BAIXO
+Rio Do Antonio,BA,15521.0,0,BAIXO
+Rio Do Pires,BA,11672.0,0,BAIXO
+Rio Real,BA,41209.0,0,BAIXO
+Rodelas,BA,9548.0,0,BAIXO
+Ruy Barbosa,BA,30900.0,0,BAIXO
+Salinas Da Margarida,BA,16047.0,0,BAIXO
+Salvador,BA,2900319.0,1,ALTO
+Santa Barbara,BA,20971.0,0,BAIXO
+Santa Brigida,BA,13917.0,0,BAIXO
+Santa Cruz Cabralia,BA,28058.0,0,BAIXO
+Santa Cruz Da Vitoria,BA,6241.0,0,BAIXO
+Santa Ines,BA,10583.0,0,BAIXO
+Santaluz,BA,37704.0,0,BAIXO
+Santa Luzia,BA,12308.0,0,BAIXO
+Santa Maria Da Vitoria,BA,39707.0,0,BAIXO
+Santana,BA,26792.0,0,BAIXO
+Santanopolis,BA,8987.0,0,BAIXO
+Santa Rita De Cassia,BA,28613.0,0,BAIXO
+Santa Terezinha,BA,10520.0,0,BAIXO
+Santo Amaro,BA,60190.0,0,BAIXO
+Santo Antonio De Jesus,BA,103204.0,0,MEDIO
+Santo Estevao,BA,53666.0,0,BAIXO
+Sao Desiderio,BA,34764.0,0,BAIXO
+Sao Domingos,BA,9085.0,0,BAIXO
+Sao Felix,BA,14784.0,0,BAIXO
+Sao Felix Do Coribe,BA,15543.0,0,BAIXO
+Sao Felipe,BA,21083.0,0,BAIXO
+Sao Francisco Do Conde,BA,40664.0,0,BAIXO
+Sao Gabriel,BA,18785.0,0,BAIXO
+Sao Goncalo Dos Campos,BA,38315.0,0,BAIXO
+Sao Jose Da Vitoria,BA,5562.0,0,BAIXO
+Sao Jose Do Jacuipe,BA,10546.0,0,BAIXO
+Sao Miguel Das Matas,BA,11733.0,0,BAIXO
+Sao Sebastiao Do Passe,BA,44554.0,0,BAIXO
+Sapeacu,BA,17421.0,0,BAIXO
+Satiro Dias,BA,17330.0,0,BAIXO
+Saubara,BA,12163.0,0,BAIXO
+Saude,BA,12971.0,0,BAIXO
+Seabra,BA,44370.0,0,BAIXO
+Sebastiao Laranjeiras,BA,11586.0,0,BAIXO
+Senhor Do Bonfim,BA,79813.0,0,BAIXO
+Serra Do Ramalho,BA,31362.0,0,BAIXO
+Sento Se,BA,41279.0,0,BAIXO
+Serra Dourada,BA,17261.0,0,BAIXO
+Serra Preta,BA,14531.0,0,BAIXO
+Serrinha,BA,81693.0,0,BAIXO
+Serrolandia,BA,13490.0,0,BAIXO
+Simoes Filho,BA,137117.0,0,MEDIO
+Sitio Do Mato,BA,13104.0,0,BAIXO
+Sitio Do Quinto,BA,9431.0,0,BAIXO
+Sobradinho,BA,23274.0,0,BAIXO
+Souto Soares,BA,17118.0,0,BAIXO
+Tabocas Do Brejo Velho,BA,12515.0,0,BAIXO
+Tanhacu,BA,20383.0,0,BAIXO
+Tanque Novo,BA,17518.0,0,BAIXO
+Tanquinho,BA,7936.0,0,BAIXO
+Taperoa,BA,21421.0,0,BAIXO
+Tapiramuta,BA,16939.0,0,BAIXO
+Teixeira De Freitas,BA,164290.0,0,MEDIO
+Teodoro Sampaio,BA,7296.0,0,BAIXO
+Teofilandia,BA,22590.0,0,BAIXO
+Teolandia,BA,15097.0,0,BAIXO
+Terra Nova,BA,13018.0,0,BAIXO
+Tremedal,BA,15996.0,0,BAIXO
+Tucano,BA,50903.0,0,BAIXO
+Uaua,BA,23991.0,0,BAIXO
+Ubaira,BA,19860.0,0,BAIXO
+Ubaitaba,BA,18647.0,0,BAIXO
+Ubata,BA,27481.0,0,BAIXO
+Uibai,BA,13894.0,0,BAIXO
+Umburanas,BA,19573.0,0,BAIXO
+Una,BA,18108.0,0,BAIXO
+Urandi,BA,16672.0,0,BAIXO
+Urucuca,BA,20312.0,0,BAIXO
+Utinga,BA,19330.0,0,BAIXO
+Valenca,BA,97873.0,0,BAIXO
+Valente,BA,29111.0,0,BAIXO
+Varzea Da Roca,BA,14135.0,0,BAIXO
+Varzea Do Poco,BA,9247.0,0,BAIXO
+Varzea Nova,BA,12556.0,0,BAIXO
+Varzedo,BA,8734.0,0,BAIXO
+Vera Cruz,BA,44185.0,0,BAIXO
+Vereda,BA,6105.0,0,BAIXO
+Vitoria Da Conquista,BA,343643.0,0,MEDIO
+Wagner,BA,9342.0,0,BAIXO
+Wanderley,BA,12125.0,0,BAIXO
+Wenceslau Guimaraes,BA,20862.0,0,BAIXO
+Xique-Xique,BA,46562.0,0,BAIXO
+Abadia Dos Dourados,MG,7022.0,0,BAIXO
+Abaete,MG,23263.0,0,BAIXO
+Abre Campo,MG,13434.0,0,BAIXO
+Acaiaca,MG,3995.0,0,BAIXO
+Acucena,MG,9270.0,0,BAIXO
+Agua Boa,MG,13319.0,0,BAIXO
+Agua Comprida,MG,1986.0,0,BAIXO
+Aguanil,MG,4557.0,0,BAIXO
+Aguas Formosas,MG,19285.0,0,BAIXO
+Aguas Vermelhas,MG,13656.0,0,BAIXO
+Aimores,MG,25116.0,0,BAIXO
+Aiuruoca,MG,5949.0,0,BAIXO
+Alagoa,MG,2657.0,0,BAIXO
+Albertina,MG,3015.0,0,BAIXO
+Alem Paraiba,MG,35438.0,0,BAIXO
+Alfenas,MG,80973.0,0,BAIXO
+Alfredo Vasconcelos,MG,7052.0,0,BAIXO
+Almenara,MG,42380.0,0,BAIXO
+Alpercata,MG,7448.0,0,BAIXO
+Alpinopolis,MG,20059.0,0,BAIXO
+Alterosa,MG,14566.0,0,BAIXO
+Alto Caparao,MG,5938.0,0,BAIXO
+Alto Rio Doce,MG,10723.0,0,BAIXO
+Alvarenga,MG,3783.0,0,BAIXO
+Alvinopolis,MG,15135.0,0,BAIXO
+Alvorada De Minas,MG,3605.0,0,BAIXO
+Amparo Do Serra,MG,4643.0,0,BAIXO
+Andradas,MG,41704.0,0,BAIXO
+Cachoeira De Pajeu,MG,9470.0,0,BAIXO
+Andrelandia,MG,12189.0,0,BAIXO
+Angelandia,MG,8594.0,0,BAIXO
+Antonio Carlos,MG,11471.0,0,BAIXO
+Antonio Dias,MG,9233.0,0,BAIXO
+Antonio Prado De Minas,MG,1577.0,0,BAIXO
+Aracai,MG,2360.0,0,BAIXO
+Aracitaba,MG,2056.0,0,BAIXO
+Aracuai,MG,36715.0,0,BAIXO
+Araguari,MG,118361.0,0,MEDIO
+Arantina,MG,2779.0,0,BAIXO
+Araponga,MG,8467.0,0,BAIXO
+Arapora,MG,6992.0,0,BAIXO
+Arapua,MG,2836.0,0,BAIXO
+Araujos,MG,9523.0,0,BAIXO
+Araxa,MG,108403.0,0,MEDIO
+Arceburgo,MG,10990.0,0,BAIXO
+Arcos,MG,40658.0,0,BAIXO
+Areado,MG,15288.0,0,BAIXO
+Argirita,MG,2681.0,0,BAIXO
+Aricanduva,MG,5305.0,0,BAIXO
+Arinos,MG,17850.0,0,BAIXO
+Astolfo Dutra,MG,14358.0,0,BAIXO
+Ataleia,MG,12496.0,0,BAIXO
+Augusto De Lima,MG,4833.0,0,BAIXO
+Baependi,MG,19249.0,0,BAIXO
+Baldim,MG,7780.0,0,BAIXO
+Bambui,MG,23964.0,0,BAIXO
+Bandeira,MG,4738.0,0,BAIXO
+Bandeira Do Sul,MG,5808.0,0,BAIXO
+Barao De Cocais,MG,33232.0,0,BAIXO
+Barao De Monte Alto,MG,5311.0,0,BAIXO
+Barbacena,MG,139061.0,0,MEDIO
+Barra Longa,MG,4905.0,0,BAIXO
+Barroso,MG,20981.0,0,BAIXO
+Bela Vista De Minas,MG,10269.0,0,BAIXO
+Belmiro Braga,MG,3422.0,0,BAIXO
+Belo Horizonte,MG,2530701.0,1,ALTO
+Belo Oriente,MG,27277.0,0,BAIXO
+Belo Vale,MG,7723.0,0,BAIXO
+Berilo,MG,11813.0,0,BAIXO
+Bertopolis,MG,4609.0,0,BAIXO
+Berizal,MG,4792.0,0,BAIXO
+Betim,MG,450024.0,0,MEDIO
+Bias Fortes,MG,3282.0,0,BAIXO
+Bicas,MG,14612.0,0,BAIXO
+Biquinhas,MG,2482.0,0,BAIXO
+Boa Esperanca,MG,40308.0,0,BAIXO
+Bocaina De Minas,MG,5088.0,0,BAIXO
+Bocaiuva,MG,50521.0,0,BAIXO
+Bom Despacho,MG,51436.0,0,BAIXO
+Bom Jardim De Minas,MG,6444.0,0,BAIXO
+Bom Jesus Da Penha,MG,4270.0,0,BAIXO
+Bom Jesus Do Amparo,MG,6182.0,0,BAIXO
+Bom Jesus Do Galho,MG,14792.0,0,BAIXO
+Bom Repouso,MG,10527.0,0,BAIXO
+Bom Sucesso,MG,17612.0,0,BAIXO
+Bonfim,MG,6852.0,0,BAIXO
+Bonfinopolis De Minas,MG,5397.0,0,BAIXO
+Bonito De Minas,MG,11502.0,0,BAIXO
+Borda Da Mata,MG,19809.0,0,BAIXO
+Botelhos,MG,14927.0,0,BAIXO
+Botumirim,MG,6259.0,0,BAIXO
+Brasilandia De Minas,MG,16950.0,0,BAIXO
+Brasilia De Minas,MG,32460.0,0,BAIXO
+Bras Pires,MG,4255.0,0,BAIXO
+Braunas,MG,4737.0,0,BAIXO
+Brazopolis,MG,14364.0,0,BAIXO
+Brumadinho,MG,41208.0,0,BAIXO
+Bueno Brandao,MG,10982.0,0,BAIXO
+Buenopolis,MG,10342.0,0,BAIXO
+Bugre,MG,3984.0,0,BAIXO
+Buritis,MG,25179.0,0,BAIXO
+Buritizeiro,MG,28184.0,0,BAIXO
+Cabeceira Grande,MG,7025.0,0,BAIXO
+Cabo Verde,MG,14074.0,0,BAIXO
+Cachoeira Da Prata,MG,3580.0,0,BAIXO
+Cachoeira De Minas,MG,11609.0,0,BAIXO
+Cachoeira Dourada,MG,2720.0,0,BAIXO
+Caetanopolis,MG,11869.0,0,BAIXO
+Caete,MG,45364.0,0,BAIXO
+Caiana,MG,5584.0,0,BAIXO
+Cajuri,MG,3961.0,0,BAIXO
+Caldas,MG,14600.0,0,BAIXO
+Camacho,MG,2839.0,0,BAIXO
+Camanducaia,MG,21831.0,0,BAIXO
+Cambui,MG,30068.0,0,BAIXO
+Cambuquira,MG,12810.0,0,BAIXO
+Campanario,MG,3739.0,0,BAIXO
+Campanha,MG,16855.0,0,BAIXO
+Campestre,MG,21052.0,0,BAIXO
+Campina Verde,MG,19759.0,0,BAIXO
+Campo Azul,MG,3830.0,0,BAIXO
+Campo Belo,MG,54338.0,0,BAIXO
+Campo Do Meio,MG,11648.0,0,BAIXO
+Campo Florido,MG,8383.0,0,BAIXO
+Campos Altos,MG,15661.0,0,BAIXO
+Campos Gerais,MG,28908.0,0,BAIXO
+Canaa,MG,4533.0,0,BAIXO
+Canapolis,MG,12251.0,0,BAIXO
+Cana Verde,MG,5585.0,0,BAIXO
+Candeias,MG,14890.0,0,BAIXO
+Cantagalo,MG,4575.0,0,BAIXO
+Caparao,MG,5464.0,0,BAIXO
+Capela Nova,MG,4616.0,0,BAIXO
+Capelinha,MG,38321.0,0,BAIXO
+Capetinga,MG,6860.0,0,BAIXO
+Capim Branco,MG,9896.0,0,BAIXO
+Capinopolis,MG,16294.0,0,BAIXO
+Capitao Andrade,MG,5559.0,0,BAIXO
+Capitao Eneas,MG,15388.0,0,BAIXO
+Capitolio,MG,8693.0,0,BAIXO
+Caputira,MG,9318.0,0,BAIXO
+Carai,MG,23872.0,0,BAIXO
+Caranaiba,MG,3150.0,0,BAIXO
+Carandai,MG,25831.0,0,BAIXO
+Carangola,MG,33022.0,0,BAIXO
+Caratinga,MG,93124.0,0,BAIXO
+Carbonita,MG,9423.0,0,BAIXO
+Careacu,MG,6826.0,0,BAIXO
+Carlos Chagas,MG,18516.0,0,BAIXO
+Carmesia,MG,2660.0,0,BAIXO
+Carmo Da Cachoeira,MG,12193.0,0,BAIXO
+Carmo Da Mata,MG,11546.0,0,BAIXO
+Carmo De Minas,MG,15031.0,0,BAIXO
+Carmo Do Cajuru,MG,22900.0,0,BAIXO
+Carmo Do Paranaiba,MG,30339.0,0,BAIXO
+Carmo Do Rio Claro,MG,21310.0,0,BAIXO
+Carmopolis De Minas,MG,19756.0,0,BAIXO
+Carneirinho,MG,10103.0,0,BAIXO
+Carrancas,MG,4052.0,0,BAIXO
+Carvalhopolis,MG,3614.0,0,BAIXO
+Carvalhos,MG,4445.0,0,BAIXO
+Casa Grande,MG,2251.0,0,BAIXO
+Cascalho Rico,MG,3108.0,0,BAIXO
+Cassia,MG,17741.0,0,BAIXO
+Conceicao Da Barra De Minas,MG,3939.0,0,BAIXO
+Cataguases,MG,75942.0,0,BAIXO
+Catas Altas,MG,5465.0,0,BAIXO
+Catas Altas Da Noruega,MG,3665.0,0,BAIXO
+Catuji,MG,6206.0,0,BAIXO
+Catuti,MG,4944.0,0,BAIXO
+Caxambu,MG,21566.0,0,BAIXO
+Cedro Do Abaete,MG,1150.0,0,BAIXO
+Central De Minas,MG,7059.0,0,BAIXO
+Centralina,MG,10343.0,0,BAIXO
+Chacara,MG,3216.0,0,BAIXO
+Chale,MG,5695.0,0,BAIXO
+Chapada Do Norte,MG,15334.0,0,BAIXO
+Chapada Gaucha,MG,14217.0,0,BAIXO
+Chiador,MG,2657.0,0,BAIXO
+Cipotanea,MG,6811.0,0,BAIXO
+Claraval,MG,4873.0,0,BAIXO
+Claro Dos Pocoes,MG,7478.0,0,BAIXO
+Claudio,MG,29093.0,0,BAIXO
+Coimbra,MG,7631.0,0,BAIXO
+Coluna,MG,8810.0,0,BAIXO
+Comendador Gomes,MG,3128.0,0,BAIXO
+Comercinho,MG,6624.0,0,BAIXO
+Conceicao Da Aparecida,MG,10351.0,0,BAIXO
+Conceicao Das Pedras,MG,2814.0,0,BAIXO
+Conceicao Das Alagoas,MG,28782.0,0,BAIXO
+Conceicao De Ipanema,MG,4581.0,0,BAIXO
+Conceicao Do Mato Dentro,MG,17438.0,0,BAIXO
+Conceicao Do Para,MG,5558.0,0,BAIXO
+Conceicao Do Rio Verde,MG,13729.0,0,BAIXO
+Conceicao Dos Ouros,MG,11852.0,0,BAIXO
+Conego Marinho,MG,7730.0,0,BAIXO
+Confins,MG,6867.0,0,BAIXO
+Congonhal,MG,12209.0,0,BAIXO
+Congonhas,MG,55836.0,0,BAIXO
+Congonhas Do Norte,MG,5047.0,0,BAIXO
+Conquista,MG,6997.0,0,BAIXO
+Conselheiro Lafaiete,MG,130584.0,0,MEDIO
+Conselheiro Pena,MG,22975.0,0,BAIXO
+Consolacao,MG,1786.0,0,BAIXO
+Contagem,MG,673849.0,0,ALTO
+Coqueiral,MG,9099.0,0,BAIXO
+Coracao De Jesus,MG,26620.0,0,BAIXO
+Cordisburgo,MG,8903.0,0,BAIXO
+Cordislandia,MG,3546.0,0,BAIXO
+Corinto,MG,23607.0,0,BAIXO
+Coroaci,MG,9897.0,0,BAIXO
+Coromandel,MG,27958.0,0,BAIXO
+Coronel Fabriciano,MG,110709.0,0,MEDIO
+Coronel Murta,MG,9209.0,0,BAIXO
+Coronel Pacheco,MG,3095.0,0,BAIXO
+Coronel Xavier Chaves,MG,3448.0,0,BAIXO
+Corrego Danta,MG,3168.0,0,BAIXO
+Corrego Do Bom Jesus,MG,3685.0,0,BAIXO
+Corrego Fundo,MG,6425.0,0,BAIXO
+Corrego Novo,MG,2688.0,0,BAIXO
+Couto De Magalhaes De Minas,MG,4436.0,0,BAIXO
+Crisolita,MG,6814.0,0,BAIXO
+Cristais,MG,13060.0,0,BAIXO
+Cristalia,MG,5992.0,0,BAIXO
+Cristiano Otoni,MG,5161.0,0,BAIXO
+Cristina,MG,10211.0,0,BAIXO
+Crucilandia,MG,5072.0,0,BAIXO
+Cruzeiro Da Fortaleza,MG,3651.0,0,BAIXO
+Cruzilia,MG,15529.0,0,BAIXO
+Cuparaque,MG,5026.0,0,BAIXO
+Curral De Dentro,MG,7867.0,0,BAIXO
+Curvelo,MG,81085.0,0,BAIXO
+Datas,MG,5431.0,0,BAIXO
+Delfim Moreira,MG,8007.0,0,BAIXO
+Delfinopolis,MG,7146.0,0,BAIXO
+Delta,MG,10994.0,0,BAIXO
+Descoberto,MG,5044.0,0,BAIXO
+Desterro De Entre Rios,MG,7266.0,0,BAIXO
+Desterro Do Melo,MG,2867.0,0,BAIXO
+Diamantina,MG,47924.0,0,BAIXO
+Diogo De Vasconcelos,MG,3779.0,0,BAIXO
+Dionisio,MG,7493.0,0,BAIXO
+Divinesia,MG,3430.0,0,BAIXO
+Divino,MG,20020.0,0,BAIXO
+Divino Das Laranjeiras,MG,4969.0,0,BAIXO
+Divinolandia De Minas,MG,7655.0,0,BAIXO
+Divinopolis,MG,242505.0,0,MEDIO
+Divisa Alegre,MG,6946.0,0,BAIXO
+Divisa Nova,MG,6039.0,0,BAIXO
+Divisopolis,MG,11396.0,0,BAIXO
+Dom Bosco,MG,3635.0,0,BAIXO
+Dom Cavati,MG,5025.0,0,BAIXO
+Dom Joaquim,MG,4436.0,0,BAIXO
+Dom Silverio,MG,5227.0,0,BAIXO
+Dom Vicoso,MG,2992.0,0,BAIXO
+Dona Euzebia,MG,6664.0,0,BAIXO
+Dores De Campos,MG,10291.0,0,BAIXO
+Dores De Guanhaes,MG,5139.0,0,BAIXO
+Dores Do Indaia,MG,13373.0,0,BAIXO
+Dores Do Turvo,MG,4202.0,0,BAIXO
+Doresopolis,MG,1539.0,0,BAIXO
+Douradoquara,MG,1915.0,0,BAIXO
+Durande,MG,7898.0,0,BAIXO
+Eloi Mendes,MG,28556.0,0,BAIXO
+Engenheiro Caldas,MG,11268.0,0,BAIXO
+Engenheiro Navarro,MG,7240.0,0,BAIXO
+Entre Folhas,MG,5383.0,0,BAIXO
+Entre Rios De Minas,MG,15458.0,0,BAIXO
+Ervalia,MG,19019.0,0,BAIXO
+Esmeraldas,MG,72512.0,0,BAIXO
+Espera Feliz,MG,25287.0,0,BAIXO
+Espinosa,MG,31603.0,0,BAIXO
+Espirito Santo Do Dourado,MG,4728.0,0,BAIXO
+Estiva,MG,11416.0,0,BAIXO
+Estrela Dalva,MG,2308.0,0,BAIXO
+Estrela Do Indaia,MG,3483.0,0,BAIXO
+Estrela Do Sul,MG,8057.0,0,BAIXO
+Eugenopolis,MG,11383.0,0,BAIXO
+Ewbank Da Camara,MG,3932.0,0,BAIXO
+Extrema,MG,37649.0,0,BAIXO
+Fama,MG,2374.0,0,BAIXO
+Faria Lemos,MG,3202.0,0,BAIXO
+Felicio Dos Santos,MG,4656.0,0,BAIXO
+Sao Goncalo Do Rio Preto,MG,3178.0,0,BAIXO
+Felisburgo,MG,7548.0,0,BAIXO
+Felixlandia,MG,15528.0,0,BAIXO
+Fernandes Tourinho,MG,3500.0,0,BAIXO
+Ferros,MG,9576.0,0,BAIXO
+Fervedouro,MG,11100.0,0,BAIXO
+Florestal,MG,7602.0,0,BAIXO
+Formiga,MG,67956.0,0,BAIXO
+Formoso,MG,9810.0,0,BAIXO
+Fortaleza De Minas,MG,4460.0,0,BAIXO
+Fortuna De Minas,MG,2986.0,0,BAIXO
+Francisco Badaro,MG,10311.0,0,BAIXO
+Francisco Dumont,MG,5268.0,0,BAIXO
+Francisco Sa,MG,26459.0,0,BAIXO
+Franciscopolis,MG,5287.0,0,BAIXO
+Frei Gaspar,MG,5858.0,0,BAIXO
+Frei Inocencio,MG,9716.0,0,BAIXO
+Frei Lagonegro,MG,3496.0,0,BAIXO
+Fronteira,MG,18866.0,0,BAIXO
+Fronteira Dos Vales,MG,4542.0,0,BAIXO
+Fruta De Leite,MG,5232.0,0,BAIXO
+Frutal,MG,60508.0,0,BAIXO
+Funilandia,MG,4434.0,0,BAIXO
+Galileia,MG,6764.0,0,BAIXO
+Gameleiras,MG,5084.0,0,BAIXO
+Glaucilandia,MG,3177.0,0,BAIXO
+Goiabeira,MG,3402.0,0,BAIXO
+Goiana,MG,4014.0,0,BAIXO
+Goncalves,MG,4360.0,0,BAIXO
+Gonzaga,MG,6184.0,0,BAIXO
+Gouveia,MG,11811.0,0,BAIXO
+Governador Valadares,MG,282164.0,0,MEDIO
+Grao Mogol,MG,15943.0,0,BAIXO
+Grupiara,MG,1386.0,0,BAIXO
+Guanhaes,MG,34818.0,0,BAIXO
+Guape,MG,14269.0,0,BAIXO
+Guaraciaba,MG,10307.0,0,BAIXO
+Guaraciama,MG,5005.0,0,BAIXO
+Guaranesia,MG,19014.0,0,BAIXO
+Guarani,MG,8926.0,0,BAIXO
+Guarara,MG,3755.0,0,BAIXO
+Guarda-Mor,MG,6558.0,0,BAIXO
+Guaxupe,MG,52234.0,0,BAIXO
+Guidoval,MG,7026.0,0,BAIXO
+Guimarania,MG,8168.0,0,BAIXO
+Guiricema,MG,8296.0,0,BAIXO
+Gurinhata,MG,5516.0,0,BAIXO
+Heliodora,MG,6623.0,0,BAIXO
+Iapu,MG,11085.0,0,BAIXO
+Ibertioga,MG,4999.0,0,BAIXO
+Ibia,MG,25511.0,0,BAIXO
+Ibiai,MG,8478.0,0,BAIXO
+Ibiracatu,MG,5340.0,0,BAIXO
+Ibiraci,MG,14128.0,0,BAIXO
+Ibirite,MG,184030.0,0,MEDIO
+Ibitiura De Minas,MG,3497.0,0,BAIXO
+Ibituruna,MG,3003.0,0,BAIXO
+Icarai De Minas,MG,12200.0,0,BAIXO
+Igarape,MG,44561.0,0,BAIXO
+Igaratinga,MG,11146.0,0,BAIXO
+Iguatama,MG,7901.0,0,BAIXO
+Ijaci,MG,6667.0,0,BAIXO
+Ilicinea,MG,12511.0,0,BAIXO
+Imbe De Minas,MG,6976.0,0,BAIXO
+Inconfidentes,MG,7387.0,0,BAIXO
+Indaiabira,MG,7328.0,0,BAIXO
+Indianopolis,MG,7009.0,0,BAIXO
+Ingai,MG,2785.0,0,BAIXO
+Inhapim,MG,24020.0,0,BAIXO
+Inhauma,MG,6352.0,0,BAIXO
+Inimutaba,MG,7605.0,0,BAIXO
+Ipaba,MG,18926.0,0,BAIXO
+Ipanema,MG,20133.0,0,BAIXO
+Ipatinga,MG,267333.0,0,MEDIO
+Ipiacu,MG,4229.0,0,BAIXO
+Ipuiuna,MG,10156.0,0,BAIXO
+Irai De Minas,MG,7067.0,0,BAIXO
+Itabira,MG,121717.0,0,MEDIO
+Itabirinha,MG,11637.0,0,BAIXO
+Itabirito,MG,52996.0,0,BAIXO
+Itacambira,MG,5447.0,0,BAIXO
+Itacarambi,MG,18175.0,0,BAIXO
+Itaguara,MG,13510.0,0,BAIXO
+Itaipe,MG,12910.0,0,BAIXO
+Itajuba,MG,97782.0,0,BAIXO
+Itamarandiba,MG,35130.0,0,BAIXO
+Itamarati De Minas,MG,4395.0,0,BAIXO
+Itambacuri,MG,23207.0,0,BAIXO
+Itambe Do Mato Dentro,MG,2032.0,0,BAIXO
+Itamogi,MG,10122.0,0,BAIXO
+Itamonte,MG,15844.0,0,BAIXO
+Itanhandu,MG,15511.0,0,BAIXO
+Itanhomi,MG,12259.0,0,BAIXO
+Itaobim,MG,20997.0,0,BAIXO
+Itapagipe,MG,15511.0,0,BAIXO
+Itapecerica,MG,21760.0,0,BAIXO
+Itapeva,MG,9976.0,0,BAIXO
+Itatiaiucu,MG,11354.0,0,BAIXO
+Itau De Minas,MG,16286.0,0,BAIXO
+Itauna,MG,94455.0,0,BAIXO
+Itaverava,MG,5321.0,0,BAIXO
+Itinga,MG,15053.0,0,BAIXO
+Itueta,MG,6074.0,0,BAIXO
+Ituiutaba,MG,105818.0,0,MEDIO
+Itumirim,MG,5978.0,0,BAIXO
+Iturama,MG,40101.0,0,BAIXO
+Itutinga,MG,3749.0,0,BAIXO
+Jaboticatubas,MG,20683.0,0,BAIXO
+Jacinto,MG,12320.0,0,BAIXO
+Jacui,MG,7695.0,0,BAIXO
+Jacutinga,MG,26538.0,0,BAIXO
+Jaguaracu,MG,3151.0,0,BAIXO
+Jaiba,MG,39850.0,0,BAIXO
+Jampruca,MG,5453.0,0,BAIXO
+Janauba,MG,72374.0,0,BAIXO
+Januaria,MG,67958.0,0,BAIXO
+Japaraiba,MG,4418.0,0,BAIXO
+Japonvar,MG,7991.0,0,BAIXO
+Jeceaba,MG,4795.0,0,BAIXO
+Jenipapo De Minas,MG,7781.0,0,BAIXO
+Jequeri,MG,12246.0,0,BAIXO
+Jequitai,MG,7407.0,0,BAIXO
+Jequitiba,MG,5203.0,0,BAIXO
+Jequitinhonha,MG,25555.0,0,BAIXO
+Jesuania,MG,4774.0,0,BAIXO
+Joaima,MG,15476.0,0,BAIXO
+Joanesia,MG,4382.0,0,BAIXO
+Joao Monlevade,MG,80903.0,0,BAIXO
+Joao Pinheiro,MG,47990.0,0,BAIXO
+Joaquim Felicio,MG,4757.0,0,BAIXO
+Jordania,MG,10872.0,0,BAIXO
+Jose Goncalves De Minas,MG,4474.0,0,BAIXO
+Jose Raydan,MG,5104.0,0,BAIXO
+Josenopolis,MG,4911.0,0,BAIXO
+Nova Uniao,MG,5739.0,0,BAIXO
+Juatuba,MG,27823.0,0,BAIXO
+Juiz De Fora,MG,577532.0,0,ALTO
+Juramento,MG,4359.0,0,BAIXO
+Juruaia,MG,10795.0,0,BAIXO
+Juvenilia,MG,5706.0,0,BAIXO
+Ladainha,MG,18272.0,0,BAIXO
+Lagamar,MG,7588.0,0,BAIXO
+Lagoa Da Prata,MG,53236.0,0,BAIXO
+Lagoa Dos Patos,MG,4062.0,0,BAIXO
+Lagoa Dourada,MG,13115.0,0,BAIXO
+Lagoa Formosa,MG,18168.0,0,BAIXO
+Lagoa Grande,MG,9681.0,0,BAIXO
+Lagoa Santa,MG,66744.0,0,BAIXO
+Lajinha,MG,19914.0,0,BAIXO
+Lambari,MG,20995.0,0,BAIXO
+Lamim,MG,3366.0,0,BAIXO
+Laranjal,MG,6856.0,0,BAIXO
+Lassance,MG,6494.0,0,BAIXO
+Lavras,MG,105756.0,0,MEDIO
+Leandro Ferreira,MG,3222.0,0,BAIXO
+Leme Do Prado,MG,4923.0,0,BAIXO
+Leopoldina,MG,52690.0,0,BAIXO
+Liberdade,MG,4994.0,0,BAIXO
+Lima Duarte,MG,16749.0,0,BAIXO
+Limeira Do Oeste,MG,7640.0,0,BAIXO
+Lontra,MG,9766.0,0,BAIXO
+Luisburgo,MG,6249.0,0,BAIXO
+Luislandia,MG,6735.0,0,BAIXO
+Luminarias,MG,5431.0,0,BAIXO
+Luz,MG,18297.0,0,BAIXO
+Machacalis,MG,7112.0,0,BAIXO
+Machado,MG,42682.0,0,BAIXO
+Madre De Deus De Minas,MG,5119.0,0,BAIXO
+Malacacheta,MG,18556.0,0,BAIXO
+Mamonas,MG,6565.0,0,BAIXO
+Manga,MG,18051.0,0,BAIXO
+Manhuacu,MG,92074.0,0,BAIXO
+Manhumirim,MG,22894.0,0,BAIXO
+Mantena,MG,27651.0,0,BAIXO
+Maravilhas,MG,8113.0,0,BAIXO
+Mar De Espanha,MG,12985.0,0,BAIXO
+Maria Da Fe,MG,14019.0,0,BAIXO
+Mariana,MG,61830.0,0,BAIXO
+Marilac,MG,4079.0,0,BAIXO
+Mario Campos,MG,15814.0,0,BAIXO
+Maripa De Minas,MG,3000.0,0,BAIXO
+Marlieria,MG,4030.0,0,BAIXO
+Marmelopolis,MG,2701.0,0,BAIXO
+Martinho Campos,MG,13497.0,0,BAIXO
+Martins Soares,MG,8640.0,0,BAIXO
+Mata Verde,MG,8700.0,0,BAIXO
+Materlandia,MG,4415.0,0,BAIXO
+Mateus Leme,MG,31631.0,0,BAIXO
+Matias Barbosa,MG,14626.0,0,BAIXO
+Matias Cardoso,MG,11360.0,0,BAIXO
+Matipo,MG,19098.0,0,BAIXO
+Mato Verde,MG,12367.0,0,BAIXO
+Matozinhos,MG,38469.0,0,BAIXO
+Matutina,MG,3733.0,0,BAIXO
+Medeiros,MG,3861.0,0,BAIXO
+Medina,MG,20701.0,0,BAIXO
+Mendes Pimentel,MG,6446.0,0,BAIXO
+Merces,MG,10775.0,0,BAIXO
+Mesquita,MG,5489.0,0,BAIXO
+Minas Novas,MG,31509.0,0,BAIXO
+Minduri,MG,3891.0,0,BAIXO
+Mirabela,MG,13651.0,0,BAIXO
+Miradouro,MG,10818.0,0,BAIXO
+Mirai,MG,15205.0,0,BAIXO
+Miravania,MG,4939.0,0,BAIXO
+Moeda,MG,4948.0,0,BAIXO
+Moema,MG,7589.0,0,BAIXO
+Monjolos,MG,2184.0,0,BAIXO
+Monsenhor Paulo,MG,8764.0,0,BAIXO
+Montalvania,MG,14621.0,0,BAIXO
+Monte Alegre De Minas,MG,21349.0,0,BAIXO
+Monte Azul,MG,20544.0,0,BAIXO
+Monte Belo,MG,13139.0,0,BAIXO
+Monte Carmelo,MG,48049.0,0,BAIXO
+Monte Formoso,MG,4939.0,0,BAIXO
+Monte Santo De Minas,MG,21504.0,0,BAIXO
+Montes Claros,MG,417478.0,0,MEDIO
+Monte Siao,MG,24247.0,0,BAIXO
+Montezuma,MG,8379.0,0,BAIXO
+Morada Nova De Minas,MG,8955.0,0,BAIXO
+Morro Da Garca,MG,2413.0,0,BAIXO
+Morro Do Pilar,MG,3126.0,0,BAIXO
+Munhoz,MG,5960.0,0,BAIXO
+Muriae,MG,109997.0,0,MEDIO
+Mutum,MG,26945.0,0,BAIXO
+Muzambinho,MG,20522.0,0,BAIXO
+Nacip Raydan,MG,3221.0,0,BAIXO
+Nanuque,MG,40583.0,0,BAIXO
+Naque,MG,7104.0,0,BAIXO
+Natalandia,MG,3306.0,0,BAIXO
+Natercia,MG,4727.0,0,BAIXO
+Nazareno,MG,8710.0,0,BAIXO
+Nepomuceno,MG,26882.0,0,BAIXO
+Ninheira,MG,10355.0,0,BAIXO
+Nova Belem,MG,3067.0,0,BAIXO
+Nova Era,MG,17524.0,0,BAIXO
+Nova Lima,MG,97378.0,0,BAIXO
+Nova Modica,MG,3548.0,0,BAIXO
+Nova Ponte,MG,16046.0,0,BAIXO
+Nova Porteirinha,MG,7493.0,0,BAIXO
+Nova Resende,MG,16937.0,0,BAIXO
+Nova Serrana,MG,108241.0,0,MEDIO
+Novo Cruzeiro,MG,31339.0,0,BAIXO
+Novo Oriente De Minas,MG,10800.0,0,BAIXO
+Novorizonte,MG,5348.0,0,BAIXO
+Olaria,MG,1694.0,0,BAIXO
+Olhos-D'Agua,MG,6243.0,0,BAIXO
+Olimpio Noronha,MG,2829.0,0,BAIXO
+Oliveira,MG,41987.0,0,BAIXO
+Oliveira Fortes,MG,2128.0,0,BAIXO
+Onca De Pitangui,MG,3155.0,0,BAIXO
+Oratorios,MG,4671.0,0,BAIXO
+Orizania,MG,8138.0,0,BAIXO
+Ouro Branco,MG,40220.0,0,BAIXO
+Ouro Fino,MG,33938.0,0,BAIXO
+Ouro Preto,MG,74824.0,0,BAIXO
+Ouro Verde De Minas,MG,5895.0,0,BAIXO
+Padre Carvalho,MG,6466.0,0,BAIXO
+Padre Paraiso,MG,20346.0,0,BAIXO
+Paineiras,MG,4440.0,0,BAIXO
+Pains,MG,8308.0,0,BAIXO
+Pai Pedro,MG,6098.0,0,BAIXO
+Paiva,MG,1517.0,0,BAIXO
+Palma,MG,6606.0,0,BAIXO
+Palmopolis,MG,5196.0,0,BAIXO
+Papagaios,MG,15922.0,0,BAIXO
+Paracatu,MG,94539.0,0,BAIXO
+Para De Minas,MG,95616.0,0,BAIXO
+Paraguacu,MG,21693.0,0,BAIXO
+Paraisopolis,MG,21353.0,0,BAIXO
+Paraopeba,MG,24854.0,0,BAIXO
+Passabem,MG,1619.0,0,BAIXO
+Passa Quatro,MG,16439.0,0,BAIXO
+Passa Tempo,MG,8031.0,0,BAIXO
+Passa Vinte,MG,2024.0,0,BAIXO
+Passos,MG,115970.0,0,MEDIO
+Patis,MG,6031.0,0,BAIXO
+Patos De Minas,MG,154641.0,0,MEDIO
+Patrocinio,MG,92116.0,0,BAIXO
+Patrocinio Do Muriae,MG,5744.0,0,BAIXO
+Paula Candido,MG,9597.0,0,BAIXO
+Paulistas,MG,4794.0,0,BAIXO
+Pavao,MG,8390.0,0,BAIXO
+Pecanha,MG,17534.0,0,BAIXO
+Pedra Azul,MG,24333.0,0,BAIXO
+Pedra Bonita,MG,7157.0,0,BAIXO
+Pedra Do Anta,MG,2960.0,0,BAIXO
+Pedra Do Indaia,MG,3977.0,0,BAIXO
+Pedra Dourada,MG,2559.0,0,BAIXO
+Pedralva,MG,11098.0,0,BAIXO
+Pedras De Maria Da Cruz,MG,12313.0,0,BAIXO
+Pedrinopolis,MG,3651.0,0,BAIXO
+Pedro Leopoldo,MG,65149.0,0,BAIXO
+Pedro Teixeira,MG,1804.0,0,BAIXO
+Pequeri,MG,3340.0,0,BAIXO
+Pequi,MG,4457.0,0,BAIXO
+Perdigao,MG,11994.0,0,BAIXO
+Perdizes,MG,16469.0,0,BAIXO
+Perdoes,MG,21577.0,0,BAIXO
+Periquito,MG,6738.0,0,BAIXO
+Pescador,MG,4261.0,0,BAIXO
+Piau,MG,2719.0,0,BAIXO
+Piedade De Caratinga,MG,8832.0,0,BAIXO
+Piedade De Ponte Nova,MG,4141.0,0,BAIXO
+Piedade Do Rio Grande,MG,4436.0,0,BAIXO
+Piedade Dos Gerais,MG,5034.0,0,BAIXO
+Pimenta,MG,8715.0,0,BAIXO
+Pingo-D'Agua,MG,5029.0,0,BAIXO
+Pintopolis,MG,7540.0,0,BAIXO
+Piracema,MG,6386.0,0,BAIXO
+Pirajuba,MG,6491.0,0,BAIXO
+Piranga,MG,17641.0,0,BAIXO
+Pirangucu,MG,5504.0,0,BAIXO
+Piranguinho,MG,8683.0,0,BAIXO
+Pirapetinga,MG,10791.0,0,BAIXO
+Pirapora,MG,56845.0,0,BAIXO
+Pirauba,MG,10732.0,0,BAIXO
+Pitangui,MG,28433.0,0,BAIXO
+Piumhi,MG,35137.0,0,BAIXO
+Planura,MG,12445.0,0,BAIXO
+Poco Fundo,MG,16900.0,0,BAIXO
+Pocos De Caldas,MG,169838.0,0,MEDIO
+Pocrane,MG,8288.0,0,BAIXO
+Pompeu,MG,32248.0,0,BAIXO
+Ponte Nova,MG,60003.0,0,BAIXO
+Ponto Chique,MG,4305.0,0,BAIXO
+Ponto Dos Volantes,MG,12235.0,0,BAIXO
+Porteirinha,MG,37823.0,0,BAIXO
+Porto Firme,MG,11414.0,0,BAIXO
+Pote,MG,16675.0,0,BAIXO
+Pouso Alegre,MG,154293.0,0,MEDIO
+Pouso Alto,MG,5862.0,0,BAIXO
+Prados,MG,9128.0,0,BAIXO
+Prata,MG,28173.0,0,BAIXO
+Pratapolis,MG,8530.0,0,BAIXO
+Pratinha,MG,3658.0,0,BAIXO
+Presidente Bernardes,MG,5315.0,0,BAIXO
+Presidente Juscelino,MG,3572.0,0,BAIXO
+Presidente Kubitschek,MG,3000.0,0,BAIXO
+Presidente Olegario,MG,19680.0,0,BAIXO
+Alto Jequitiba,MG,8286.0,0,BAIXO
+Prudente De Morais,MG,10931.0,0,BAIXO
+Quartel Geral,MG,3603.0,0,BAIXO
+Queluzito,MG,1948.0,0,BAIXO
+Raposos,MG,16501.0,0,BAIXO
+Raul Soares,MG,23663.0,0,BAIXO
+Recreio,MG,10522.0,0,BAIXO
+Reduto,MG,7247.0,0,BAIXO
+Resende Costa,MG,11578.0,0,BAIXO
+Resplendor,MG,17396.0,0,BAIXO
+Ressaquinha,MG,4826.0,0,BAIXO
+Riachinho,MG,8132.0,0,BAIXO
+Riacho Dos Machados,MG,9471.0,0,BAIXO
+Ribeirao Das Neves,MG,341415.0,0,MEDIO
+Ribeirao Vermelho,MG,4061.0,0,BAIXO
+Rio Acima,MG,10524.0,0,BAIXO
+Rio Casca,MG,13384.0,0,BAIXO
+Rio Doce,MG,2630.0,0,BAIXO
+Rio Do Prado,MG,5117.0,0,BAIXO
+Rio Espera,MG,5332.0,0,BAIXO
+Rio Manso,MG,5924.0,0,BAIXO
+Rio Novo,MG,8964.0,0,BAIXO
+Rio Paranaiba,MG,12356.0,0,BAIXO
+Rio Pardo De Minas,MG,31171.0,0,BAIXO
+Rio Piracicaba,MG,14325.0,0,BAIXO
+Rio Pomba,MG,18007.0,0,BAIXO
+Rio Preto,MG,5493.0,0,BAIXO
+Rio Vermelho,MG,12635.0,0,BAIXO
+Ritapolis,MG,4521.0,0,BAIXO
+Rochedo De Minas,MG,2335.0,0,BAIXO
+Rodeiro,MG,8333.0,0,BAIXO
+Romaria,MG,3507.0,0,BAIXO
+Rosario Da Limeira,MG,4648.0,0,BAIXO
+Rubelita,MG,5609.0,0,BAIXO
+Rubim,MG,10269.0,0,BAIXO
+Sabara,MG,137877.0,0,MEDIO
+Sabinopolis,MG,15364.0,0,BAIXO
+Sacramento,MG,26556.0,0,BAIXO
+Salinas,MG,41864.0,0,BAIXO
+Salto Da Divisa,MG,7014.0,0,BAIXO
+Santa Barbara,MG,31873.0,0,BAIXO
+Santa Barbara Do Leste,MG,8212.0,0,BAIXO
+Santa Barbara Do Monte Verde,MG,3212.0,0,BAIXO
+Santa Barbara Do Tugurio,MG,4385.0,0,BAIXO
+Santa Cruz De Minas,MG,8723.0,0,BAIXO
+Santa Cruz De Salinas,MG,4074.0,0,BAIXO
+Santa Cruz Do Escalvado,MG,4693.0,0,BAIXO
+Santa Efigenia De Minas,MG,4354.0,0,BAIXO
+Santa Fe De Minas,MG,3806.0,0,BAIXO
+Santa Helena De Minas,MG,6406.0,0,BAIXO
+Santa Juliana,MG,14497.0,0,BAIXO
+Santa Luzia,MG,221705.0,0,MEDIO
+Santa Margarida,MG,16393.0,0,BAIXO
+Santa Maria De Itabira,MG,10867.0,0,BAIXO
+Santa Maria Do Salto,MG,5203.0,0,BAIXO
+Santa Maria Do Suacui,MG,14607.0,0,BAIXO
+Santana Da Vargem,MG,7047.0,0,BAIXO
+Santana De Cataguases,MG,3909.0,0,BAIXO
+Santana De Pirapama,MG,7538.0,0,BAIXO
+Santana Do Deserto,MG,3985.0,0,BAIXO
+Santana Do Garambeu,MG,2494.0,0,BAIXO
+Santana Do Jacare,MG,4847.0,0,BAIXO
+Santana Do Manhuacu,MG,8660.0,0,BAIXO
+Santana Do Paraiso,MG,36048.0,0,BAIXO
+Santana Do Riacho,MG,4334.0,0,BAIXO
+Santana Dos Montes,MG,3753.0,0,BAIXO
+Santa Rita De Caldas,MG,8900.0,0,BAIXO
+Santa Rita De Jacutinga,MG,4843.0,0,BAIXO
+Santa Rita De Minas,MG,7322.0,0,BAIXO
+Santa Rita De Ibitipoca,MG,3380.0,0,BAIXO
+Santa Rita Do Itueto,MG,5426.0,0,BAIXO
+Santa Rita Do Sapucai,MG,44226.0,0,BAIXO
+Santa Rosa Da Serra,MG,3364.0,0,BAIXO
+Santa Vitoria,MG,19997.0,0,BAIXO
+Santo Antonio Do Amparo,MG,18697.0,0,BAIXO
+Santo Antonio Do Aventureiro,MG,3602.0,0,BAIXO
+Santo Antonio Do Grama,MG,3861.0,0,BAIXO
+Santo Antonio Do Itambe,MG,3763.0,0,BAIXO
+Santo Antonio Do Jacinto,MG,11570.0,0,BAIXO
+Santo Antonio Do Monte,MG,28603.0,0,BAIXO
+Santo Antonio Do Retiro,MG,7316.0,0,BAIXO
+Santo Antonio Do Rio Abaixo,MG,1756.0,0,BAIXO
+Santo Hipolito,MG,3044.0,0,BAIXO
+Santos Dumont,MG,46357.0,0,BAIXO
+Sao Bento Abade,MG,5411.0,0,BAIXO
+Sao Bras Do Suacui,MG,3770.0,0,BAIXO
+Sao Domingos Das Dores,MG,5672.0,0,BAIXO
+Sao Domingos Do Prata,MG,17296.0,0,BAIXO
+Sao Felix De Minas,MG,3354.0,0,BAIXO
+Sao Francisco,MG,56625.0,0,BAIXO
+Sao Francisco De Paula,MG,6512.0,0,BAIXO
+Sao Francisco De Sales,MG,6309.0,0,BAIXO
+Sao Francisco Do Gloria,MG,4758.0,0,BAIXO
+Sao Geraldo,MG,12751.0,0,BAIXO
+Sao Geraldo Da Piedade,MG,3860.0,0,BAIXO
+Sao Geraldo Do Baixio,MG,4104.0,0,BAIXO
+Sao Goncalo Do Abaete,MG,8527.0,0,BAIXO
+Sao Goncalo Do Para,MG,12776.0,0,BAIXO
+Sao Goncalo Do Rio Abaixo,MG,11114.0,0,BAIXO
+Sao Goncalo Do Sapucai,MG,25670.0,0,BAIXO
+Sao Gotardo,MG,36084.0,0,BAIXO
+Sao Joao Batista Do Gloria,MG,7541.0,0,BAIXO
+Sao Joao Da Lagoa,MG,4949.0,0,BAIXO
+Sao Joao Da Mata,MG,2743.0,0,BAIXO
+Sao Joao Da Ponte,MG,25033.0,0,BAIXO
+Sao Joao Das Missoes,MG,13232.0,0,BAIXO
+Sao Joao Del Rei,MG,90897.0,0,BAIXO
+Sao Joao Do Manhuacu,MG,11785.0,0,BAIXO
+Sao Joao Do Manteninha,MG,5975.0,0,BAIXO
+Sao Joao Do Oriente,MG,7393.0,0,BAIXO
+Sao Joao Do Pacui,MG,4476.0,0,BAIXO
+Sao Joao Do Paraiso,MG,23797.0,0,BAIXO
+Sao Joao Evangelista,MG,15761.0,0,BAIXO
+Sao Joao Nepomuceno,MG,26530.0,0,BAIXO
+Sao Joaquim De Bicas,MG,32696.0,0,BAIXO
+Sao Jose Da Barra,MG,7532.0,0,BAIXO
+Sao Jose Da Lapa,MG,24490.0,0,BAIXO
+Sao Jose Da Safira,MG,4291.0,0,BAIXO
+Sao Jose Da Varginha,MG,5151.0,0,BAIXO
+Sao Jose Do Alegre,MG,4222.0,0,BAIXO
+Sao Jose Do Divino,MG,3851.0,0,BAIXO
+Sao Jose Do Goiabal,MG,5356.0,0,BAIXO
+Sao Jose Do Jacuri,MG,6409.0,0,BAIXO
+Sao Jose Do Mantimento,MG,2821.0,0,BAIXO
+Sao Lourenco,MG,46539.0,0,BAIXO
+Sao Miguel Do Anta,MG,6949.0,0,BAIXO
+Sao Pedro Da Uniao,MG,4563.0,0,BAIXO
+Sao Pedro Dos Ferros,MG,7634.0,0,BAIXO
+Sao Pedro Do Suacui,MG,5160.0,0,BAIXO
+Sao Romao,MG,12713.0,0,BAIXO
+Sao Roque De Minas,MG,7100.0,0,BAIXO
+Sao Sebastiao Da Bela Vista,MG,5598.0,0,BAIXO
+Sao Sebastiao Da Vargem Alegre,MG,3039.0,0,BAIXO
+Sao Sebastiao Do Anta,MG,6697.0,0,BAIXO
+Sao Sebastiao Do Maranhao,MG,9884.0,0,BAIXO
+Sao Sebastiao Do Oeste,MG,6948.0,0,BAIXO
+Sao Sebastiao Do Paraiso,MG,71915.0,0,BAIXO
+Sao Sebastiao Do Rio Preto,MG,1478.0,0,BAIXO
+Sao Sebastiao Do Rio Verde,MG,2259.0,0,BAIXO
+Sao Tiago,MG,10979.0,0,BAIXO
+Sao Tomas De Aquino,MG,6980.0,0,BAIXO
+Sao Tome Das Letras,MG,7151.0,0,BAIXO
+Sao Vicente De Minas,MG,7876.0,0,BAIXO
+Sapucai-Mirim,MG,7045.0,0,BAIXO
+Sardoa,MG,6421.0,0,BAIXO
+Sarzedo,MG,34050.0,0,BAIXO
+Setubinha,MG,12493.0,0,BAIXO
+Sem-Peixe,MG,2579.0,0,BAIXO
+Senador Amaral,MG,5365.0,0,BAIXO
+Senador Cortes,MG,2001.0,0,BAIXO
+Senador Firmino,MG,7902.0,0,BAIXO
+Senador Jose Bento,MG,1422.0,0,BAIXO
+Senador Modestino Goncalves,MG,4056.0,0,BAIXO
+Senhora De Oliveira,MG,5786.0,0,BAIXO
+Senhora Do Porto,MG,3516.0,0,BAIXO
+Senhora Dos Remedios,MG,10474.0,0,BAIXO
+Sericita,MG,7340.0,0,BAIXO
+Seritinga,MG,1857.0,0,BAIXO
+Serra Azul De Minas,MG,4292.0,0,BAIXO
+Serra Da Saudade,MG,771.0,0,BAIXO
+Serra Dos Aimores,MG,8725.0,0,BAIXO
+Serra Do Salitre,MG,11750.0,0,BAIXO
+Serrania,MG,7667.0,0,BAIXO
+Serranopolis De Minas,MG,4836.0,0,BAIXO
+Serranos,MG,1949.0,0,BAIXO
+Serro,MG,20915.0,0,BAIXO
+Sete Lagoas,MG,243950.0,0,MEDIO
+Silveirania,MG,2267.0,0,BAIXO
+Silvianopolis,MG,6258.0,0,BAIXO
+Simao Pereira,MG,2621.0,0,BAIXO
+Simonesia,MG,19834.0,0,BAIXO
+Sobralia,MG,5476.0,0,BAIXO
+Soledade De Minas,MG,6226.0,0,BAIXO
+Tabuleiro,MG,3669.0,0,BAIXO
+Taiobeiras,MG,34653.0,0,BAIXO
+Taparuba,MG,3093.0,0,BAIXO
+Tapira,MG,4890.0,0,BAIXO
+Tapirai,MG,1869.0,0,BAIXO
+Taquaracu De Minas,MG,4120.0,0,BAIXO
+Tarumirim,MG,14280.0,0,BAIXO
+Teixeiras,MG,11680.0,0,BAIXO
+Teofilo Otoni,MG,141269.0,0,MEDIO
+Timoteo,MG,91268.0,0,BAIXO
+Tiradentes,MG,8160.0,0,BAIXO
+Tiros,MG,6369.0,0,BAIXO
+Tocantins,MG,16769.0,0,BAIXO
+Tocos Do Moji,MG,4117.0,0,BAIXO
+Toledo,MG,6336.0,0,BAIXO
+Tombos,MG,7683.0,0,BAIXO
+Tres Coracoes,MG,80561.0,0,BAIXO
+Tres Marias,MG,33062.0,0,BAIXO
+Tres Pontas,MG,57127.0,0,BAIXO
+Tumiritinga,MG,6797.0,0,BAIXO
+Tupaciguara,MG,25466.0,0,BAIXO
+Turmalina,MG,20280.0,0,BAIXO
+Turvolandia,MG,5099.0,0,BAIXO
+Uba,MG,117995.0,0,MEDIO
+Ubai,MG,12661.0,0,BAIXO
+Ubaporanga,MG,12514.0,0,BAIXO
+Uberaba,MG,340277.0,0,MEDIO
+Uberlandia,MG,706597.0,0,ALTO
+Umburatiba,MG,2582.0,0,BAIXO
+Unai,MG,85461.0,0,BAIXO
+Uniao De Minas,MG,4265.0,0,BAIXO
+Uruana De Minas,MG,3256.0,0,BAIXO
+Urucania,MG,10333.0,0,BAIXO
+Urucuia,MG,17470.0,0,BAIXO
+Vargem Alegre,MG,6460.0,0,BAIXO
+Vargem Bonita,MG,2143.0,0,BAIXO
+Vargem Grande Do Rio Pardo,MG,5045.0,0,BAIXO
+Varginha,MG,137608.0,0,MEDIO
+Varjao De Minas,MG,7235.0,0,BAIXO
+Varzea Da Palma,MG,40101.0,0,BAIXO
+Varzelandia,MG,19290.0,0,BAIXO
+Vazante,MG,20692.0,0,BAIXO
+Verdelandia,MG,9527.0,0,BAIXO
+Veredinha,MG,5733.0,0,BAIXO
+Verissimo,MG,4090.0,0,BAIXO
+Vermelho Novo,MG,4852.0,0,BAIXO
+Vespasiano,MG,131849.0,0,MEDIO
+Vicosa,MG,79910.0,0,BAIXO
+Vieiras,MG,3570.0,0,BAIXO
+Mathias Lobato,MG,3157.0,0,BAIXO
+Virgem Da Lapa,MG,13729.0,0,BAIXO
+Virginia,MG,8652.0,0,BAIXO
+Virginopolis,MG,10459.0,0,BAIXO
+Virgolandia,MG,5303.0,0,BAIXO
+Visconde Do Rio Branco,MG,43351.0,0,BAIXO
+Volta Grande,MG,5270.0,0,BAIXO
+Wenceslau Braz,MG,2543.0,0,BAIXO
+Afonso Claudio,ES,30326.0,0,BAIXO
+Aguia Branca,ES,9621.0,0,BAIXO
+Agua Doce Do Norte,ES,10801.0,0,BAIXO
+Alegre,ES,29869.0,0,BAIXO
+Alfredo Chaves,ES,14670.0,0,BAIXO
+Alto Rio Novo,ES,7911.0,0,BAIXO
+Anchieta,ES,30285.0,0,BAIXO
+Apiaca,ES,7542.0,0,BAIXO
+Aracruz,ES,104942.0,0,MEDIO
+Atilio Vivacqua,ES,12270.0,0,BAIXO
+Baixo Guandu,ES,31263.0,0,BAIXO
+Barra De Sao Francisco,ES,45301.0,0,BAIXO
+Boa Esperanca,ES,15146.0,0,BAIXO
+Bom Jesus Do Norte,ES,9988.0,0,BAIXO
+Brejetuba,ES,12450.0,0,BAIXO
+Cachoeiro De Itapemirim,ES,212172.0,0,MEDIO
+Cariacica,ES,386495.0,0,MEDIO
+Castelo,ES,37956.0,0,BAIXO
+Colatina,ES,124283.0,0,MEDIO
+Conceicao Da Barra,ES,31479.0,0,BAIXO
+Conceicao Do Castelo,ES,12887.0,0,BAIXO
+Divino De Sao Lourenco,ES,4236.0,0,BAIXO
+Domingos Martins,ES,34120.0,0,BAIXO
+Dores Do Rio Preto,ES,6793.0,0,BAIXO
+Ecoporanga,ES,22748.0,0,BAIXO
+Fundao,ES,22379.0,0,BAIXO
+Governador Lindenberg,ES,13047.0,0,BAIXO
+Guacui,ES,31372.0,0,BAIXO
+Guarapari,ES,128504.0,0,MEDIO
+Ibatiba,ES,26762.0,0,BAIXO
+Ibiracu,ES,12701.0,0,BAIXO
+Ibitirama,ES,8830.0,0,BAIXO
+Iconha,ES,14083.0,0,BAIXO
+Irupi,ES,13672.0,0,BAIXO
+Itaguacu,ES,13982.0,0,BAIXO
+Itapemirim,ES,34957.0,0,BAIXO
+Itarana,ES,10433.0,0,BAIXO
+Iuna,ES,29417.0,0,BAIXO
+Jaguare,ES,31589.0,0,BAIXO
+Jeronimo Monteiro,ES,12336.0,0,BAIXO
+Joao Neiva,ES,16774.0,0,BAIXO
+Laranja Da Terra,ES,10919.0,0,BAIXO
+Linhares,ES,179755.0,0,MEDIO
+Mantenopolis,ES,15653.0,0,BAIXO
+Marataizes,ES,39259.0,0,BAIXO
+Marechal Floriano,ES,17141.0,0,BAIXO
+Marilandia,ES,13091.0,0,BAIXO
+Mimoso Do Sul,ES,26079.0,0,BAIXO
+Montanha,ES,18954.0,0,BAIXO
+Mucurici,ES,5468.0,0,BAIXO
+Muniz Freire,ES,17176.0,0,BAIXO
+Muqui,ES,15602.0,0,BAIXO
+Nova Venecia,ES,50751.0,0,BAIXO
+Pancas,ES,23426.0,0,BAIXO
+Pedro Canario,ES,26575.0,0,BAIXO
+Pinheiros,ES,27601.0,0,BAIXO
+Piuma,ES,22388.0,0,BAIXO
+Ponto Belo,ES,8016.0,0,BAIXO
+Presidente Kennedy,ES,11741.0,0,BAIXO
+Rio Bananal,ES,19398.0,0,BAIXO
+Rio Novo Do Sul,ES,11630.0,0,BAIXO
+Santa Leopoldina,ES,12171.0,0,BAIXO
+Santa Maria De Jetiba,ES,41588.0,0,BAIXO
+Santa Teresa,ES,23853.0,0,BAIXO
+Sao Domingos Do Norte,ES,8735.0,0,BAIXO
+Sao Gabriel Da Palha,ES,39085.0,0,BAIXO
+Sao Jose Do Calcado,ES,10536.0,0,BAIXO
+Sao Mateus,ES,134629.0,0,MEDIO
+Sao Roque Do Canaa,ES,12602.0,0,BAIXO
+Serra,ES,536765.0,0,ALTO
+Sooretama,ES,31278.0,0,BAIXO
+Vargem Alta,ES,21778.0,0,BAIXO
+Venda Nova Do Imigrante,ES,26204.0,0,BAIXO
+Viana,ES,80735.0,0,BAIXO
+Vila Pavao,ES,9280.0,0,BAIXO
+Vila Valerio,ES,14065.0,0,BAIXO
+Vila Velha,ES,508655.0,0,ALTO
+Vitoria,ES,369534.0,1,MEDIO
+Angra Dos Reis,RJ,210171.0,0,MEDIO
+Aperibe,RJ,12036.0,0,BAIXO
+Araruama,RJ,136109.0,0,MEDIO
+Areal,RJ,12763.0,0,BAIXO
+Armacao Dos Buzios,RJ,35060.0,0,BAIXO
+Arraial Do Cabo,RJ,30827.0,0,BAIXO
+Barra Do Pirai,RJ,101139.0,0,MEDIO
+Barra Mansa,RJ,185237.0,0,MEDIO
+Belford Roxo,RJ,515239.0,0,ALTO
+Bom Jardim,RJ,27779.0,0,BAIXO
+Bom Jesus Do Itabapoana,RJ,37306.0,0,BAIXO
+Cabo Frio,RJ,234077.0,0,MEDIO
+Cachoeiras De Macacu,RJ,59652.0,0,BAIXO
+Cambuci,RJ,15521.0,0,BAIXO
+Carapebus,RJ,16859.0,0,BAIXO
+Comendador Levy Gasparian,RJ,8590.0,0,BAIXO
+Campos Dos Goytacazes,RJ,514643.0,0,ALTO
+Cantagalo,RJ,20163.0,0,BAIXO
+Cardoso Moreira,RJ,12818.0,0,BAIXO
+Carmo,RJ,19161.0,0,BAIXO
+Casimiro De Abreu,RJ,45864.0,0,BAIXO
+Conceicao De Macabu,RJ,23561.0,0,BAIXO
+Cordeiro,RJ,22152.0,0,BAIXO
+Duas Barras,RJ,11563.0,0,BAIXO
+Duque De Caxias,RJ,929449.0,0,ALTO
+Engenheiro Paulo De Frontin,RJ,14138.0,0,BAIXO
+Guapimirim,RJ,62225.0,0,BAIXO
+Iguaba Grande,RJ,29344.0,0,BAIXO
+Itaborai,RJ,244416.0,0,MEDIO
+Itaguai,RJ,136547.0,0,MEDIO
+Italva,RJ,15387.0,0,BAIXO
+Itaocara,RJ,23211.0,0,BAIXO
+Itaperuna,RJ,104354.0,0,MEDIO
+Itatiaia,RJ,32312.0,0,BAIXO
+Japeri,RJ,106296.0,0,MEDIO
+Laje Do Muriae,RJ,7298.0,0,BAIXO
+Macae,RJ,266136.0,0,MEDIO
+Macuco,RJ,5646.0,0,BAIXO
+Mage,RJ,247741.0,0,MEDIO
+Mangaratiba,RJ,45941.0,0,BAIXO
+Marica,RJ,167668.0,0,MEDIO
+Mendes,RJ,18681.0,0,BAIXO
+Mesquita,RJ,177016.0,0,MEDIO
+Miguel Pereira,RJ,25622.0,0,BAIXO
+Miracema,RJ,27134.0,0,BAIXO
+Natividade,RJ,15305.0,0,BAIXO
+Nilopolis,RJ,162893.0,0,MEDIO
+Niteroi,RJ,516981.0,0,ALTO
+Nova Friburgo,RJ,191664.0,0,MEDIO
+Nova Iguacu,RJ,825388.0,0,ALTO
+Paracambi,RJ,53093.0,0,BAIXO
+Paraiba Do Sul,RJ,44741.0,0,BAIXO
+Paraty,RJ,44175.0,0,BAIXO
+Paty Do Alferes,RJ,27942.0,0,BAIXO
+Petropolis,RJ,307144.0,0,MEDIO
+Pinheiral,RJ,25563.0,0,BAIXO
+Pirai,RJ,29802.0,0,BAIXO
+Porciuncula,RJ,19068.0,0,BAIXO
+Porto Real,RJ,20254.0,0,BAIXO
+Quatis,RJ,14562.0,0,BAIXO
+Queimados,RJ,152311.0,0,MEDIO
+Quissama,RJ,25535.0,0,BAIXO
+Resende,RJ,133244.0,0,MEDIO
+Rio Bonito,RJ,60930.0,0,BAIXO
+Rio Claro,RJ,18677.0,0,BAIXO
+Rio Das Flores,RJ,9401.0,0,BAIXO
+Rio Das Ostras,RJ,159529.0,0,MEDIO
+Rio De Janeiro,RJ,6775561.0,1,ALTO
+Santa Maria Madalena,RJ,10380.0,0,BAIXO
+Santo Antonio De Padua,RJ,42705.0,0,BAIXO
+Sao Francisco De Itabapoana,RJ,42214.0,0,BAIXO
+Sao Fidelis,RJ,38749.0,0,BAIXO
+Sao Goncalo,RJ,1098357.0,0,ALTO
+Sao Joao Da Barra,RJ,36731.0,0,BAIXO
+Sao Joao De Meriti,RJ,473385.0,0,MEDIO
+Sao Jose De Uba,RJ,7240.0,0,BAIXO
+Sao Jose Do Vale Do Rio Preto,RJ,22032.0,0,BAIXO
+Sao Pedro Da Aldeia,RJ,107556.0,0,MEDIO
+Sao Sebastiao Do Alto,RJ,9416.0,0,BAIXO
+Sapucaia,RJ,18270.0,0,BAIXO
+Saquarema,RJ,91938.0,0,BAIXO
+Seropedica,RJ,83841.0,0,BAIXO
+Silva Jardim,RJ,21775.0,0,BAIXO
+Sumidouro,RJ,15709.0,0,BAIXO
+Tangua,RJ,34898.0,0,BAIXO
+Teresopolis,RJ,185820.0,0,MEDIO
+Trajano De Moraes,RJ,10653.0,0,BAIXO
+Tres Rios,RJ,82468.0,0,BAIXO
+Valenca,RJ,77202.0,0,BAIXO
+Varre-Sai,RJ,11208.0,0,BAIXO
+Vassouras,RJ,37262.0,0,BAIXO
+Volta Redonda,RJ,274925.0,0,MEDIO
+Adamantina,SP,35153.0,0,BAIXO
+Adolfo,SP,3545.0,0,BAIXO
+Aguai,SP,36981.0,0,BAIXO
+Aguas Da Prata,SP,8262.0,0,BAIXO
+Aguas De Lindoia,SP,18908.0,0,BAIXO
+Aguas De Santa Barbara,SP,6142.0,0,BAIXO
+Aguas De Sao Pedro,SP,3588.0,0,BAIXO
+Agudos,SP,37582.0,0,BAIXO
+Alambari,SP,6231.0,0,BAIXO
+Alfredo Marcondes,SP,4201.0,0,BAIXO
+Altair,SP,4211.0,0,BAIXO
+Altinopolis,SP,16221.0,0,BAIXO
+Alto Alegre,SP,4078.0,0,BAIXO
+Aluminio,SP,18903.0,0,BAIXO
+Alvares Florence,SP,3616.0,0,BAIXO
+Alvares Machado,SP,25078.0,0,BAIXO
+Alvaro De Carvalho,SP,5320.0,0,BAIXO
+Alvinlandia,SP,3251.0,0,BAIXO
+Americana,SP,244370.0,0,MEDIO
+Americo Brasiliense,SP,41545.0,0,BAIXO
+Americo De Campos,SP,5993.0,0,BAIXO
+Amparo,SP,73145.0,0,BAIXO
+Analandia,SP,5115.0,0,BAIXO
+Andradina,SP,57245.0,0,BAIXO
+Angatuba,SP,25724.0,0,BAIXO
+Anhembi,SP,6911.0,0,BAIXO
+Anhumas,SP,4172.0,0,BAIXO
+Aparecida,SP,36211.0,0,BAIXO
+Aparecida D'Oeste,SP,4122.0,0,BAIXO
+Apiai,SP,24081.0,0,BAIXO
+Aracariguama,SP,23343.0,0,BAIXO
+Aracatuba,SP,199210.0,0,MEDIO
+Aracoiaba Da Serra,SP,35389.0,0,BAIXO
+Aramina,SP,5689.0,0,BAIXO
+Arandu,SP,6373.0,0,BAIXO
+Arapei,SP,2452.0,0,BAIXO
+Araraquara,SP,240542.0,0,MEDIO
+Araras,SP,136739.0,0,MEDIO
+Arco-Iris,SP,1755.0,0,BAIXO
+Arealva,SP,8665.0,0,BAIXO
+Areias,SP,3906.0,0,BAIXO
+Areiopolis,SP,11186.0,0,BAIXO
+Ariranha,SP,9851.0,0,BAIXO
+Artur Nogueira,SP,56247.0,0,BAIXO
+Aruja,SP,92453.0,0,BAIXO
+Aspasia,SP,1815.0,0,BAIXO
+Assis,SP,105768.0,0,MEDIO
+Atibaia,SP,145378.0,0,MEDIO
+Auriflama,SP,15316.0,0,BAIXO
+Avai,SP,5467.0,0,BAIXO
+Avanhandava,SP,14063.0,0,BAIXO
+Avare,SP,91792.0,0,BAIXO
+Bady Bassitt,SP,18013.0,0,BAIXO
+Balbinos,SP,6127.0,0,BAIXO
+Balsamo,SP,9209.0,0,BAIXO
+Bananal,SP,11039.0,0,BAIXO
+Barao De Antonina,SP,3525.0,0,BAIXO
+Barbosa,SP,7532.0,0,BAIXO
+Bariri,SP,35844.0,0,BAIXO
+Barra Bonita,SP,36125.0,0,BAIXO
+Barra Do Chapeu,SP,5794.0,0,BAIXO
+Barra Do Turvo,SP,7606.0,0,BAIXO
+Barretos,SP,123546.0,0,MEDIO
+Barrinha,SP,33537.0,0,BAIXO
+Barueri,SP,279704.0,0,MEDIO
+Bastos,SP,20952.0,0,BAIXO
+Batatais,SP,63438.0,0,BAIXO
+Bauru,SP,381706.0,0,MEDIO
+Bebedouro,SP,77612.0,0,BAIXO
+Bento De Abreu,SP,3028.0,0,BAIXO
+Bernardino De Campos,SP,11168.0,0,BAIXO
+Bertioga,SP,66154.0,0,BAIXO
+Bilac,SP,8197.0,0,BAIXO
+Birigui,SP,126094.0,0,MEDIO
+Biritiba Mirim,SP,33265.0,0,BAIXO
+Boa Esperanca Do Sul,SP,15111.0,0,BAIXO
+Bocaina,SP,12571.0,0,BAIXO
+Bofete,SP,12107.0,0,BAIXO
+Boituva,SP,63310.0,0,BAIXO
+Bom Jesus Dos Perdoes,SP,26506.0,0,BAIXO
+Bom Sucesso De Itarare,SP,4013.0,0,BAIXO
+Bora,SP,839.0,0,BAIXO
+Boraceia,SP,4913.0,0,BAIXO
+Borborema,SP,16278.0,0,BAIXO
+Borebi,SP,2713.0,0,BAIXO
+Botucatu,SP,149718.0,0,MEDIO
+Braganca Paulista,SP,172346.0,0,MEDIO
+Brauna,SP,5795.0,0,BAIXO
+Brejo Alegre,SP,2911.0,0,BAIXO
+Brodowski,SP,25605.0,0,BAIXO
+Brotas,SP,24862.0,0,BAIXO
+Buri,SP,20050.0,0,BAIXO
+Buritama,SP,17414.0,0,BAIXO
+Buritizal,SP,4547.0,0,BAIXO
+Cabralia Paulista,SP,4222.0,0,BAIXO
+Cabreuva,SP,51130.0,0,BAIXO
+Cacapava,SP,95752.0,0,BAIXO
+Cachoeira Paulista,SP,33827.0,0,BAIXO
+Caconde,SP,19031.0,0,BAIXO
+Cafelandia,SP,17917.0,0,BAIXO
+Caiabu,SP,4195.0,0,BAIXO
+Caieiras,SP,104044.0,0,MEDIO
+Caiua,SP,6017.0,0,BAIXO
+Cajamar,SP,79034.0,0,BAIXO
+Cajati,SP,28441.0,0,BAIXO
+Cajobi,SP,10649.0,0,BAIXO
+Cajuru,SP,26613.0,0,BAIXO
+Campina Do Monte Alegre,SP,6088.0,0,BAIXO
+Campinas,SP,1223237.0,0,ALTO
+Campo Limpo Paulista,SP,86407.0,0,BAIXO
+Campos Do Jordao,SP,52713.0,0,BAIXO
+Campos Novos Paulista,SP,5028.0,0,BAIXO
+Cananeia,SP,12542.0,0,BAIXO
+Canas,SP,5268.0,0,BAIXO
+Candido Mota,SP,31410.0,0,BAIXO
+Candido Rodrigues,SP,2805.0,0,BAIXO
+Canitar,SP,5365.0,0,BAIXO
+Capao Bonito,SP,47098.0,0,BAIXO
+Capela Do Alto,SP,21257.0,0,BAIXO
+Capivari,SP,56973.0,0,BAIXO
+Caraguatatuba,SP,125194.0,0,MEDIO
+Carapicuiba,SP,405375.0,0,MEDIO
+Cardoso,SP,12371.0,0,BAIXO
+Casa Branca,SP,30655.0,0,BAIXO
+Cassia Dos Coqueiros,SP,2488.0,0,BAIXO
+Castilho,SP,21521.0,0,BAIXO
+Catanduva,SP,123114.0,0,MEDIO
+Catigua,SP,7905.0,0,BAIXO
+Cedral,SP,9452.0,0,BAIXO
+Cerqueira Cesar,SP,20391.0,0,BAIXO
+Cerquilho,SP,50631.0,0,BAIXO
+Cesario Lange,SP,18595.0,0,BAIXO
+Charqueada,SP,17539.0,0,BAIXO
+Clementina,SP,8894.0,0,BAIXO
+Colina,SP,18601.0,0,BAIXO
+Colombia,SP,6223.0,0,BAIXO
+Conchal,SP,28491.0,0,BAIXO
+Conchas,SP,18138.0,0,BAIXO
+Cordeiropolis,SP,25116.0,0,BAIXO
+Coroados,SP,6197.0,0,BAIXO
+Coronel Macedo,SP,4591.0,0,BAIXO
+Corumbatai,SP,4072.0,0,BAIXO
+Cosmopolis,SP,74662.0,0,BAIXO
+Cosmorama,SP,7289.0,0,BAIXO
+Cotia,SP,257882.0,0,MEDIO
+Cravinhos,SP,35858.0,0,BAIXO
+Cristais Paulista,SP,8803.0,0,BAIXO
+Cruzalia,SP,2021.0,0,BAIXO
+Cruzeiro,SP,82895.0,0,BAIXO
+Cubatao,SP,132521.0,0,MEDIO
+Cunha,SP,21373.0,0,BAIXO
+Descalvado,SP,34097.0,0,BAIXO
+Diadema,SP,429550.0,0,MEDIO
+Dirce Reis,SP,1805.0,0,BAIXO
+Divinolandia,SP,11027.0,0,BAIXO
+Dobrada,SP,9088.0,0,BAIXO
+Dois Corregos,SP,27704.0,0,BAIXO
+Dolcinopolis,SP,2108.0,0,BAIXO
+Dourado,SP,8883.0,0,BAIXO
+Dracena,SP,47287.0,0,BAIXO
+Duartina,SP,12421.0,0,BAIXO
+Dumont,SP,10174.0,0,BAIXO
+Echapora,SP,6026.0,0,BAIXO
+Eldorado,SP,15592.0,0,BAIXO
+Elias Fausto,SP,18095.0,0,BAIXO
+Elisiario,SP,3742.0,0,BAIXO
+Embauba,SP,2446.0,0,BAIXO
+Embu Das Artes,SP,279264.0,0,MEDIO
+Embu-Guacu,SP,70402.0,0,BAIXO
+Emilianopolis,SP,3238.0,0,BAIXO
+Engenheiro Coelho,SP,21712.0,0,BAIXO
+Espirito Santo Do Pinhal,SP,44607.0,0,BAIXO
+Espirito Santo Do Turvo,SP,4926.0,0,BAIXO
+Estrela D'Oeste,SP,8420.0,0,BAIXO
+Estrela Do Norte,SP,2774.0,0,BAIXO
+Euclides Da Cunha Paulista,SP,9280.0,0,BAIXO
+Fartura,SP,16102.0,0,BAIXO
+Fernandopolis,SP,69680.0,0,BAIXO
+Fernando Prestes,SP,5805.0,0,BAIXO
+Fernao,SP,1739.0,0,BAIXO
+Ferraz De Vasconcelos,SP,198661.0,0,MEDIO
+Flora Rica,SP,1397.0,0,BAIXO
+Floreal,SP,2884.0,0,BAIXO
+Florida Paulista,SP,14936.0,0,BAIXO
+Florinea,SP,2631.0,0,BAIXO
+Franca,SP,358539.0,0,MEDIO
+Francisco Morato,SP,179372.0,0,MEDIO
+Franco Da Rocha,SP,158438.0,0,MEDIO
+Gabriel Monteiro,SP,2776.0,0,BAIXO
+Galia,SP,6419.0,0,BAIXO
+Garca,SP,44429.0,0,BAIXO
+Gastao Vidigal,SP,4911.0,0,BAIXO
+Gaviao Peixoto,SP,4841.0,0,BAIXO
+General Salgado,SP,10855.0,0,BAIXO
+Getulina,SP,11485.0,0,BAIXO
+Glicerio,SP,4842.0,0,BAIXO
+Guaicara,SP,12416.0,0,BAIXO
+Guaimbe,SP,5806.0,0,BAIXO
+Guaira,SP,41283.0,0,BAIXO
+Guapiacu,SP,22087.0,0,BAIXO
+Guapiara,SP,16896.0,0,BAIXO
+Guara,SP,21394.0,0,BAIXO
+Guaracai,SP,8258.0,0,BAIXO
+Guaraci,SP,11382.0,0,BAIXO
+Guarani D'Oeste,SP,1996.0,0,BAIXO
+Guaranta,SP,6685.0,0,BAIXO
+Guararapes,SP,33257.0,0,BAIXO
+Guararema,SP,30465.0,0,BAIXO
+Guaratingueta,SP,123192.0,0,MEDIO
+Guarei,SP,19244.0,0,BAIXO
+Guariba,SP,40857.0,0,BAIXO
+Guaruja,SP,324977.0,0,MEDIO
+Guarulhos,SP,1404694.0,0,ALTO
+Guatapara,SP,7760.0,0,BAIXO
+Guzolandia,SP,5346.0,0,BAIXO
+Herculandia,SP,9649.0,0,BAIXO
+Holambra,SP,15605.0,0,BAIXO
+Hortolandia,SP,237570.0,0,MEDIO
+Iacanga,SP,12002.0,0,BAIXO
+Iacri,SP,6269.0,0,BAIXO
+Iaras,SP,9786.0,0,BAIXO
+Ibate,SP,35830.0,0,BAIXO
+Ibira,SP,12639.0,0,BAIXO
+Ibirarema,SP,7926.0,0,BAIXO
+Ibitinga,SP,61150.0,0,BAIXO
+Ibiuna,SP,80062.0,0,BAIXO
+Icem,SP,8363.0,0,BAIXO
+Iepe,SP,8228.0,0,BAIXO
+Igaracu Do Tiete,SP,24821.0,0,BAIXO
+Igarapava,SP,30791.0,0,BAIXO
+Igarata,SP,9631.0,0,BAIXO
+Iguape,SP,31117.0,0,BAIXO
+Ilhabela,SP,36194.0,0,BAIXO
+Ilha Comprida,SP,11552.0,0,BAIXO
+Ilha Solteira,SP,26886.0,0,BAIXO
+Indaiatuba,SP,260690.0,0,MEDIO
+Indiana,SP,4873.0,0,BAIXO
+Indiapora,SP,3876.0,0,BAIXO
+Inubia Paulista,SP,4045.0,0,BAIXO
+Ipaussu,SP,15165.0,0,BAIXO
+Ipero,SP,38771.0,0,BAIXO
+Ipeuna,SP,7824.0,0,BAIXO
+Ipigua,SP,5557.0,0,BAIXO
+Iporanga,SP,4180.0,0,BAIXO
+Ipua,SP,16794.0,0,BAIXO
+Iracemapolis,SP,24982.0,0,BAIXO
+Irapua,SP,8101.0,0,BAIXO
+Irapuru,SP,8356.0,0,BAIXO
+Itabera,SP,17405.0,0,BAIXO
+Itai,SP,27632.0,0,BAIXO
+Itajobi,SP,15331.0,0,BAIXO
+Itaju,SP,3937.0,0,BAIXO
+Itanhaem,SP,104351.0,0,MEDIO
+Itaoca,SP,3332.0,0,BAIXO
+Itapecerica Da Serra,SP,179574.0,0,MEDIO
+Itapetininga,SP,167106.0,0,MEDIO
+Itapeva,SP,95241.0,0,BAIXO
+Itapevi,SP,244131.0,0,MEDIO
+Itapira,SP,75683.0,0,BAIXO
+Itapirapua Paulista,SP,4294.0,0,BAIXO
+Itapolis,SP,43536.0,0,BAIXO
+Itaporanga,SP,15197.0,0,BAIXO
+Itapui,SP,14297.0,0,BAIXO
+Itapura,SP,4994.0,0,BAIXO
+Itaquaquecetuba,SP,379082.0,0,MEDIO
+Itarare,SP,50778.0,0,BAIXO
+Itariri,SP,17754.0,0,BAIXO
+Itatiba,SP,124254.0,0,MEDIO
+Itatinga,SP,21139.0,0,BAIXO
+Itirapina,SP,18610.0,0,BAIXO
+Itirapua,SP,6587.0,0,BAIXO
+Itobi,SP,7862.0,0,BAIXO
+Itu,SP,177150.0,0,MEDIO
+Itupeva,SP,64330.0,0,BAIXO
+Ituverava,SP,42259.0,0,BAIXO
+Jaborandi,SP,6963.0,0,BAIXO
+Jaboticabal,SP,78029.0,0,BAIXO
+Jacarei,SP,237119.0,0,MEDIO
+Jaci,SP,7322.0,0,BAIXO
+Jacupiranga,SP,17911.0,0,BAIXO
+Jaguariuna,SP,59921.0,0,BAIXO
+Jales,SP,49291.0,0,BAIXO
+Jambeiro,SP,6828.0,0,BAIXO
+Jandira,SP,127734.0,0,MEDIO
+Jardinopolis,SP,45544.0,0,BAIXO
+Jarinu,SP,31173.0,0,BAIXO
+Jau,SP,153463.0,0,MEDIO
+Jeriquara,SP,3143.0,0,BAIXO
+Joanopolis,SP,13453.0,0,BAIXO
+Joao Ramalho,SP,4577.0,0,BAIXO
+Jose Bonifacio,SP,37707.0,0,BAIXO
+Julio Mesquita,SP,4824.0,0,BAIXO
+Jumirim,SP,3467.0,0,BAIXO
+Jundiai,SP,426935.0,0,MEDIO
+Junqueiropolis,SP,20978.0,0,BAIXO
+Juquia,SP,18627.0,0,BAIXO
+Juquitiba,SP,31844.0,0,BAIXO
+Lagoinha,SP,4882.0,0,BAIXO
+Laranjal Paulista,SP,29047.0,0,BAIXO
+Lavinia,SP,12581.0,0,BAIXO
+Lavrinhas,SP,7361.0,0,BAIXO
+Leme,SP,105273.0,0,MEDIO
+Lencois Paulista,SP,69533.0,0,BAIXO
+Limeira,SP,310783.0,0,MEDIO
+Lindoia,SP,8201.0,0,BAIXO
+Lins,SP,78978.0,0,BAIXO
+Lorena,SP,89532.0,0,BAIXO
+Lourdes,SP,2311.0,0,BAIXO
+Louveira,SP,51007.0,0,BAIXO
+Lucelia,SP,22022.0,0,BAIXO
+Lucianopolis,SP,2412.0,0,BAIXO
+Luis Antonio,SP,15628.0,0,BAIXO
+Luiziania,SP,5918.0,0,BAIXO
+Lupercio,SP,4608.0,0,BAIXO
+Lutecia,SP,2623.0,0,BAIXO
+Macatuba,SP,17263.0,0,BAIXO
+Macaubal,SP,8174.0,0,BAIXO
+Macedonia,SP,3686.0,0,BAIXO
+Magda,SP,3086.0,0,BAIXO
+Mairinque,SP,47723.0,0,BAIXO
+Mairipora,SP,103645.0,0,MEDIO
+Manduri,SP,9972.0,0,BAIXO
+Maraba Paulista,SP,6039.0,0,BAIXO
+Maracai,SP,14069.0,0,BAIXO
+Marapoama,SP,3097.0,0,BAIXO
+Mariapolis,SP,4098.0,0,BAIXO
+Marilia,SP,242249.0,0,MEDIO
+Marinopolis,SP,2101.0,0,BAIXO
+Martinopolis,SP,26791.0,0,BAIXO
+Matao,SP,84069.0,0,BAIXO
+Maua,SP,481725.0,0,MEDIO
+Mendonca,SP,5638.0,0,BAIXO
+Meridiano,SP,3813.0,0,BAIXO
+Mesopolis,SP,1903.0,0,BAIXO
+Miguelopolis,SP,22480.0,0,BAIXO
+Mineiros Do Tiete,SP,13023.0,0,BAIXO
+Miracatu,SP,19511.0,0,BAIXO
+Mira Estrela,SP,3125.0,0,BAIXO
+Mirandopolis,SP,29844.0,0,BAIXO
+Mirante Do Paranapanema,SP,18415.0,0,BAIXO
+Mirassol,SP,60768.0,0,BAIXO
+Mirassolandia,SP,4966.0,0,BAIXO
+Mococa,SP,69072.0,0,BAIXO
+Mogi Das Cruzes,SP,455587.0,0,MEDIO
+Mogi Guacu,SP,154146.0,0,MEDIO
+Mogi Mirim,SP,94098.0,0,BAIXO
+Mombuca,SP,3523.0,0,BAIXO
+Moncoes,SP,2274.0,0,BAIXO
+Mongagua,SP,58567.0,0,BAIXO
+Monte Alegre Do Sul,SP,8181.0,0,BAIXO
+Monte Alto,SP,51039.0,0,BAIXO
+Monte Aprazivel,SP,25651.0,0,BAIXO
+Monte Azul Paulista,SP,18928.0,0,BAIXO
+Monte Castelo,SP,4166.0,0,BAIXO
+Monteiro Lobato,SP,4739.0,0,BAIXO
+Monte Mor,SP,61707.0,0,BAIXO
+Morro Agudo,SP,33598.0,0,BAIXO
+Morungaba,SP,13936.0,0,BAIXO
+Motuca,SP,4831.0,0,BAIXO
+Murutinga Do Sul,SP,4525.0,0,BAIXO
+Nantes,SP,3215.0,0,BAIXO
+Narandiba,SP,4950.0,0,BAIXO
+Natividade Da Serra,SP,6624.0,0,BAIXO
+Nazare Paulista,SP,18866.0,0,BAIXO
+Neves Paulista,SP,8917.0,0,BAIXO
+Nhandeara,SP,11575.0,0,BAIXO
+Nipoa,SP,5381.0,0,BAIXO
+Nova Alianca,SP,7161.0,0,BAIXO
+Nova Campina,SP,9962.0,0,BAIXO
+Nova Canaa Paulista,SP,1824.0,0,BAIXO
+Nova Castilho,SP,1290.0,0,BAIXO
+Nova Europa,SP,11519.0,0,BAIXO
+Nova Granada,SP,21871.0,0,BAIXO
+Nova Guataporanga,SP,2333.0,0,BAIXO
+Nova Independencia,SP,4135.0,0,BAIXO
+Novais,SP,6057.0,0,BAIXO
+Nova Luzitania,SP,4217.0,0,BAIXO
+Nova Odessa,SP,61716.0,0,BAIXO
+Novo Horizonte,SP,41765.0,0,BAIXO
+Nuporanga,SP,7522.0,0,BAIXO
+Ocaucu,SP,4294.0,0,BAIXO
+Oleo,SP,2447.0,0,BAIXO
+Olimpia,SP,55477.0,0,BAIXO
+Onda Verde,SP,4462.0,0,BAIXO
+Oriente,SP,6569.0,0,BAIXO
+Orindiuva,SP,7318.0,0,BAIXO
+Orlandia,SP,44682.0,0,BAIXO
+Osasco,SP,701428.0,0,ALTO
+Oscar Bressane,SP,2603.0,0,BAIXO
+Osvaldo Cruz,SP,33118.0,0,BAIXO
+Ourinhos,SP,115139.0,0,MEDIO
+Ouroeste,SP,10712.0,0,BAIXO
+Ouro Verde,SP,8676.0,0,BAIXO
+Pacaembu,SP,14326.0,0,BAIXO
+Palestina,SP,13285.0,0,BAIXO
+Palmares Paulista,SP,13691.0,0,BAIXO
+Palmeira D'Oeste,SP,9173.0,0,BAIXO
+Palmital,SP,22322.0,0,BAIXO
+Panorama,SP,15944.0,0,BAIXO
+Paraguacu Paulista,SP,46180.0,0,BAIXO
+Paraibuna,SP,18302.0,0,BAIXO
+Paraiso,SP,6536.0,0,BAIXO
+Paranapanema,SP,20588.0,0,BAIXO
+Paranapua,SP,4112.0,0,BAIXO
+Parapua,SP,10934.0,0,BAIXO
+Pardinho,SP,6579.0,0,BAIXO
+Pariquera-Acu,SP,19797.0,0,BAIXO
+Parisi,SP,2177.0,0,BAIXO
+Patrocinio Paulista,SP,14941.0,0,BAIXO
+Pauliceia,SP,7540.0,0,BAIXO
+Paulinia,SP,114508.0,0,MEDIO
+Paulistania,SP,1835.0,0,BAIXO
+Paulo De Faria,SP,8973.0,0,BAIXO
+Pederneiras,SP,47523.0,0,BAIXO
+Pedra Bela,SP,6127.0,0,BAIXO
+Pedranopolis,SP,2468.0,0,BAIXO
+Pedregulho,SP,16876.0,0,BAIXO
+Pedreira,SP,48992.0,0,BAIXO
+Pedrinhas Paulista,SP,3109.0,0,BAIXO
+Pedro De Toledo,SP,11507.0,0,BAIXO
+Penapolis,SP,64098.0,0,BAIXO
+Pereira Barreto,SP,25685.0,0,BAIXO
+Pereiras,SP,8875.0,0,BAIXO
+Peruibe,SP,69697.0,0,BAIXO
+Piacatu,SP,6093.0,0,BAIXO
+Piedade,SP,55731.0,0,BAIXO
+Pilar Do Sul,SP,29612.0,0,BAIXO
+Pindamonhangaba,SP,171885.0,0,MEDIO
+Pindorama,SP,17378.0,0,BAIXO
+Pinhalzinho,SP,15564.0,0,BAIXO
+Piquerobi,SP,3706.0,0,BAIXO
+Piquete,SP,13495.0,0,BAIXO
+Piracaia,SP,27617.0,0,BAIXO
+Piracicaba,SP,410275.0,0,MEDIO
+Piraju,SP,29930.0,0,BAIXO
+Pirajui,SP,25939.0,0,BAIXO
+Pirangi,SP,11524.0,0,BAIXO
+Pirapora Do Bom Jesus,SP,19453.0,0,BAIXO
+Pirapozinho,SP,27974.0,0,BAIXO
+Pirassununga,SP,77330.0,0,BAIXO
+Piratininga,SP,13890.0,0,BAIXO
+Pitangueiras,SP,40430.0,0,BAIXO
+Planalto,SP,5370.0,0,BAIXO
+Platina,SP,3606.0,0,BAIXO
+Poa,SP,119221.0,0,MEDIO
+Poloni,SP,6166.0,0,BAIXO
+Pompeia,SP,22326.0,0,BAIXO
+Pongai,SP,3385.0,0,BAIXO
+Pontal,SP,51717.0,0,BAIXO
+Pontalinda,SP,4719.0,0,BAIXO
+Pontes Gestal,SP,2576.0,0,BAIXO
+Populina,SP,4136.0,0,BAIXO
+Porangaba,SP,10205.0,0,BAIXO
+Porto Feliz,SP,53698.0,0,BAIXO
+Porto Ferreira,SP,56848.0,0,BAIXO
+Potim,SP,25603.0,0,BAIXO
+Potirendaba,SP,17668.0,0,BAIXO
+Pracinha,SP,4327.0,0,BAIXO
+Pradopolis,SP,22239.0,0,BAIXO
+Praia Grande,SP,336454.0,0,MEDIO
+Pratania,SP,5371.0,0,BAIXO
+Presidente Alves,SP,4067.0,0,BAIXO
+Presidente Bernardes,SP,12943.0,0,BAIXO
+Presidente Epitacio,SP,44572.0,0,BAIXO
+Presidente Prudente,SP,231953.0,0,MEDIO
+Presidente Venceslau,SP,39648.0,0,BAIXO
+Promissao,SP,41211.0,0,BAIXO
+Quadra,SP,3902.0,0,BAIXO
+Quata,SP,14309.0,0,BAIXO
+Queiroz,SP,3513.0,0,BAIXO
+Queluz,SP,13788.0,0,BAIXO
+Quintana,SP,6736.0,0,BAIXO
+Rafard,SP,9126.0,0,BAIXO
+Rancharia,SP,29743.0,0,BAIXO
+Redencao Da Serra,SP,3827.0,0,BAIXO
+Regente Feijo,SP,20523.0,0,BAIXO
+Reginopolis,SP,10047.0,0,BAIXO
+Registro,SP,56463.0,0,BAIXO
+Restinga,SP,7762.0,0,BAIXO
+Ribeira,SP,3320.0,0,BAIXO
+Ribeirao Bonito,SP,13376.0,0,BAIXO
+Ribeirao Branco,SP,15984.0,0,BAIXO
+Ribeirao Corrente,SP,4786.0,0,BAIXO
+Ribeirao Do Sul,SP,4537.0,0,BAIXO
+Ribeirao Dos Indios,SP,2222.0,0,BAIXO
+Ribeirao Grande,SP,7686.0,0,BAIXO
+Ribeirao Pires,SP,125238.0,0,MEDIO
+Ribeirao Preto,SP,720116.0,0,ALTO
+Riversul,SP,5364.0,0,BAIXO
+Rifaina,SP,3651.0,0,BAIXO
+Rincao,SP,10824.0,0,BAIXO
+Rinopolis,SP,9940.0,0,BAIXO
+Rio Claro,SP,209548.0,0,MEDIO
+Rio Das Pedras,SP,36233.0,0,BAIXO
+Rio Grande Da Serra,SP,52009.0,0,BAIXO
+Riolandia,SP,12856.0,0,BAIXO
+Rosana,SP,15929.0,0,BAIXO
+Roseira,SP,10888.0,0,BAIXO
+Rubiacea,SP,3195.0,0,BAIXO
+Rubineia,SP,3191.0,0,BAIXO
+Sabino,SP,5638.0,0,BAIXO
+Sagres,SP,2427.0,0,BAIXO
+Sales,SP,6481.0,0,BAIXO
+Sales Oliveira,SP,12103.0,0,BAIXO
+Salesopolis,SP,17363.0,0,BAIXO
+Salmourao,SP,5372.0,0,BAIXO
+Saltinho,SP,8498.0,0,BAIXO
+Salto,SP,120779.0,0,MEDIO
+Salto De Pirapora,SP,46285.0,0,BAIXO
+Salto Grande,SP,9396.0,0,BAIXO
+Sandovalina,SP,4405.0,0,BAIXO
+Santa Adelia,SP,15639.0,0,BAIXO
+Santa Albertina,SP,6036.0,0,BAIXO
+Santa Barbara D'Oeste,SP,195278.0,0,MEDIO
+Santa Branca,SP,14925.0,0,BAIXO
+Santa Clara D'Oeste,SP,2111.0,0,BAIXO
+Santa Cruz Da Conceicao,SP,4584.0,0,BAIXO
+Santa Cruz Da Esperanca,SP,2166.0,0,BAIXO
+Santa Cruz Das Palmeiras,SP,35102.0,0,BAIXO
+Santa Cruz Do Rio Pardo,SP,48207.0,0,BAIXO
+Santa Ernestina,SP,5577.0,0,BAIXO
+Santa Fe Do Sul,SP,32796.0,0,BAIXO
+Santa Gertrudes,SP,27850.0,0,BAIXO
+Santa Isabel,SP,58529.0,0,BAIXO
+Santa Lucia,SP,8889.0,0,BAIXO
+Santa Maria Da Serra,SP,6298.0,0,BAIXO
+Santa Mercedes,SP,2947.0,0,BAIXO
+Santana Da Ponte Pensa,SP,1448.0,0,BAIXO
+Santana De Parnaiba,SP,145073.0,0,MEDIO
+Santa Rita D'Oeste,SP,2476.0,0,BAIXO
+Santa Rita Do Passa Quatro,SP,27641.0,0,BAIXO
+Santa Rosa De Viterbo,SP,26960.0,0,BAIXO
+Santa Salete,SP,1558.0,0,BAIXO
+Santo Anastacio,SP,20855.0,0,BAIXO
+Santo Andre,SP,723889.0,0,ALTO
+Santo Antonio Da Alegria,SP,7024.0,0,BAIXO
+Santo Antonio De Posse,SP,23742.0,0,BAIXO
+Santo Antonio Do Aracangua,SP,8541.0,0,BAIXO
+Santo Antonio Do Jardim,SP,5926.0,0,BAIXO
+Santo Antonio Do Pinhal,SP,6843.0,0,BAIXO
+Santo Expedito,SP,3159.0,0,BAIXO
+Santopolis Do Aguapei,SP,4856.0,0,BAIXO
+Santos,SP,433991.0,0,MEDIO
+Sao Bento Do Sapucai,SP,10907.0,0,BAIXO
+Sao Bernardo Do Campo,SP,849874.0,0,ALTO
+Sao Caetano Do Sul,SP,162763.0,0,MEDIO
+Sao Carlos,SP,256915.0,0,MEDIO
+Sao Francisco,SP,2813.0,0,BAIXO
+Sao Joao Da Boa Vista,SP,92315.0,0,BAIXO
+Sao Joao Das Duas Pontes,SP,2555.0,0,BAIXO
+Sao Joao De Iracema,SP,1942.0,0,BAIXO
+Sao Joao Do Pau D'Alho,SP,2095.0,0,BAIXO
+Sao Joaquim Da Barra,SP,52737.0,0,BAIXO
+Sao Jose Da Bela Vista,SP,8991.0,0,BAIXO
+Sao Jose Do Barreiro,SP,4141.0,0,BAIXO
+Sao Jose Do Rio Pardo,SP,55298.0,0,BAIXO
+Sao Jose Do Rio Preto,SP,469173.0,0,MEDIO
+Sao Jose Dos Campos,SP,737310.0,0,ALTO
+Sao Lourenco Da Serra,SP,16127.0,0,BAIXO
+Sao Luiz Do Paraitinga,SP,10693.0,0,BAIXO
+Sao Manuel,SP,41287.0,0,BAIXO
+Sao Miguel Arcanjo,SP,33071.0,0,BAIXO
+Sao Paulo,SP,12396372.0,1,ALTO
+Sao Pedro,SP,36298.0,0,BAIXO
+Sao Pedro Do Turvo,SP,7724.0,0,BAIXO
+Sao Roque,SP,93076.0,0,BAIXO
+Sao Sebastiao,SP,91637.0,0,BAIXO
+Sao Sebastiao Da Grama,SP,12137.0,0,BAIXO
+Sao Simao,SP,15446.0,0,BAIXO
+Sao Vicente,SP,370839.0,0,MEDIO
+Sarapui,SP,10493.0,0,BAIXO
+Sarutaia,SP,3623.0,0,BAIXO
+Sebastianopolis Do Sul,SP,3595.0,0,BAIXO
+Serra Azul,SP,15292.0,0,BAIXO
+Serrana,SP,46166.0,0,BAIXO
+Serra Negra,SP,29669.0,0,BAIXO
+Sertaozinho,SP,128432.0,0,MEDIO
+Sete Barras,SP,12731.0,0,BAIXO
+Severinia,SP,17820.0,0,BAIXO
+Silveiras,SP,6375.0,0,BAIXO
+Socorro,SP,41690.0,0,BAIXO
+Sorocaba,SP,695328.0,0,ALTO
+Sud Mennucci,SP,7738.0,0,BAIXO
+Sumare,SP,289875.0,0,MEDIO
+Suzano,SP,303397.0,0,MEDIO
+Suzanapolis,SP,4063.0,0,BAIXO
+Tabapua,SP,12561.0,0,BAIXO
+Tabatinga,SP,16787.0,0,BAIXO
+Taboao Da Serra,SP,297528.0,0,MEDIO
+Taciba,SP,6371.0,0,BAIXO
+Taguai,SP,14415.0,0,BAIXO
+Taiacu,SP,6346.0,0,BAIXO
+Taiuva,SP,5562.0,0,BAIXO
+Tambau,SP,23255.0,0,BAIXO
+Tanabi,SP,26231.0,0,BAIXO
+Tapirai,SP,7725.0,0,BAIXO
+Tapiratiba,SP,12940.0,0,BAIXO
+Taquaral,SP,2815.0,0,BAIXO
+Taquaritinga,SP,57547.0,0,BAIXO
+Taquarituba,SP,23292.0,0,BAIXO
+Taquarivai,SP,5968.0,0,BAIXO
+Tarabai,SP,7609.0,0,BAIXO
+Taruma,SP,15361.0,0,BAIXO
+Tatui,SP,124134.0,0,MEDIO
+Taubate,SP,320820.0,0,MEDIO
+Tejupa,SP,4452.0,0,BAIXO
+Teodoro Sampaio,SP,23395.0,0,BAIXO
+Terra Roxa,SP,9502.0,0,BAIXO
+Tiete,SP,42946.0,0,BAIXO
+Timburi,SP,2647.0,0,BAIXO
+Torre De Pedra,SP,2432.0,0,BAIXO
+Torrinha,SP,10100.0,0,BAIXO
+Trabiju,SP,1752.0,0,BAIXO
+Tremembe,SP,48228.0,0,BAIXO
+Tres Fronteiras,SP,5856.0,0,BAIXO
+Tuiuti,SP,7058.0,0,BAIXO
+Tupa,SP,65615.0,0,BAIXO
+Tupi Paulista,SP,15670.0,0,BAIXO
+Turiuba,SP,2024.0,0,BAIXO
+Turmalina,SP,1667.0,0,BAIXO
+Ubarana,SP,6488.0,0,BAIXO
+Ubatuba,SP,92819.0,0,BAIXO
+Ubirajara,SP,4828.0,0,BAIXO
+Uchoa,SP,10191.0,0,BAIXO
+Uniao Paulista,SP,1886.0,0,BAIXO
+Urania,SP,9125.0,0,BAIXO
+Uru,SP,1142.0,0,BAIXO
+Urupes,SP,13965.0,0,BAIXO
+Valentim Gentil,SP,13732.0,0,BAIXO
+Valinhos,SP,133169.0,0,MEDIO
+Valparaiso,SP,27154.0,0,BAIXO
+Vargem,SP,10842.0,0,BAIXO
+Vargem Grande Do Sul,SP,43368.0,0,BAIXO
+Vargem Grande Paulista,SP,54315.0,0,BAIXO
+Varzea Paulista,SP,124269.0,0,MEDIO
+Vera Cruz,SP,10804.0,0,BAIXO
+Vinhedo,SP,81516.0,0,BAIXO
+Viradouro,SP,19133.0,0,BAIXO
+Vista Alegre Do Alto,SP,9163.0,0,BAIXO
+Vitoria Brasil,SP,1852.0,0,BAIXO
+Votorantim,SP,124468.0,0,MEDIO
+Votuporanga,SP,96106.0,0,BAIXO
+Zacarias,SP,2784.0,0,BAIXO
+Chavantes,SP,12418.0,0,BAIXO
+Estiva Gerbi,SP,11507.0,0,BAIXO
+Abatia,PR,7360.0,0,BAIXO
+Adrianopolis,PR,5797.0,0,BAIXO
+Agudos Do Sul,PR,9567.0,0,BAIXO
+Almirante Tamandare,PR,121420.0,0,MEDIO
+Altamira Do Parana,PR,1429.0,0,BAIXO
+Altonia,PR,22293.0,0,BAIXO
+Alto Parana,PR,14945.0,0,BAIXO
+Alto Piquiri,PR,9722.0,0,BAIXO
+Alvorada Do Sul,PR,11598.0,0,BAIXO
+Amapora,PR,6405.0,0,BAIXO
+Ampere,PR,19466.0,0,BAIXO
+Anahy,PR,2774.0,0,BAIXO
+Andira,PR,19823.0,0,BAIXO
+Angulo,PR,2931.0,0,BAIXO
+Antonina,PR,18919.0,0,BAIXO
+Antonio Olinto,PR,7421.0,0,BAIXO
+Apucarana,PR,137438.0,0,MEDIO
+Arapongas,PR,126545.0,0,MEDIO
+Arapoti,PR,28480.0,0,BAIXO
+Arapua,PR,2951.0,0,BAIXO
+Araruna,PR,14029.0,0,BAIXO
+Araucaria,PR,148522.0,0,MEDIO
+Ariranha Do Ivai,PR,2026.0,0,BAIXO
+Assai,PR,14792.0,0,BAIXO
+Assis Chateaubriand,PR,33306.0,0,BAIXO
+Astorga,PR,26304.0,0,BAIXO
+Atalaia,PR,3871.0,0,BAIXO
+Balsa Nova,PR,13238.0,0,BAIXO
+Bandeirantes,PR,31061.0,0,BAIXO
+Barbosa Ferraz,PR,11287.0,0,BAIXO
+Barracao,PR,10347.0,0,BAIXO
+Barra Do Jacare,PR,2781.0,0,BAIXO
+Bela Vista Da Caroba,PR,3404.0,0,BAIXO
+Bela Vista Do Paraiso,PR,15400.0,0,BAIXO
+Bituruna,PR,16411.0,0,BAIXO
+Boa Esperanca,PR,3991.0,0,BAIXO
+Boa Esperanca Do Iguacu,PR,2437.0,0,BAIXO
+Boa Ventura De Sao Roque,PR,6343.0,0,BAIXO
+Boa Vista Da Aparecida,PR,7524.0,0,BAIXO
+Bocaiuva Do Sul,PR,13308.0,0,BAIXO
+Bom Jesus Do Sul,PR,3472.0,0,BAIXO
+Bom Sucesso,PR,7103.0,0,BAIXO
+Bom Sucesso Do Sul,PR,3244.0,0,BAIXO
+Borrazopolis,PR,6290.0,0,BAIXO
+Braganey,PR,5338.0,0,BAIXO
+Brasilandia Do Sul,PR,2521.0,0,BAIXO
+Cafeara,PR,2973.0,0,BAIXO
+Cafelandia,PR,18783.0,0,BAIXO
+Cafezal Do Sul,PR,3975.0,0,BAIXO
+California,PR,8641.0,0,BAIXO
+Cambara,PR,25569.0,0,BAIXO
+Cambe,PR,108126.0,0,MEDIO
+Cambira,PR,7967.0,0,BAIXO
+Campina Da Lagoa,PR,13888.0,0,BAIXO
+Campina Do Simao,PR,3831.0,0,BAIXO
+Campina Grande Do Sul,PR,44072.0,0,BAIXO
+Campo Bonito,PR,3694.0,0,BAIXO
+Campo Do Tenente,PR,8118.0,0,BAIXO
+Campo Largo,PR,135678.0,0,MEDIO
+Campo Magro,PR,30151.0,0,BAIXO
+Campo Mourao,PR,96102.0,0,BAIXO
+Candido De Abreu,PR,14606.0,0,BAIXO
+Candoi,PR,16126.0,0,BAIXO
+Cantagalo,PR,13340.0,0,BAIXO
+Capanema,PR,19172.0,0,BAIXO
+Capitao Leonidas Marques,PR,15887.0,0,BAIXO
+Carambei,PR,24225.0,0,BAIXO
+Carlopolis,PR,14391.0,0,BAIXO
+Cascavel,PR,336073.0,0,MEDIO
+Castro,PR,72125.0,0,BAIXO
+Catanduvas,PR,10144.0,0,BAIXO
+Centenario Do Sul,PR,10704.0,0,BAIXO
+Cerro Azul,PR,17884.0,0,BAIXO
+Ceu Azul,PR,11872.0,0,BAIXO
+Chopinzinho,PR,19083.0,0,BAIXO
+Cianorte,PR,84980.0,0,BAIXO
+Cidade Gaucha,PR,12939.0,0,BAIXO
+Clevelandia,PR,16344.0,0,BAIXO
+Colombo,PR,249277.0,0,MEDIO
+Colorado,PR,24271.0,0,BAIXO
+Congonhinhas,PR,8896.0,0,BAIXO
+Conselheiro Mairinck,PR,3891.0,0,BAIXO
+Contenda,PR,19082.0,0,BAIXO
+Corbelia,PR,17162.0,0,BAIXO
+Cornelio Procopio,PR,47840.0,0,BAIXO
+Coronel Domingos Soares,PR,7538.0,0,BAIXO
+Coronel Vivida,PR,20430.0,0,BAIXO
+Corumbatai Do Sul,PR,3038.0,0,BAIXO
+Cruzeiro Do Iguacu,PR,4229.0,0,BAIXO
+Cruzeiro Do Oeste,PR,20962.0,0,BAIXO
+Cruzeiro Do Sul,PR,4430.0,0,BAIXO
+Cruz Machado,PR,18772.0,0,BAIXO
+Cruzmaltina,PR,2892.0,0,BAIXO
+Curitiba,PR,1963726.0,1,ALTO
+Curiuva,PR,15289.0,0,BAIXO
+Diamante Do Norte,PR,4975.0,0,BAIXO
+Diamante Do Sul,PR,3409.0,0,BAIXO
+Diamante D'Oeste,PR,5279.0,0,BAIXO
+Dois Vizinhos,PR,41424.0,0,BAIXO
+Douradina,PR,8988.0,0,BAIXO
+Doutor Camargo,PR,5987.0,0,BAIXO
+Eneas Marques,PR,5906.0,0,BAIXO
+Engenheiro Beltrao,PR,13962.0,0,BAIXO
+Esperanca Nova,PR,1633.0,0,BAIXO
+Entre Rios Do Oeste,PR,4651.0,0,BAIXO
+Espigao Alto Do Iguacu,PR,3980.0,0,BAIXO
+Farol,PR,2995.0,0,BAIXO
+Faxinal,PR,17379.0,0,BAIXO
+Fazenda Rio Grande,PR,103750.0,0,MEDIO
+Fenix,PR,4734.0,0,BAIXO
+Fernandes Pinheiro,PR,5561.0,0,BAIXO
+Figueira,PR,7625.0,0,BAIXO
+Florai,PR,4883.0,0,BAIXO
+Flor Da Serra Do Sul,PR,4583.0,0,BAIXO
+Floresta,PR,6926.0,0,BAIXO
+Florestopolis,PR,10360.0,0,BAIXO
+Florida,PR,2709.0,0,BAIXO
+Formosa Do Oeste,PR,6345.0,0,BAIXO
+Foz Do Iguacu,PR,257971.0,0,MEDIO
+Francisco Alves,PR,5942.0,0,BAIXO
+Francisco Beltrao,PR,93308.0,0,BAIXO
+Foz Do Jordao,PR,4466.0,0,BAIXO
+General Carneiro,PR,13661.0,0,BAIXO
+Godoy Moreira,PR,2850.0,0,BAIXO
+Goioere,PR,28734.0,0,BAIXO
+Goioxim,PR,6997.0,0,BAIXO
+Grandes Rios,PR,5379.0,0,BAIXO
+Guaira,PR,33497.0,0,BAIXO
+Guairaca,PR,6635.0,0,BAIXO
+Guamiranga,PR,8881.0,0,BAIXO
+Guapirama,PR,3767.0,0,BAIXO
+Guaporema,PR,2239.0,0,BAIXO
+Guaraci,PR,5557.0,0,BAIXO
+Guaraniacu,PR,11969.0,0,BAIXO
+Guarapuava,PR,183755.0,0,MEDIO
+Guaraquecaba,PR,7554.0,0,BAIXO
+Guaratuba,PR,37974.0,0,BAIXO
+Honorio Serpa,PR,5030.0,0,BAIXO
+Ibaiti,PR,31854.0,0,BAIXO
+Ibema,PR,6387.0,0,BAIXO
+Ibipora,PR,55688.0,0,BAIXO
+Icaraima,PR,7671.0,0,BAIXO
+Iguaracu,PR,4475.0,0,BAIXO
+Iguatu,PR,2251.0,0,BAIXO
+Imbau,PR,13449.0,0,BAIXO
+Imbituva,PR,33306.0,0,BAIXO
+Inacio Martins,PR,11117.0,0,BAIXO
+Inaja,PR,3122.0,0,BAIXO
+Indianopolis,PR,4472.0,0,BAIXO
+Ipiranga,PR,15327.0,0,BAIXO
+Ipora,PR,13642.0,0,BAIXO
+Iracema Do Oeste,PR,2216.0,0,BAIXO
+Irati,PR,61439.0,0,BAIXO
+Iretama,PR,10029.0,0,BAIXO
+Itaguaje,PR,4426.0,0,BAIXO
+Itaipulandia,PR,11588.0,0,BAIXO
+Itambaraca,PR,6516.0,0,BAIXO
+Itambe,PR,6110.0,0,BAIXO
+Itapejara D'Oeste,PR,12220.0,0,BAIXO
+Itaperucu,PR,29493.0,0,BAIXO
+Itauna Do Sul,PR,2700.0,0,BAIXO
+Ivai,PR,14049.0,0,BAIXO
+Ivaipora,PR,31886.0,0,BAIXO
+Ivate,PR,8294.0,0,BAIXO
+Ivatuba,PR,3299.0,0,BAIXO
+Jaboti,PR,5332.0,0,BAIXO
+Jacarezinho,PR,39268.0,0,BAIXO
+Jaguapita,PR,13861.0,0,BAIXO
+Jaguariaiva,PR,35192.0,0,BAIXO
+Jandaia Do Sul,PR,21281.0,0,BAIXO
+Janiopolis,PR,4948.0,0,BAIXO
+Japira,PR,4929.0,0,BAIXO
+Japura,PR,9573.0,0,BAIXO
+Jardim Alegre,PR,11067.0,0,BAIXO
+Jardim Olinda,PR,1309.0,0,BAIXO
+Jataizinho,PR,12687.0,0,BAIXO
+Jesuitas,PR,8251.0,0,BAIXO
+Joaquim Tavora,PR,12108.0,0,BAIXO
+Jundiai Do Sul,PR,3248.0,0,BAIXO
+Juranda,PR,7244.0,0,BAIXO
+Jussara,PR,7069.0,0,BAIXO
+Kalore,PR,3996.0,0,BAIXO
+Lapa,PR,48651.0,0,BAIXO
+Laranjal,PR,5719.0,0,BAIXO
+Laranjeiras Do Sul,PR,32167.0,0,BAIXO
+Leopolis,PR,3896.0,0,BAIXO
+Lidianopolis,PR,3155.0,0,BAIXO
+Lindoeste,PR,4488.0,0,BAIXO
+Loanda,PR,23393.0,0,BAIXO
+Lobato,PR,4850.0,0,BAIXO
+Londrina,PR,580870.0,0,ALTO
+Luiziana,PR,7217.0,0,BAIXO
+Lunardelli,PR,4695.0,0,BAIXO
+Lupionopolis,PR,4969.0,0,BAIXO
+Mallet,PR,13697.0,0,BAIXO
+Mambore,PR,12900.0,0,BAIXO
+Mandaguacu,PR,23373.0,0,BAIXO
+Mandaguari,PR,34628.0,0,BAIXO
+Mandirituba,PR,27750.0,0,BAIXO
+Manfrinopolis,PR,2442.0,0,BAIXO
+Mangueirinha,PR,16572.0,0,BAIXO
+Manoel Ribas,PR,13517.0,0,BAIXO
+Marechal Candido Rondon,PR,54031.0,0,BAIXO
+Maria Helena,PR,5593.0,0,BAIXO
+Marialva,PR,36103.0,0,BAIXO
+Marilandia Do Sul,PR,8793.0,0,BAIXO
+Marilena,PR,7093.0,0,BAIXO
+Mariluz,PR,10327.0,0,BAIXO
+Maringa,PR,436472.0,0,MEDIO
+Mariopolis,PR,6655.0,0,BAIXO
+Maripa,PR,5562.0,0,BAIXO
+Marmeleiro,PR,14407.0,0,BAIXO
+Marquinho,PR,4283.0,0,BAIXO
+Marumbi,PR,4676.0,0,BAIXO
+Matelandia,PR,18266.0,0,BAIXO
+Matinhos,PR,35705.0,0,BAIXO
+Mato Rico,PR,3142.0,0,BAIXO
+Maua Da Serra,PR,10994.0,0,BAIXO
+Medianeira,PR,46940.0,0,BAIXO
+Mercedes,PR,5617.0,0,BAIXO
+Mirador,PR,2180.0,0,BAIXO
+Miraselva,PR,1786.0,0,BAIXO
+Missal,PR,10706.0,0,BAIXO
+Moreira Sales,PR,11966.0,0,BAIXO
+Morretes,PR,16485.0,0,BAIXO
+Munhoz De Melo,PR,4034.0,0,BAIXO
+Nossa Senhora Das Gracas,PR,4009.0,0,BAIXO
+Nova Alianca Do Ivai,PR,1560.0,0,BAIXO
+Nova America Da Colina,PR,3424.0,0,BAIXO
+Nova Aurora,PR,10131.0,0,BAIXO
+Nova Cantu,PR,4827.0,0,BAIXO
+Nova Esperanca,PR,28062.0,0,BAIXO
+Nova Esperanca Do Sudoeste,PR,5014.0,0,BAIXO
+Nova Fatima,PR,8120.0,0,BAIXO
+Nova Laranjeiras,PR,11462.0,0,BAIXO
+Nova Londrina,PR,13188.0,0,BAIXO
+Nova Olimpia,PR,5846.0,0,BAIXO
+Nova Santa Barbara,PR,4304.0,0,BAIXO
+Nova Santa Rosa,PR,8311.0,0,BAIXO
+Nova Prata Do Iguacu,PR,10540.0,0,BAIXO
+Nova Tebas,PR,5252.0,0,BAIXO
+Novo Itacolomi,PR,2836.0,0,BAIXO
+Ortigueira,PR,21783.0,0,BAIXO
+Ourizona,PR,3423.0,0,BAIXO
+Ouro Verde Do Oeste,PR,6036.0,0,BAIXO
+Paicandu,PR,42251.0,0,BAIXO
+Palmas,PR,52503.0,0,BAIXO
+Palmeira,PR,34109.0,0,BAIXO
+Palmital,PR,12755.0,0,BAIXO
+Palotina,PR,32389.0,0,BAIXO
+Paraiso Do Norte,PR,14211.0,0,BAIXO
+Paranacity,PR,11685.0,0,BAIXO
+Paranagua,PR,157378.0,0,MEDIO
+Paranapoema,PR,3277.0,0,BAIXO
+Paranavai,PR,89454.0,0,BAIXO
+Pato Bragado,PR,5755.0,0,BAIXO
+Pato Branco,PR,84779.0,0,BAIXO
+Paula Freitas,PR,5942.0,0,BAIXO
+Paulo Frontin,PR,7418.0,0,BAIXO
+Peabiru,PR,14017.0,0,BAIXO
+Perobal,PR,6194.0,0,BAIXO
+Perola,PR,11406.0,0,BAIXO
+Perola D'Oeste,PR,6232.0,0,BAIXO
+Pien,PR,13015.0,0,BAIXO
+Pinhais,PR,134788.0,0,MEDIO
+Pinhalao,PR,6323.0,0,BAIXO
+Pinhal De Sao Bento,PR,2742.0,0,BAIXO
+Pinhao,PR,32722.0,0,BAIXO
+Pirai Do Sul,PR,25779.0,0,BAIXO
+Piraquara,PR,116852.0,0,MEDIO
+Pitanga,PR,29686.0,0,BAIXO
+Pitangueiras,PR,3298.0,0,BAIXO
+Planaltina Do Parana,PR,4281.0,0,BAIXO
+Planalto,PR,13385.0,0,BAIXO
+Ponta Grossa,PR,358838.0,0,MEDIO
+Pontal Do Parana,PR,28529.0,0,BAIXO
+Porecatu,PR,12587.0,0,BAIXO
+Porto Amazonas,PR,4899.0,0,BAIXO
+Porto Barreiro,PR,3133.0,0,BAIXO
+Porto Rico,PR,2554.0,0,BAIXO
+Porto Vitoria,PR,4057.0,0,BAIXO
+Prado Ferreira,PR,3806.0,0,BAIXO
+Pranchita,PR,5035.0,0,BAIXO
+Presidente Castelo Branco,PR,5395.0,0,BAIXO
+Primeiro De Maio,PR,11138.0,0,BAIXO
+Prudentopolis,PR,52776.0,0,BAIXO
+Quarto Centenario,PR,4420.0,0,BAIXO
+Quatigua,PR,7504.0,0,BAIXO
+Quatro Barras,PR,24253.0,0,BAIXO
+Quatro Pontes,PR,4043.0,0,BAIXO
+Quedas Do Iguacu,PR,34707.0,0,BAIXO
+Querencia Do Norte,PR,12257.0,0,BAIXO
+Quinta Do Sol,PR,4444.0,0,BAIXO
+Quitandinha,PR,19388.0,0,BAIXO
+Ramilandia,PR,4500.0,0,BAIXO
+Rancho Alegre,PR,3760.0,0,BAIXO
+Rancho Alegre D'Oeste,PR,2602.0,0,BAIXO
+Realeza,PR,16976.0,0,BAIXO
+Reboucas,PR,14991.0,0,BAIXO
+Renascenca,PR,6772.0,0,BAIXO
+Reserva,PR,26933.0,0,BAIXO
+Reserva Do Iguacu,PR,8127.0,0,BAIXO
+Ribeirao Claro,PR,10622.0,0,BAIXO
+Ribeirao Do Pinhal,PR,12869.0,0,BAIXO
+Rio Azul,PR,15433.0,0,BAIXO
+Rio Bom,PR,3162.0,0,BAIXO
+Rio Bonito Do Iguacu,PR,13240.0,0,BAIXO
+Rio Branco Do Ivai,PR,4121.0,0,BAIXO
+Rio Branco Do Sul,PR,32635.0,0,BAIXO
+Rio Negro,PR,34645.0,0,BAIXO
+Rolandia,PR,68165.0,0,BAIXO
+Roncador,PR,9447.0,0,BAIXO
+Rondon,PR,9664.0,0,BAIXO
+Rosario Do Ivai,PR,4595.0,0,BAIXO
+Sabaudia,PR,6954.0,0,BAIXO
+Salgado Filho,PR,3389.0,0,BAIXO
+Salto Do Itarare,PR,4862.0,0,BAIXO
+Salto Do Lontra,PR,14957.0,0,BAIXO
+Santa Amelia,PR,3208.0,0,BAIXO
+Santa Cecilia Do Pavao,PR,3253.0,0,BAIXO
+Santa Cruz De Monte Castelo,PR,7705.0,0,BAIXO
+Santa Fe,PR,12330.0,0,BAIXO
+Santa Helena,PR,27036.0,0,BAIXO
+Santa Ines,PR,1568.0,0,BAIXO
+Santa Isabel Do Ivai,PR,8484.0,0,BAIXO
+Santa Izabel Do Oeste,PR,14924.0,0,BAIXO
+Santa Lucia,PR,3795.0,0,BAIXO
+Santa Maria Do Oeste,PR,9210.0,0,BAIXO
+Santa Mariana,PR,11523.0,0,BAIXO
+Santa Monica,PR,4052.0,0,BAIXO
+Santana Do Itarare,PR,4916.0,0,BAIXO
+Santa Tereza Do Oeste,PR,10055.0,0,BAIXO
+Santa Terezinha De Itaipu,PR,23927.0,0,BAIXO
+Santo Antonio Da Platina,PR,46503.0,0,BAIXO
+Santo Antonio Do Caiua,PR,2611.0,0,BAIXO
+Santo Antonio Do Paraiso,PR,2032.0,0,BAIXO
+Santo Antonio Do Sudoeste,PR,20354.0,0,BAIXO
+Santo Inacio,PR,5422.0,0,BAIXO
+Sao Carlos Do Ivai,PR,6961.0,0,BAIXO
+Sao Jeronimo Da Serra,PR,11088.0,0,BAIXO
+Sao Joao,PR,10122.0,0,BAIXO
+Sao Joao Do Caiua,PR,5819.0,0,BAIXO
+Sao Joao Do Ivai,PR,9897.0,0,BAIXO
+Sao Joao Do Triunfo,PR,15359.0,0,BAIXO
+Sao Jorge D'Oeste,PR,9005.0,0,BAIXO
+Sao Jorge Do Ivai,PR,5535.0,0,BAIXO
+Sao Jorge Do Patrocinio,PR,5532.0,0,BAIXO
+Sao Jose Da Boa Vista,PR,6115.0,0,BAIXO
+Sao Jose Das Palmeiras,PR,3601.0,0,BAIXO
+Sao Jose Dos Pinhais,PR,334620.0,0,MEDIO
+Sao Manoel Do Parana,PR,2165.0,0,BAIXO
+Sao Mateus Do Sul,PR,47137.0,0,BAIXO
+Sao Miguel Do Iguacu,PR,27696.0,0,BAIXO
+Sao Pedro Do Iguacu,PR,5745.0,0,BAIXO
+Sao Pedro Do Ivai,PR,11109.0,0,BAIXO
+Sao Pedro Do Parana,PR,2265.0,0,BAIXO
+Sao Sebastiao Da Amoreira,PR,8865.0,0,BAIXO
+Sao Tome,PR,5778.0,0,BAIXO
+Sapopema,PR,6708.0,0,BAIXO
+Sarandi,PR,98888.0,0,BAIXO
+Saudade Do Iguacu,PR,5578.0,0,BAIXO
+Senges,PR,19441.0,0,BAIXO
+Serranopolis Do Iguacu,PR,4460.0,0,BAIXO
+Sertaneja,PR,5149.0,0,BAIXO
+Sertanopolis,PR,16456.0,0,BAIXO
+Siqueira Campos,PR,21476.0,0,BAIXO
+Sulina,PR,2880.0,0,BAIXO
+Tamarana,PR,15277.0,0,BAIXO
+Tamboara,PR,5196.0,0,BAIXO
+Tapejara,PR,16480.0,0,BAIXO
+Tapira,PR,5452.0,0,BAIXO
+Teixeira Soares,PR,12761.0,0,BAIXO
+Telemaco Borba,PR,80588.0,0,BAIXO
+Terra Boa,PR,17304.0,0,BAIXO
+Terra Rica,PR,17054.0,0,BAIXO
+Terra Roxa,PR,17562.0,0,BAIXO
+Tibagi,PR,20688.0,0,BAIXO
+Tijucas Do Sul,PR,17295.0,0,BAIXO
+Toledo,PR,144601.0,0,MEDIO
+Tomazina,PR,7699.0,0,BAIXO
+Tres Barras Do Parana,PR,12036.0,0,BAIXO
+Tunas Do Parana,PR,9269.0,0,BAIXO
+Tuneiras Do Oeste,PR,8502.0,0,BAIXO
+Tupassi,PR,8105.0,0,BAIXO
+Turvo,PR,12977.0,0,BAIXO
+Ubirata,PR,20809.0,0,BAIXO
+Umuarama,PR,113416.0,0,MEDIO
+Uniao Da Vitoria,PR,58298.0,0,BAIXO
+Uniflor,PR,2623.0,0,BAIXO
+Urai,PR,11233.0,0,BAIXO
+Wenceslau Braz,PR,19358.0,0,BAIXO
+Ventania,PR,12267.0,0,BAIXO
+Vera Cruz Do Oeste,PR,8389.0,0,BAIXO
+Vere,PR,7094.0,0,BAIXO
+Alto Paraiso,PR,2630.0,0,BAIXO
+Doutor Ulysses,PR,5525.0,0,BAIXO
+Virmond,PR,4051.0,0,BAIXO
+Vitorino,PR,6879.0,0,BAIXO
+Xambre,PR,5584.0,0,BAIXO
+Abdon Batista,SC,2534.0,0,BAIXO
+Abelardo Luz,SC,18015.0,0,BAIXO
+Agrolandia,SC,11160.0,0,BAIXO
+Agronomica,SC,5570.0,0,BAIXO
+Agua Doce,SC,7160.0,0,BAIXO
+Aguas De Chapeco,SC,6544.0,0,BAIXO
+Aguas Frias,SC,2341.0,0,BAIXO
+Aguas Mornas,SC,6646.0,0,BAIXO
+Alfredo Wagner,SC,10136.0,0,BAIXO
+Alto Bela Vista,SC,1915.0,0,BAIXO
+Anchieta,SC,5477.0,0,BAIXO
+Angelina,SC,4686.0,0,BAIXO
+Anita Garibaldi,SC,6783.0,0,BAIXO
+Anitapolis,SC,3223.0,0,BAIXO
+Antonio Carlos,SC,8712.0,0,BAIXO
+Apiuna,SC,10951.0,0,BAIXO
+Arabuta,SC,4268.0,0,BAIXO
+Araquari,SC,40890.0,0,BAIXO
+Ararangua,SC,69493.0,0,BAIXO
+Armazem,SC,8843.0,0,BAIXO
+Arroio Trinta,SC,3547.0,0,BAIXO
+Arvoredo,SC,2228.0,0,BAIXO
+Ascurra,SC,8021.0,0,BAIXO
+Atalanta,SC,3179.0,0,BAIXO
+Aurora,SC,5687.0,0,BAIXO
+Balneario Arroio Do Silva,SC,13782.0,0,BAIXO
+Balneario Camboriu,SC,149227.0,0,MEDIO
+Balneario Barra Do Sul,SC,11271.0,0,BAIXO
+Balneario Gaivota,SC,11537.0,0,BAIXO
+Bandeirante,SC,2618.0,0,BAIXO
+Barra Bonita,SC,1625.0,0,BAIXO
+Barra Velha,SC,30539.0,0,BAIXO
+Bela Vista Do Toldo,SC,6386.0,0,BAIXO
+Belmonte,SC,2712.0,0,BAIXO
+Benedito Novo,SC,11896.0,0,BAIXO
+Biguacu,SC,70471.0,0,BAIXO
+Blumenau,SC,366418.0,0,MEDIO
+Bocaina Do Sul,SC,3501.0,0,BAIXO
+Bombinhas,SC,20889.0,0,BAIXO
+Bom Jardim Da Serra,SC,4801.0,0,BAIXO
+Bom Jesus,SC,3104.0,0,BAIXO
+Bom Jesus Do Oeste,SC,2136.0,0,BAIXO
+Bom Retiro,SC,10153.0,0,BAIXO
+Botuvera,SC,5396.0,0,BAIXO
+Braco Do Norte,SC,34294.0,0,BAIXO
+Braco Do Trombudo,SC,3794.0,0,BAIXO
+Brunopolis,SC,2318.0,0,BAIXO
+Brusque,SC,140597.0,0,MEDIO
+Cacador,SC,80017.0,0,BAIXO
+Caibi,SC,6112.0,0,BAIXO
+Calmon,SC,3325.0,0,BAIXO
+Camboriu,SC,87179.0,0,BAIXO
+Capao Alto,SC,2467.0,0,BAIXO
+Campo Alegre,SC,11985.0,0,BAIXO
+Campo Belo Do Sul,SC,6889.0,0,BAIXO
+Campo Ere,SC,8312.0,0,BAIXO
+Campos Novos,SC,36861.0,0,BAIXO
+Canelinha,SC,12553.0,0,BAIXO
+Canoinhas,SC,54558.0,0,BAIXO
+Capinzal,SC,23218.0,0,BAIXO
+Capivari De Baixo,SC,25477.0,0,BAIXO
+Catanduvas,SC,11106.0,0,BAIXO
+Caxambu Do Sul,SC,3462.0,0,BAIXO
+Celso Ramos,SC,2709.0,0,BAIXO
+Cerro Negro,SC,3013.0,0,BAIXO
+Chapadao Do Lageado,SC,3025.0,0,BAIXO
+Chapeco,SC,227587.0,0,MEDIO
+Cocal Do Sul,SC,16956.0,0,BAIXO
+Concordia,SC,75683.0,0,BAIXO
+Cordilheira Alta,SC,4585.0,0,BAIXO
+Coronel Freitas,SC,9900.0,0,BAIXO
+Coronel Martins,SC,2560.0,0,BAIXO
+Corupa,SC,16300.0,0,BAIXO
+Correia Pinto,SC,12315.0,0,BAIXO
+Criciuma,SC,219393.0,0,MEDIO
+Cunha Pora,SC,11150.0,0,BAIXO
+Cunhatai,SC,1972.0,0,BAIXO
+Curitibanos,SC,40037.0,0,BAIXO
+Descanso,SC,8136.0,0,BAIXO
+Dionisio Cerqueira,SC,15592.0,0,BAIXO
+Dona Emma,SC,4224.0,0,BAIXO
+Doutor Pedrinho,SC,4164.0,0,BAIXO
+Entre Rios,SC,3232.0,0,BAIXO
+Ermo,SC,2059.0,0,BAIXO
+Erval Velho,SC,4423.0,0,BAIXO
+Faxinal Dos Guedes,SC,10630.0,0,BAIXO
+Flor Do Sertao,SC,1575.0,0,BAIXO
+Florianopolis,SC,516524.0,1,ALTO
+Formosa Do Sul,SC,2481.0,0,BAIXO
+Forquilhinha,SC,27621.0,0,BAIXO
+Fraiburgo,SC,36723.0,0,BAIXO
+Frei Rogerio,SC,1918.0,0,BAIXO
+Galvao,SC,2711.0,0,BAIXO
+Garopaba,SC,24070.0,0,BAIXO
+Garuva,SC,18816.0,0,BAIXO
+Gaspar,SC,71925.0,0,BAIXO
+Governador Celso Ramos,SC,14739.0,0,BAIXO
+Grao Para,SC,6621.0,0,BAIXO
+Gravatal,SC,11652.0,0,BAIXO
+Guabiruba,SC,24922.0,0,BAIXO
+Guaraciaba,SC,9964.0,0,BAIXO
+Guaramirim,SC,46757.0,0,BAIXO
+Guaruja Do Sul,SC,5196.0,0,BAIXO
+Guatambu,SC,4692.0,0,BAIXO
+Herval D'Oeste,SC,22820.0,0,BAIXO
+Ibiam,SC,1952.0,0,BAIXO
+Ibicare,SC,3154.0,0,BAIXO
+Ibirama,SC,19238.0,0,BAIXO
+Icara,SC,58055.0,0,BAIXO
+Ilhota,SC,14531.0,0,BAIXO
+Imarui,SC,9764.0,0,BAIXO
+Imbituba,SC,45711.0,0,BAIXO
+Imbuia,SC,6284.0,0,BAIXO
+Indaial,SC,72346.0,0,BAIXO
+Iomere,SC,2979.0,0,BAIXO
+Ipira,SC,4367.0,0,BAIXO
+Ipora Do Oeste,SC,9093.0,0,BAIXO
+Ipuacu,SC,7643.0,0,BAIXO
+Ipumirim,SC,7647.0,0,BAIXO
+Iraceminha,SC,3901.0,0,BAIXO
+Irani,SC,10575.0,0,BAIXO
+Irati,SC,1887.0,0,BAIXO
+Irineopolis,SC,11354.0,0,BAIXO
+Ita,SC,6091.0,0,BAIXO
+Itaiopolis,SC,21889.0,0,BAIXO
+Itajai,SC,226617.0,0,MEDIO
+Itapema,SC,69323.0,0,BAIXO
+Itapiranga,SC,17139.0,0,BAIXO
+Itapoa,SC,21766.0,0,BAIXO
+Ituporanga,SC,25619.0,0,BAIXO
+Jabora,SC,3899.0,0,BAIXO
+Jacinto Machado,SC,10337.0,0,BAIXO
+Jaguaruna,SC,20547.0,0,BAIXO
+Jaragua Do Sul,SC,184579.0,0,MEDIO
+Jardinopolis,SC,1520.0,0,BAIXO
+Joacaba,SC,30684.0,0,BAIXO
+Joinville,SC,604708.0,0,ALTO
+Jose Boiteux,SC,5019.0,0,BAIXO
+Jupia,SC,2083.0,0,BAIXO
+Lacerdopolis,SC,2248.0,0,BAIXO
+Lages,SC,157158.0,0,MEDIO
+Laguna,SC,46424.0,0,BAIXO
+Lajeado Grande,SC,1408.0,0,BAIXO
+Laurentino,SC,7154.0,0,BAIXO
+Lauro Muller,SC,15380.0,0,BAIXO
+Lebon Regis,SC,12122.0,0,BAIXO
+Leoberto Leal,SC,2960.0,0,BAIXO
+Lindoia Do Sul,SC,4530.0,0,BAIXO
+Lontras,SC,12497.0,0,BAIXO
+Luiz Alves,SC,13347.0,0,BAIXO
+Luzerna,SC,5683.0,0,BAIXO
+Macieira,SC,1757.0,0,BAIXO
+Mafra,SC,56825.0,0,BAIXO
+Major Gercino,SC,3465.0,0,BAIXO
+Major Vieira,SC,8209.0,0,BAIXO
+Maracaja,SC,7461.0,0,BAIXO
+Maravilha,SC,26463.0,0,BAIXO
+Marema,SC,1703.0,0,BAIXO
+Massaranduba,SC,17330.0,0,BAIXO
+Matos Costa,SC,2442.0,0,BAIXO
+Meleiro,SC,6989.0,0,BAIXO
+Mirim Doce,SC,2257.0,0,BAIXO
+Modelo,SC,4227.0,0,BAIXO
+Mondai,SC,12034.0,0,BAIXO
+Monte Carlo,SC,9945.0,0,BAIXO
+Monte Castelo,SC,8263.0,0,BAIXO
+Morro Da Fumaca,SC,18095.0,0,BAIXO
+Morro Grande,SC,2884.0,0,BAIXO
+Navegantes,SC,85734.0,0,BAIXO
+Nova Erechim,SC,5163.0,0,BAIXO
+Nova Itaberaba,SC,4327.0,0,BAIXO
+Nova Trento,SC,15010.0,0,BAIXO
+Nova Veneza,SC,15515.0,0,BAIXO
+Novo Horizonte,SC,2366.0,0,BAIXO
+Orleans,SC,23161.0,0,BAIXO
+Otacilio Costa,SC,19201.0,0,BAIXO
+Ouro,SC,7251.0,0,BAIXO
+Ouro Verde,SC,2197.0,0,BAIXO
+Paial,SC,1444.0,0,BAIXO
+Painel,SC,2352.0,0,BAIXO
+Palhoca,SC,178679.0,0,MEDIO
+Palma Sola,SC,7321.0,0,BAIXO
+Palmeira,SC,2673.0,0,BAIXO
+Palmitos,SC,16144.0,0,BAIXO
+Papanduva,SC,19521.0,0,BAIXO
+Paraiso,SC,3284.0,0,BAIXO
+Passo De Torres,SC,9269.0,0,BAIXO
+Passos Maia,SC,4072.0,0,BAIXO
+Paulo Lopes,SC,7642.0,0,BAIXO
+Pedras Grandes,SC,3931.0,0,BAIXO
+Penha,SC,34022.0,0,BAIXO
+Peritiba,SC,2733.0,0,BAIXO
+Pescaria Brava,SC,10225.0,0,BAIXO
+Petrolandia,SC,5873.0,0,BAIXO
+Balneario Picarras,SC,24385.0,0,BAIXO
+Pinhalzinho,SC,21103.0,0,BAIXO
+Pinheiro Preto,SC,3635.0,0,BAIXO
+Piratuba,SC,3637.0,0,BAIXO
+Planalto Alegre,SC,2907.0,0,BAIXO
+Pomerode,SC,34561.0,0,BAIXO
+Ponte Alta,SC,4619.0,0,BAIXO
+Ponte Alta Do Norte,SC,3426.0,0,BAIXO
+Ponte Serrada,SC,11674.0,0,BAIXO
+Porto Belo,SC,22466.0,0,BAIXO
+Porto Uniao,SC,35685.0,0,BAIXO
+Pouso Redondo,SC,17965.0,0,BAIXO
+Praia Grande,SC,7305.0,0,BAIXO
+Presidente Castello Branco,SC,1526.0,0,BAIXO
+Presidente Getulio,SC,17973.0,0,BAIXO
+Presidente Nereu,SC,2279.0,0,BAIXO
+Princesa,SC,2950.0,0,BAIXO
+Quilombo,SC,9773.0,0,BAIXO
+Rancho Queimado,SC,2897.0,0,BAIXO
+Rio Das Antas,SC,6199.0,0,BAIXO
+Rio Do Campo,SC,5864.0,0,BAIXO
+Rio Do Oeste,SC,7552.0,0,BAIXO
+Rio Dos Cedros,SC,11937.0,0,BAIXO
+Rio Do Sul,SC,72931.0,0,BAIXO
+Rio Fortuna,SC,4630.0,0,BAIXO
+Rio Negrinho,SC,42684.0,0,BAIXO
+Rio Rufino,SC,2484.0,0,BAIXO
+Riqueza,SC,4525.0,0,BAIXO
+Rodeio,SC,11647.0,0,BAIXO
+Romelandia,SC,4584.0,0,BAIXO
+Salete,SC,7674.0,0,BAIXO
+Saltinho,SC,3727.0,0,BAIXO
+Salto Veloso,SC,4792.0,0,BAIXO
+Sangao,SC,13128.0,0,BAIXO
+Santa Cecilia,SC,17004.0,0,BAIXO
+Santa Helena,SC,2178.0,0,BAIXO
+Santa Rosa De Lima,SC,2151.0,0,BAIXO
+Santa Rosa Do Sul,SC,8397.0,0,BAIXO
+Santa Terezinha,SC,8760.0,0,BAIXO
+Santa Terezinha Do Progresso,SC,2317.0,0,BAIXO
+Santiago Do Sul,SC,1211.0,0,BAIXO
+Santo Amaro Da Imperatriz,SC,23907.0,0,BAIXO
+Sao Bernardino,SC,2239.0,0,BAIXO
+Sao Bento Do Sul,SC,86317.0,0,BAIXO
+Sao Bonifacio,SC,2791.0,0,BAIXO
+Sao Carlos,SC,11456.0,0,BAIXO
+Sao Cristovao Do Sul,SC,5646.0,0,BAIXO
+Sao Domingos,SC,9422.0,0,BAIXO
+Sao Francisco Do Sul,SC,54751.0,0,BAIXO
+Sao Joao Do Oeste,SC,6423.0,0,BAIXO
+Sao Joao Batista,SC,39719.0,0,BAIXO
+Sao Joao Do Itaperiu,SC,3784.0,0,BAIXO
+Sao Joao Do Sul,SC,7332.0,0,BAIXO
+Sao Joaquim,SC,27322.0,0,BAIXO
+Sao Jose,SC,253705.0,0,MEDIO
+Sao Jose Do Cedro,SC,13811.0,0,BAIXO
+Sao Jose Do Cerrito,SC,8054.0,0,BAIXO
+Sao Lourenco Do Oeste,SC,24501.0,0,BAIXO
+Sao Ludgero,SC,13886.0,0,BAIXO
+Sao Martinho,SC,3162.0,0,BAIXO
+Sao Miguel Da Boa Vista,SC,1794.0,0,BAIXO
+Sao Miguel Do Oeste,SC,41246.0,0,BAIXO
+Sao Pedro De Alcantara,SC,6046.0,0,BAIXO
+Saudades,SC,9874.0,0,BAIXO
+Schroeder,SC,22605.0,0,BAIXO
+Seara,SC,17610.0,0,BAIXO
+Serra Alta,SC,3249.0,0,BAIXO
+Sideropolis,SC,14176.0,0,BAIXO
+Sombrio,SC,31084.0,0,BAIXO
+Sul Brasil,SC,2386.0,0,BAIXO
+Taio,SC,18576.0,0,BAIXO
+Tangara,SC,8648.0,0,BAIXO
+Tigrinhos,SC,1606.0,0,BAIXO
+Tijucas,SC,39889.0,0,BAIXO
+Timbe Do Sul,SC,5338.0,0,BAIXO
+Timbo,SC,45703.0,0,BAIXO
+Timbo Grande,SC,8003.0,0,BAIXO
+Tres Barras,SC,19455.0,0,BAIXO
+Treviso,SC,4002.0,0,BAIXO
+Treze De Maio,SC,7104.0,0,BAIXO
+Treze Tilias,SC,8138.0,0,BAIXO
+Trombudo Central,SC,7506.0,0,BAIXO
+Tubarao,SC,107143.0,0,MEDIO
+Tunapolis,SC,4507.0,0,BAIXO
+Turvo,SC,13080.0,0,BAIXO
+Uniao Do Oeste,SC,2364.0,0,BAIXO
+Urubici,SC,11311.0,0,BAIXO
+Urupema,SC,2453.0,0,BAIXO
+Urussanga,SC,21419.0,0,BAIXO
+Vargeao,SC,3569.0,0,BAIXO
+Vargem,SC,2387.0,0,BAIXO
+Vargem Bonita,SC,4411.0,0,BAIXO
+Vidal Ramos,SC,6321.0,0,BAIXO
+Videira,SC,54145.0,0,BAIXO
+Vitor Meireles,SC,4907.0,0,BAIXO
+Witmarsum,SC,4032.0,0,BAIXO
+Xanxere,SC,52290.0,0,BAIXO
+Xavantina,SC,3873.0,0,BAIXO
+Xaxim,SC,29254.0,0,BAIXO
+Zortea,SC,3432.0,0,BAIXO
+Balneario Rincao,SC,13129.0,0,BAIXO
+Acegua,RS,4981.0,0,BAIXO
+Agua Santa,RS,3738.0,0,BAIXO
+Agudo,RS,16344.0,0,BAIXO
+Ajuricaba,RS,6951.0,0,BAIXO
+Alecrim,RS,5710.0,0,BAIXO
+Alegrete,RS,72493.0,0,BAIXO
+Alegria,RS,3287.0,0,BAIXO
+Almirante Tamandare Do Sul,RS,1935.0,0,BAIXO
+Alpestre,RS,5885.0,0,BAIXO
+Alto Alegre,RS,1590.0,0,BAIXO
+Alto Feliz,RS,3043.0,0,BAIXO
+Alvorada,RS,212352.0,0,MEDIO
+Amaral Ferrador,RS,7136.0,0,BAIXO
+Ametista Do Sul,RS,7396.0,0,BAIXO
+Andre Da Rocha,RS,1351.0,0,BAIXO
+Anta Gorda,RS,5941.0,0,BAIXO
+Antonio Prado,RS,13041.0,0,BAIXO
+Arambare,RS,3544.0,0,BAIXO
+Ararica,RS,5840.0,0,BAIXO
+Aratiba,RS,6145.0,0,BAIXO
+Arroio Do Meio,RS,21121.0,0,BAIXO
+Arroio Do Sal,RS,10483.0,0,BAIXO
+Arroio Do Padre,RS,2966.0,0,BAIXO
+Arroio Dos Ratos,RS,14201.0,0,BAIXO
+Arroio Do Tigre,RS,13452.0,0,BAIXO
+Arroio Grande,RS,18185.0,0,BAIXO
+Arvorezinha,RS,10422.0,0,BAIXO
+Augusto Pestana,RS,6545.0,0,BAIXO
+Aurea,RS,3517.0,0,BAIXO
+Bage,RS,121518.0,0,MEDIO
+Balneario Pinhal,RS,14645.0,0,BAIXO
+Barao,RS,6232.0,0,BAIXO
+Barao De Cotegipe,RS,6616.0,0,BAIXO
+Barao Do Triunfo,RS,7550.0,0,BAIXO
+Barracao,RS,5237.0,0,BAIXO
+Barra Do Guarita,RS,3266.0,0,BAIXO
+Barra Do Quarai,RS,4238.0,0,BAIXO
+Barra Do Ribeiro,RS,13618.0,0,BAIXO
+Barra Do Rio Azul,RS,1621.0,0,BAIXO
+Barra Funda,RS,2563.0,0,BAIXO
+Barros Cassal,RS,11167.0,0,BAIXO
+Benjamin Constant Do Sul,RS,1924.0,0,BAIXO
+Bento Goncalves,RS,123090.0,0,MEDIO
+Boa Vista Das Missoes,RS,2087.0,0,BAIXO
+Boa Vista Do Burica,RS,6712.0,0,BAIXO
+Boa Vista Do Cadeado,RS,2466.0,0,BAIXO
+Boa Vista Do Incra,RS,2628.0,0,BAIXO
+Boa Vista Do Sul,RS,2773.0,0,BAIXO
+Bom Jesus,RS,11270.0,0,BAIXO
+Bom Principio,RS,14446.0,0,BAIXO
+Bom Progresso,RS,1858.0,0,BAIXO
+Bom Retiro Do Sul,RS,12448.0,0,BAIXO
+Boqueirao Do Leao,RS,7691.0,0,BAIXO
+Bossoroca,RS,6135.0,0,BAIXO
+Bozano,RS,2099.0,0,BAIXO
+Braga,RS,3271.0,0,BAIXO
+Brochier,RS,5132.0,0,BAIXO
+Butia,RS,20963.0,0,BAIXO
+Cacapava Do Sul,RS,33476.0,0,BAIXO
+Cacequi,RS,12291.0,0,BAIXO
+Cachoeira Do Sul,RS,81552.0,0,BAIXO
+Cachoeirinha,RS,132144.0,0,MEDIO
+Cacique Doble,RS,5083.0,0,BAIXO
+Caibate,RS,4802.0,0,BAIXO
+Caicara,RS,4659.0,0,BAIXO
+Camaqua,RS,66686.0,0,BAIXO
+Camargo,RS,2750.0,0,BAIXO
+Cambara Do Sul,RS,6383.0,0,BAIXO
+Campestre Da Serra,RS,3402.0,0,BAIXO
+Campina Das Missoes,RS,5325.0,0,BAIXO
+Campinas Do Sul,RS,5422.0,0,BAIXO
+Campo Bom,RS,69981.0,0,BAIXO
+Campo Novo,RS,4273.0,0,BAIXO
+Campos Borges,RS,3272.0,0,BAIXO
+Candelaria,RS,31475.0,0,BAIXO
+Candido Godoi,RS,6106.0,0,BAIXO
+Candiota,RS,9707.0,0,BAIXO
+Canela,RS,45957.0,0,BAIXO
+Cangucu,RS,56370.0,0,BAIXO
+Canoas,RS,349728.0,0,MEDIO
+Canudos Do Vale,RS,1693.0,0,BAIXO
+Capao Bonito Do Sul,RS,1628.0,0,BAIXO
+Capao Da Canoa,RS,55009.0,0,BAIXO
+Capao Do Cipo,RS,3745.0,0,BAIXO
+Capao Do Leao,RS,25462.0,0,BAIXO
+Capivari Do Sul,RS,4793.0,0,BAIXO
+Capela De Santana,RS,12183.0,0,BAIXO
+Capitao,RS,2770.0,0,BAIXO
+Carazinho,RS,62413.0,0,BAIXO
+Caraa,RS,8426.0,0,BAIXO
+Carlos Barbosa,RS,30630.0,0,BAIXO
+Carlos Gomes,RS,1327.0,0,BAIXO
+Casca,RS,9070.0,0,BAIXO
+Caseiros,RS,3228.0,0,BAIXO
+Catuipe,RS,8631.0,0,BAIXO
+Caxias Do Sul,RS,523716.0,0,ALTO
+Centenario,RS,2865.0,0,BAIXO
+Cerrito,RS,6005.0,0,BAIXO
+Cerro Branco,RS,4720.0,0,BAIXO
+Cerro Grande,RS,2281.0,0,BAIXO
+Cerro Grande Do Sul,RS,12579.0,0,BAIXO
+Cerro Largo,RS,14243.0,0,BAIXO
+Chapada,RS,9211.0,0,BAIXO
+Charqueadas,RS,41705.0,0,BAIXO
+Charrua,RS,3228.0,0,BAIXO
+Chiapetta,RS,3684.0,0,BAIXO
+Chui,RS,6832.0,0,BAIXO
+Chuvisca,RS,5518.0,0,BAIXO
+Cidreira,RS,16897.0,0,BAIXO
+Ciriaco,RS,4693.0,0,BAIXO
+Colinas,RS,2466.0,0,BAIXO
+Colorado,RS,3088.0,0,BAIXO
+Condor,RS,6766.0,0,BAIXO
+Constantina,RS,9903.0,0,BAIXO
+Coqueiro Baixo,RS,1490.0,0,BAIXO
+Coqueiros Do Sul,RS,2267.0,0,BAIXO
+Coronel Barros,RS,2521.0,0,BAIXO
+Coronel Bicaco,RS,7213.0,0,BAIXO
+Coronel Pilar,RS,1602.0,0,BAIXO
+Cotipora,RS,3824.0,0,BAIXO
+Coxilha,RS,2731.0,0,BAIXO
+Crissiumal,RS,13269.0,0,BAIXO
+Cristal,RS,8121.0,0,BAIXO
+Cristal Do Sul,RS,2840.0,0,BAIXO
+Cruz Alta,RS,59561.0,0,BAIXO
+Cruzaltense,RS,1765.0,0,BAIXO
+Cruzeiro Do Sul,RS,12457.0,0,BAIXO
+David Canabarro,RS,4732.0,0,BAIXO
+Derrubadas,RS,2718.0,0,BAIXO
+Dezesseis De Novembro,RS,2331.0,0,BAIXO
+Dilermando De Aguiar,RS,2991.0,0,BAIXO
+Dois Irmaos,RS,33547.0,0,BAIXO
+Dois Irmaos Das Missoes,RS,1992.0,0,BAIXO
+Dois Lajeados,RS,3410.0,0,BAIXO
+Dom Feliciano,RS,15556.0,0,BAIXO
+Dom Pedro De Alcantara,RS,2520.0,0,BAIXO
+Dom Pedrito,RS,38222.0,0,BAIXO
+Dona Francisca,RS,2958.0,0,BAIXO
+Doutor Mauricio Cardoso,RS,4380.0,0,BAIXO
+Doutor Ricardo,RS,1967.0,0,BAIXO
+Eldorado Do Sul,RS,42490.0,0,BAIXO
+Encantado,RS,23047.0,0,BAIXO
+Encruzilhada Do Sul,RS,26039.0,0,BAIXO
+Engenho Velho,RS,932.0,0,BAIXO
+Entre-Ijuis,RS,8350.0,0,BAIXO
+Entre Rios Do Sul,RS,2724.0,0,BAIXO
+Erebango,RS,2978.0,0,BAIXO
+Erechim,RS,107368.0,0,MEDIO
+Ernestina,RS,3171.0,0,BAIXO
+Herval,RS,6807.0,0,BAIXO
+Erval Grande,RS,4780.0,0,BAIXO
+Erval Seco,RS,6697.0,0,BAIXO
+Esmeralda,RS,3291.0,0,BAIXO
+Esperanca Do Sul,RS,2846.0,0,BAIXO
+Espumoso,RS,15594.0,0,BAIXO
+Estacao,RS,5924.0,0,BAIXO
+Estancia Velha,RS,51292.0,0,BAIXO
+Esteio,RS,83352.0,0,BAIXO
+Estrela,RS,34669.0,0,BAIXO
+Estrela Velha,RS,3646.0,0,BAIXO
+Eugenio De Castro,RS,2310.0,0,BAIXO
+Fagundes Varela,RS,2750.0,0,BAIXO
+Farroupilha,RS,73758.0,0,BAIXO
+Faxinal Do Soturno,RS,6651.0,0,BAIXO
+Faxinalzinho,RS,2256.0,0,BAIXO
+Fazenda Vilanova,RS,4680.0,0,BAIXO
+Feliz,RS,13728.0,0,BAIXO
+Flores Da Cunha,RS,31352.0,0,BAIXO
+Floriano Peixoto,RS,1709.0,0,BAIXO
+Fontoura Xavier,RS,10181.0,0,BAIXO
+Formigueiro,RS,6569.0,0,BAIXO
+Forquetinha,RS,2389.0,0,BAIXO
+Fortaleza Dos Valos,RS,4252.0,0,BAIXO
+Frederico Westphalen,RS,31675.0,0,BAIXO
+Garibaldi,RS,35794.0,0,BAIXO
+Garruchos,RS,2851.0,0,BAIXO
+Gaurama,RS,5447.0,0,BAIXO
+General Camara,RS,8339.0,0,BAIXO
+Gentil,RS,1619.0,0,BAIXO
+Getulio Vargas,RS,16158.0,0,BAIXO
+Girua,RS,15729.0,0,BAIXO
+Glorinha,RS,8304.0,0,BAIXO
+Gramado,RS,36864.0,0,BAIXO
+Gramado Dos Loureiros,RS,2036.0,0,BAIXO
+Gramado Xavier,RS,4378.0,0,BAIXO
+Gravatai,RS,285564.0,0,MEDIO
+Guabiju,RS,1478.0,0,BAIXO
+Guaiba,RS,98331.0,0,BAIXO
+Guapore,RS,26199.0,0,BAIXO
+Guarani Das Missoes,RS,7393.0,0,BAIXO
+Harmonia,RS,4967.0,0,BAIXO
+Herveiras,RS,3019.0,0,BAIXO
+Horizontina,RS,19446.0,0,BAIXO
+Hulha Negra,RS,6894.0,0,BAIXO
+Humaita,RS,4712.0,0,BAIXO
+Ibarama,RS,4393.0,0,BAIXO
+Ibiaca,RS,4690.0,0,BAIXO
+Ibiraiaras,RS,7267.0,0,BAIXO
+Ibirapuita,RS,3988.0,0,BAIXO
+Ibiruba,RS,20474.0,0,BAIXO
+Igrejinha,RS,37754.0,0,BAIXO
+Ijui,RS,84041.0,0,BAIXO
+Ilopolis,RS,4054.0,0,BAIXO
+Imbe,RS,23721.0,0,BAIXO
+Imigrante,RS,3103.0,0,BAIXO
+Independencia,RS,6054.0,0,BAIXO
+Inhacora,RS,2207.0,0,BAIXO
+Ipe,RS,6736.0,0,BAIXO
+Ipiranga Do Sul,RS,1871.0,0,BAIXO
+Irai,RS,7046.0,0,BAIXO
+Itaara,RS,5573.0,0,BAIXO
+Itacurubi,RS,3456.0,0,BAIXO
+Itapuca,RS,2037.0,0,BAIXO
+Itaqui,RS,37363.0,0,BAIXO
+Itati,RS,2377.0,0,BAIXO
+Itatiba Do Sul,RS,3143.0,0,BAIXO
+Ivora,RS,1854.0,0,BAIXO
+Ivoti,RS,25068.0,0,BAIXO
+Jaboticaba,RS,3738.0,0,BAIXO
+Jacuizinho,RS,2718.0,0,BAIXO
+Jacutinga,RS,3532.0,0,BAIXO
+Jaguarao,RS,26327.0,0,BAIXO
+Jaguari,RS,10684.0,0,BAIXO
+Jaquirana,RS,3611.0,0,BAIXO
+Jari,RS,3472.0,0,BAIXO
+Joia,RS,8571.0,0,BAIXO
+Julio De Castilhos,RS,19159.0,0,BAIXO
+Lagoa Bonita Do Sul,RS,2939.0,0,BAIXO
+Lagoao,RS,6469.0,0,BAIXO
+Lagoa Dos Tres Cantos,RS,1604.0,0,BAIXO
+Lagoa Vermelha,RS,27751.0,0,BAIXO
+Lajeado,RS,86005.0,0,BAIXO
+Lajeado Do Bugre,RS,2569.0,0,BAIXO
+Lavras Do Sul,RS,7410.0,0,BAIXO
+Liberato Salzano,RS,5087.0,0,BAIXO
+Lindolfo Collor,RS,6193.0,0,BAIXO
+Linha Nova,RS,1724.0,0,BAIXO
+Machadinho,RS,5411.0,0,BAIXO
+Macambara,RS,4539.0,0,BAIXO
+Mampituba,RS,2965.0,0,BAIXO
+Manoel Viana,RS,7315.0,0,BAIXO
+Maquine,RS,6747.0,0,BAIXO
+Marata,RS,2713.0,0,BAIXO
+Marau,RS,45523.0,0,BAIXO
+Marcelino Ramos,RS,4239.0,0,BAIXO
+Mariana Pimentel,RS,3892.0,0,BAIXO
+Mariano Moro,RS,1987.0,0,BAIXO
+Marques De Souza,RS,3981.0,0,BAIXO
+Mata,RS,4760.0,0,BAIXO
+Mato Castelhano,RS,2543.0,0,BAIXO
+Mato Leitao,RS,4627.0,0,BAIXO
+Mato Queimado,RS,1611.0,0,BAIXO
+Maximiliano De Almeida,RS,4254.0,0,BAIXO
+Minas Do Leao,RS,8130.0,0,BAIXO
+Miraguai,RS,4899.0,0,BAIXO
+Montauri,RS,1430.0,0,BAIXO
+Monte Alegre Dos Campos,RS,3237.0,0,BAIXO
+Monte Belo Do Sul,RS,2514.0,0,BAIXO
+Montenegro,RS,66157.0,0,BAIXO
+Mormaco,RS,3139.0,0,BAIXO
+Morrinhos Do Sul,RS,2891.0,0,BAIXO
+Morro Redondo,RS,6609.0,0,BAIXO
+Morro Reuter,RS,6570.0,0,BAIXO
+Mostardas,RS,12888.0,0,BAIXO
+Mucum,RS,4967.0,0,BAIXO
+Muitos Capoes,RS,3184.0,0,BAIXO
+Muliterno,RS,1901.0,0,BAIXO
+Nao-Me-Toque,RS,17886.0,0,BAIXO
+Nicolau Vergueiro,RS,1667.0,0,BAIXO
+Nonoai,RS,11574.0,0,BAIXO
+Nova Alvorada,RS,3698.0,0,BAIXO
+Nova Araca,RS,4890.0,0,BAIXO
+Nova Bassano,RS,10089.0,0,BAIXO
+Nova Boa Vista,RS,1731.0,0,BAIXO
+Nova Brescia,RS,3345.0,0,BAIXO
+Nova Candelaria,RS,2677.0,0,BAIXO
+Nova Esperanca Do Sul,RS,5465.0,0,BAIXO
+Nova Hartz,RS,22147.0,0,BAIXO
+Nova Padua,RS,2563.0,0,BAIXO
+Nova Palma,RS,6519.0,0,BAIXO
+Nova Petropolis,RS,21717.0,0,BAIXO
+Nova Prata,RS,28021.0,0,BAIXO
+Nova Ramada,RS,2195.0,0,BAIXO
+Nova Roma Do Sul,RS,3743.0,0,BAIXO
+Nova Santa Rita,RS,30482.0,0,BAIXO
+Novo Cabrais,RS,4246.0,0,BAIXO
+Novo Hamburgo,RS,247303.0,0,MEDIO
+Novo Machado,RS,3191.0,0,BAIXO
+Novo Tiradentes,RS,2189.0,0,BAIXO
+Novo Xingu,RS,1705.0,0,BAIXO
+Novo Barreiro,RS,4185.0,0,BAIXO
+Osorio,RS,46815.0,0,BAIXO
+Paim Filho,RS,3731.0,0,BAIXO
+Palmares Do Sul,RS,11342.0,0,BAIXO
+Palmeira Das Missoes,RS,32967.0,0,BAIXO
+Palmitinho,RS,7056.0,0,BAIXO
+Panambi,RS,44583.0,0,BAIXO
+Pantano Grande,RS,8995.0,0,BAIXO
+Parai,RS,7793.0,0,BAIXO
+Paraiso Do Sul,RS,7635.0,0,BAIXO
+Pareci Novo,RS,3885.0,0,BAIXO
+Parobe,RS,59419.0,0,BAIXO
+Passa Sete,RS,5790.0,0,BAIXO
+Passo Do Sobrado,RS,6612.0,0,BAIXO
+Passo Fundo,RS,206103.0,0,MEDIO
+Paulo Bento,RS,2303.0,0,BAIXO
+Paverama,RS,8541.0,0,BAIXO
+Pedras Altas,RS,1928.0,0,BAIXO
+Pedro Osorio,RS,7683.0,0,BAIXO
+Pejucara,RS,3840.0,0,BAIXO
+Pelotas,RS,343826.0,0,MEDIO
+Picada Cafe,RS,5780.0,0,BAIXO
+Pinhal,RS,2581.0,0,BAIXO
+Pinhal Da Serra,RS,1896.0,0,BAIXO
+Pinhal Grande,RS,4309.0,0,BAIXO
+Pinheirinho Do Vale,RS,4926.0,0,BAIXO
+Pinheiro Machado,RS,12122.0,0,BAIXO
+Pinto Bandeira,RS,3068.0,0,BAIXO
+Pirapo,RS,2205.0,0,BAIXO
+Piratini,RS,20743.0,0,BAIXO
+Planalto,RS,9957.0,0,BAIXO
+Poco Das Antas,RS,2105.0,0,BAIXO
+Pontao,RS,3898.0,0,BAIXO
+Ponte Preta,RS,1501.0,0,BAIXO
+Portao,RS,38081.0,0,BAIXO
+Porto Alegre,RS,1492530.0,1,ALTO
+Porto Lucena,RS,4514.0,0,BAIXO
+Porto Maua,RS,2332.0,0,BAIXO
+Porto Vera Cruz,RS,1258.0,0,BAIXO
+Porto Xavier,RS,10144.0,0,BAIXO
+Pouso Novo,RS,1586.0,0,BAIXO
+Presidente Lucena,RS,2972.0,0,BAIXO
+Progresso,RS,6235.0,0,BAIXO
+Protasio Alves,RS,1929.0,0,BAIXO
+Putinga,RS,3861.0,0,BAIXO
+Quarai,RS,22531.0,0,BAIXO
+Quatro Irmaos,RS,1860.0,0,BAIXO
+Quevedos,RS,2793.0,0,BAIXO
+Quinze De Novembro,RS,3810.0,0,BAIXO
+Redentora,RS,11782.0,0,BAIXO
+Relvado,RS,2068.0,0,BAIXO
+Restinga Seca,RS,15702.0,0,BAIXO
+Rio Dos Indios,RS,2571.0,0,BAIXO
+Rio Grande,RS,212881.0,0,MEDIO
+Rio Pardo,RS,38257.0,0,BAIXO
+Riozinho,RS,4698.0,0,BAIXO
+Roca Sales,RS,11556.0,0,BAIXO
+Rodeio Bonito,RS,5868.0,0,BAIXO
+Rolador,RS,2270.0,0,BAIXO
+Rolante,RS,21591.0,0,BAIXO
+Ronda Alta,RS,10633.0,0,BAIXO
+Rondinha,RS,5033.0,0,BAIXO
+Roque Gonzales,RS,6750.0,0,BAIXO
+Rosario Do Sul,RS,39210.0,0,BAIXO
+Sagrada Familia,RS,2601.0,0,BAIXO
+Saldanha Marinho,RS,2596.0,0,BAIXO
+Salto Do Jacui,RS,12512.0,0,BAIXO
+Salvador Das Missoes,RS,2734.0,0,BAIXO
+Salvador Do Sul,RS,7975.0,0,BAIXO
+Sananduva,RS,16382.0,0,BAIXO
+Santa Barbara Do Sul,RS,7813.0,0,BAIXO
+Santa Cecilia Do Sul,RS,1630.0,0,BAIXO
+Santa Clara Do Sul,RS,6755.0,0,BAIXO
+Santa Cruz Do Sul,RS,132271.0,0,MEDIO
+Santa Maria,RS,285159.0,0,MEDIO
+Santa Maria Do Herval,RS,6382.0,0,BAIXO
+Santa Margarida Do Sul,RS,2593.0,0,BAIXO
+Santana Da Boa Vista,RS,8037.0,0,BAIXO
+Sant'Ana Do Livramento,RS,75647.0,0,BAIXO
+Santa Rosa,RS,73882.0,0,BAIXO
+Santa Tereza,RS,1722.0,0,BAIXO
+Santa Vitoria Do Palmar,RS,29298.0,0,BAIXO
+Santiago,RS,49298.0,0,BAIXO
+Santo Angelo,RS,77544.0,0,BAIXO
+Santo Antonio Do Palma,RS,2118.0,0,BAIXO
+Santo Antonio Da Patrulha,RS,43397.0,0,BAIXO
+Santo Antonio Das Missoes,RS,9930.0,0,BAIXO
+Santo Antonio Do Planalto,RS,2018.0,0,BAIXO
+Santo Augusto,RS,13813.0,0,BAIXO
+Santo Cristo,RS,14177.0,0,BAIXO
+Santo Expedito Do Sul,RS,2287.0,0,BAIXO
+Sao Borja,RS,59768.0,0,BAIXO
+Sao Domingos Do Sul,RS,3091.0,0,BAIXO
+Sao Francisco De Assis,RS,18081.0,0,BAIXO
+Sao Francisco De Paula,RS,21871.0,0,BAIXO
+Sao Gabriel,RS,62187.0,0,BAIXO
+Sao Jeronimo,RS,24569.0,0,BAIXO
+Sao Joao Da Urtiga,RS,4625.0,0,BAIXO
+Sao Joao Do Polesine,RS,2535.0,0,BAIXO
+Sao Jorge,RS,2808.0,0,BAIXO
+Sao Jose Das Missoes,RS,2491.0,0,BAIXO
+Sao Jose Do Herval,RS,1917.0,0,BAIXO
+Sao Jose Do Hortencio,RS,4924.0,0,BAIXO
+Sao Jose Do Inhacora,RS,2040.0,0,BAIXO
+Sao Jose Do Norte,RS,27866.0,0,BAIXO
+Sao Jose Do Ouro,RS,6911.0,0,BAIXO
+Sao Jose Do Sul,RS,2464.0,0,BAIXO
+Sao Jose Dos Ausentes,RS,3559.0,0,BAIXO
+Sao Leopoldo,RS,240378.0,0,MEDIO
+Sao Lourenco Do Sul,RS,43501.0,0,BAIXO
+Sao Luiz Gonzaga,RS,33124.0,0,BAIXO
+Sao Marcos,RS,21756.0,0,BAIXO
+Sao Martinho,RS,5336.0,0,BAIXO
+Sao Martinho Da Serra,RS,3228.0,0,BAIXO
+Sao Miguel Das Missoes,RS,7692.0,0,BAIXO
+Sao Nicolau,RS,5153.0,0,BAIXO
+Sao Paulo Das Missoes,RS,5654.0,0,BAIXO
+Sao Pedro Da Serra,RS,3881.0,0,BAIXO
+Sao Pedro Das Missoes,RS,2025.0,0,BAIXO
+Sao Pedro Do Butia,RS,2950.0,0,BAIXO
+Sao Pedro Do Sul,RS,16100.0,0,BAIXO
+Sao Sebastiao Do Cai,RS,26161.0,0,BAIXO
+Sao Sepe,RS,23492.0,0,BAIXO
+Sao Valentim,RS,3220.0,0,BAIXO
+Sao Valentim Do Sul,RS,2248.0,0,BAIXO
+Sao Valerio Do Sul,RS,2732.0,0,BAIXO
+Sao Vendelino,RS,2288.0,0,BAIXO
+Sao Vicente Do Sul,RS,8742.0,0,BAIXO
+Sapiranga,RS,80514.0,0,BAIXO
+Sapucaia Do Sul,RS,142508.0,0,MEDIO
+Sarandi,RS,25024.0,0,BAIXO
+Seberi,RS,10678.0,0,BAIXO
+Sede Nova,RS,2875.0,0,BAIXO
+Segredo,RS,7465.0,0,BAIXO
+Selbach,RS,5114.0,0,BAIXO
+Senador Salgado Filho,RS,2761.0,0,BAIXO
+Sentinela Do Sul,RS,5635.0,0,BAIXO
+Serafina Correa,RS,18074.0,0,BAIXO
+Serio,RS,1889.0,0,BAIXO
+Sertao,RS,5220.0,0,BAIXO
+Sertao Santana,RS,6586.0,0,BAIXO
+Sete De Setembro,RS,1931.0,0,BAIXO
+Severiano De Almeida,RS,3607.0,0,BAIXO
+Silveira Martins,RS,2365.0,0,BAIXO
+Sinimbu,RS,10152.0,0,BAIXO
+Sobradinho,RS,15041.0,0,BAIXO
+Soledade,RS,31067.0,0,BAIXO
+Tabai,RS,4816.0,0,BAIXO
+Tapejara,RS,24973.0,0,BAIXO
+Tapera,RS,10569.0,0,BAIXO
+Tapes,RS,17363.0,0,BAIXO
+Taquara,RS,57740.0,0,BAIXO
+Taquari,RS,26907.0,0,BAIXO
+Taquarucu Do Sul,RS,3081.0,0,BAIXO
+Tavares,RS,5484.0,0,BAIXO
+Tenente Portela,RS,13385.0,0,BAIXO
+Terra De Areia,RS,11323.0,0,BAIXO
+Teutonia,RS,34275.0,0,BAIXO
+Tio Hugo,RS,3078.0,0,BAIXO
+Tiradentes Do Sul,RS,5532.0,0,BAIXO
+Toropi,RS,2753.0,0,BAIXO
+Torres,RS,39381.0,0,BAIXO
+Tramandai,RS,53507.0,0,BAIXO
+Travesseiro,RS,2331.0,0,BAIXO
+Tres Arroios,RS,2620.0,0,BAIXO
+Tres Cachoeiras,RS,11174.0,0,BAIXO
+Tres Coroas,RS,28948.0,0,BAIXO
+Tres De Maio,RS,23846.0,0,BAIXO
+Tres Forquilhas,RS,2643.0,0,BAIXO
+Tres Palmeiras,RS,4232.0,0,BAIXO
+Tres Passos,RS,23799.0,0,BAIXO
+Trindade Do Sul,RS,5781.0,0,BAIXO
+Triunfo,RS,30159.0,0,BAIXO
+Tucunduva,RS,5612.0,0,BAIXO
+Tunas,RS,4585.0,0,BAIXO
+Tupanci Do Sul,RS,1447.0,0,BAIXO
+Tupancireta,RS,24182.0,0,BAIXO
+Tupandi,RS,5019.0,0,BAIXO
+Tuparendi,RS,7730.0,0,BAIXO
+Turucu,RS,3408.0,0,BAIXO
+Ubiretama,RS,1952.0,0,BAIXO
+Uniao Da Serra,RS,1084.0,0,BAIXO
+Unistalda,RS,2306.0,0,BAIXO
+Uruguaiana,RS,126766.0,0,MEDIO
+Vacaria,RS,66916.0,0,BAIXO
+Vale Verde,RS,3531.0,0,BAIXO
+Vale Do Sol,RS,11873.0,0,BAIXO
+Vale Real,RS,6046.0,0,BAIXO
+Vanini,RS,2130.0,0,BAIXO
+Venancio Aires,RS,72373.0,0,BAIXO
+Vera Cruz,RS,27325.0,0,BAIXO
+Veranopolis,RS,26813.0,0,BAIXO
+Vespasiano Correa,RS,1776.0,0,BAIXO
+Viadutos,RS,4628.0,0,BAIXO
+Viamao,RS,257330.0,0,MEDIO
+Vicente Dutra,RS,4530.0,0,BAIXO
+Victor Graeff,RS,2840.0,0,BAIXO
+Vila Flores,RS,3407.0,0,BAIXO
+Vila Langaro,RS,2070.0,0,BAIXO
+Vila Maria,RS,4368.0,0,BAIXO
+Vila Nova Do Sul,RS,4274.0,0,BAIXO
+Vista Alegre,RS,2726.0,0,BAIXO
+Vista Alegre Do Prata,RS,1553.0,0,BAIXO
+Vista Gaucha,RS,2858.0,0,BAIXO
+Vitoria Das Missoes,RS,3052.0,0,BAIXO
+Westfalia,RS,3046.0,0,BAIXO
+Xangri-La,RS,17126.0,0,BAIXO
+Agua Clara,MS,16025.0,0,BAIXO
+Alcinopolis,MS,5489.0,0,BAIXO
+Amambai,MS,40247.0,0,BAIXO
+Anastacio,MS,25336.0,0,BAIXO
+Anaurilandia,MS,9116.0,0,BAIXO
+Angelica,MS,11081.0,0,BAIXO
+Antonio Joao,MS,9082.0,0,BAIXO
+Aparecida Do Taboado,MS,26386.0,0,BAIXO
+Aquidauana,MS,48184.0,0,BAIXO
+Aral Moreira,MS,12511.0,0,BAIXO
+Bandeirantes,MS,7281.0,0,BAIXO
+Bataguassu,MS,23620.0,0,BAIXO
+Bataypora,MS,11368.0,0,BAIXO
+Bela Vista,MS,24842.0,0,BAIXO
+Bodoquena,MS,7802.0,0,BAIXO
+Bonito,MS,22401.0,0,BAIXO
+Brasilandia,MS,11835.0,0,BAIXO
+Caarapo,MS,31005.0,0,BAIXO
+Camapua,MS,13675.0,0,BAIXO
+Campo Grande,MS,916001.0,1,ALTO
+Caracol,MS,6247.0,0,BAIXO
+Cassilandia,MS,22063.0,0,BAIXO
+Chapadao Do Sul,MS,26499.0,0,BAIXO
+Corguinho,MS,6158.0,0,BAIXO
+Coronel Sapucaia,MS,15449.0,0,BAIXO
+Corumba,MS,112669.0,0,MEDIO
+Costa Rica,MS,21456.0,0,BAIXO
+Coxim,MS,33547.0,0,BAIXO
+Deodapolis,MS,13043.0,0,BAIXO
+Dois Irmaos Do Buriti,MS,11547.0,0,BAIXO
+Douradina,MS,6025.0,0,BAIXO
+Dourados,MS,227990.0,0,MEDIO
+Eldorado,MS,12447.0,0,BAIXO
+Fatima Do Sul,MS,19152.0,0,BAIXO
+Figueirao,MS,3066.0,0,BAIXO
+Gloria De Dourados,MS,9934.0,0,BAIXO
+Guia Lopes Da Laguna,MS,9754.0,0,BAIXO
+Iguatemi,MS,16273.0,0,BAIXO
+Inocencia,MS,7566.0,0,BAIXO
+Itapora,MS,25478.0,0,BAIXO
+Itaquirai,MS,21604.0,0,BAIXO
+Ivinhema,MS,23277.0,0,BAIXO
+Japora,MS,9372.0,0,BAIXO
+Jaraguari,MS,7342.0,0,BAIXO
+Jardim,MS,26375.0,0,BAIXO
+Jatei,MS,4015.0,0,BAIXO
+Juti,MS,6861.0,0,BAIXO
+Ladario,MS,24040.0,0,BAIXO
+Laguna Carapa,MS,7496.0,0,BAIXO
+Maracaju,MS,48944.0,0,BAIXO
+Miranda,MS,28423.0,0,BAIXO
+Mundo Novo,MS,18578.0,0,BAIXO
+Navirai,MS,56484.0,0,BAIXO
+Nioaque,MS,13794.0,0,BAIXO
+Nova Alvorada Do Sul,MS,22967.0,0,BAIXO
+Nova Andradina,MS,56057.0,0,BAIXO
+Novo Horizonte Do Sul,MS,3556.0,0,BAIXO
+Paraiso Das Aguas,MS,5751.0,0,BAIXO
+Paranaiba,MS,42401.0,0,BAIXO
+Paranhos,MS,14576.0,0,BAIXO
+Pedro Gomes,MS,7568.0,0,BAIXO
+Ponta Pora,MS,95320.0,0,BAIXO
+Porto Murtinho,MS,17460.0,0,BAIXO
+Ribas Do Rio Pardo,MS,25310.0,0,BAIXO
+Rio Brilhante,MS,38844.0,0,BAIXO
+Rio Negro,MS,4758.0,0,BAIXO
+Rio Verde De Mato Grosso,MS,20025.0,0,BAIXO
+Rochedo,MS,5120.0,0,BAIXO
+Santa Rita Do Pardo,MS,7948.0,0,BAIXO
+Sao Gabriel Do Oeste,MS,27660.0,0,BAIXO
+Sete Quedas,MS,10751.0,0,BAIXO
+Selviria,MS,6555.0,0,BAIXO
+Sidrolandia,MS,60792.0,0,BAIXO
+Sonora,MS,20158.0,0,BAIXO
+Tacuru,MS,11795.0,0,BAIXO
+Taquarussu,MS,3588.0,0,BAIXO
+Terenos,MS,22721.0,0,BAIXO
+Tres Lagoas,MS,125137.0,0,MEDIO
+Vicentina,MS,6115.0,0,BAIXO
+Acorizal,MT,5309.0,0,BAIXO
+Agua Boa,MT,26679.0,0,BAIXO
+Alta Floresta,MT,52105.0,0,BAIXO
+Alto Araguaia,MT,19714.0,0,BAIXO
+Alto Boa Vista,MT,7092.0,0,BAIXO
+Alto Garcas,MT,12323.0,0,BAIXO
+Alto Paraguai,MT,11587.0,0,BAIXO
+Alto Taquari,MT,11413.0,0,BAIXO
+Apiacas,MT,10431.0,0,BAIXO
+Araguaiana,MT,3064.0,0,BAIXO
+Araguainha,MT,909.0,0,BAIXO
+Araputanga,MT,17078.0,0,BAIXO
+Arenapolis,MT,9399.0,0,BAIXO
+Aripuana,MT,23067.0,0,BAIXO
+Barao De Melgaco,MT,8165.0,0,BAIXO
+Barra Do Bugres,MT,35642.0,0,BAIXO
+Barra Do Garcas,MT,61702.0,0,BAIXO
+Bom Jesus Do Araguaia,MT,6830.0,0,BAIXO
+Brasnorte,MT,20571.0,0,BAIXO
+Caceres,MT,95339.0,0,BAIXO
+Campinapolis,MT,16223.0,0,BAIXO
+Campo Novo Do Parecis,MT,36917.0,0,BAIXO
+Campo Verde,MT,44033.0,0,BAIXO
+Campos De Julio,MT,7245.0,0,BAIXO
+Canabrava Do Norte,MT,4711.0,0,BAIXO
+Canarana,MT,22101.0,0,BAIXO
+Carlinda,MT,10094.0,0,BAIXO
+Castanheira,MT,8782.0,0,BAIXO
+Chapada Dos Guimaraes,MT,22521.0,0,BAIXO
+Claudia,MT,12338.0,0,BAIXO
+Cocalinho,MT,5716.0,0,BAIXO
+Colider,MT,33855.0,0,BAIXO
+Colniza,MT,41117.0,0,BAIXO
+Comodoro,MT,21249.0,0,BAIXO
+Confresa,MT,32076.0,0,BAIXO
+Conquista D'Oeste,MT,4163.0,0,BAIXO
+Cotriguacu,MT,20717.0,0,BAIXO
+Cuiaba,MT,623614.0,1,ALTO
+Curvelandia,MT,5267.0,0,BAIXO
+Denise,MT,9626.0,0,BAIXO
+Diamantino,MT,22311.0,0,BAIXO
+Dom Aquino,MT,8087.0,0,BAIXO
+Feliz Natal,MT,14847.0,0,BAIXO
+Figueiropolis D'Oeste,MT,3411.0,0,BAIXO
+Gaucha Do Norte,MT,7913.0,0,BAIXO
+General Carneiro,MT,5726.0,0,BAIXO
+Gloria D'Oeste,MT,2990.0,0,BAIXO
+Guaranta Do Norte,MT,36439.0,0,BAIXO
+Guiratinga,MT,15740.0,0,BAIXO
+Indiavai,MT,2806.0,0,BAIXO
+Ipiranga Do Norte,MT,8182.0,0,BAIXO
+Itanhanga,MT,7030.0,0,BAIXO
+Itauba,MT,3609.0,0,BAIXO
+Itiquira,MT,13727.0,0,BAIXO
+Jaciara,MT,27696.0,0,BAIXO
+Jangada,MT,8420.0,0,BAIXO
+Jauru,MT,8377.0,0,BAIXO
+Juara,MT,35275.0,0,BAIXO
+Juina,MT,41190.0,0,BAIXO
+Juruena,MT,16811.0,0,BAIXO
+Juscimeira,MT,11124.0,0,BAIXO
+Lambari D'Oeste,MT,6246.0,0,BAIXO
+Lucas Do Rio Verde,MT,69671.0,0,BAIXO
+Luciara,MT,2036.0,0,BAIXO
+Vila Bela Da Santissima Trindade,MT,16412.0,0,BAIXO
+Marcelandia,MT,10107.0,0,BAIXO
+Matupa,MT,17017.0,0,BAIXO
+Mirassol D'Oeste,MT,28135.0,0,BAIXO
+Nobres,MT,15332.0,0,BAIXO
+Nortelandia,MT,5858.0,0,BAIXO
+Nossa Senhora Do Livramento,MT,13093.0,0,BAIXO
+Nova Bandeirantes,MT,16052.0,0,BAIXO
+Nova Nazare,MT,4013.0,0,BAIXO
+Nova Lacerda,MT,6861.0,0,BAIXO
+Nova Santa Helena,MT,3755.0,0,BAIXO
+Nova Brasilandia,MT,3656.0,0,BAIXO
+Nova Canaa Do Norte,MT,12876.0,0,BAIXO
+Nova Mutum,MT,48222.0,0,BAIXO
+Nova Olimpia,MT,20820.0,0,BAIXO
+Nova Ubirata,MT,12492.0,0,BAIXO
+Nova Xavantina,MT,21695.0,0,BAIXO
+Novo Mundo,MT,9545.0,0,BAIXO
+Novo Horizonte Do Norte,MT,4069.0,0,BAIXO
+Novo Sao Joaquim,MT,4837.0,0,BAIXO
+Paranaita,MT,11291.0,0,BAIXO
+Paranatinga,MT,23250.0,0,BAIXO
+Novo Santo Antonio,MT,2769.0,0,BAIXO
+Pedra Preta,MT,17547.0,0,BAIXO
+Peixoto De Azevedo,MT,35695.0,0,BAIXO
+Planalto Da Serra,MT,2637.0,0,BAIXO
+Pocone,MT,33386.0,0,BAIXO
+Pontal Do Araguaia,MT,6972.0,0,BAIXO
+Ponte Branca,MT,1525.0,0,BAIXO
+Pontes E Lacerda,MT,46105.0,0,BAIXO
+Porto Alegre Do Norte,MT,12849.0,0,BAIXO
+Porto Dos Gauchos,MT,5344.0,0,BAIXO
+Porto Esperidiao,MT,12176.0,0,BAIXO
+Porto Estrela,MT,2794.0,0,BAIXO
+Poxoreu,MT,15936.0,0,BAIXO
+Primavera Do Leste,MT,63876.0,0,BAIXO
+Querencia,MT,18386.0,0,BAIXO
+Sao Jose Dos Quatro Marcos,MT,18788.0,0,BAIXO
+Reserva Do Cabacal,MT,2754.0,0,BAIXO
+Ribeirao Cascalheira,MT,10450.0,0,BAIXO
+Ribeiraozinho,MT,2439.0,0,BAIXO
+Rio Branco,MT,5147.0,0,BAIXO
+Santa Carmem,MT,4600.0,0,BAIXO
+Santo Afonso,MT,3164.0,0,BAIXO
+Sao Jose Do Povo,MT,4102.0,0,BAIXO
+Sao Jose Do Rio Claro,MT,21351.0,0,BAIXO
+Sao Jose Do Xingu,MT,5646.0,0,BAIXO
+Sao Pedro Da Cipa,MT,4823.0,0,BAIXO
+Rondolandia,MT,4069.0,0,BAIXO
+Rondonopolis,MT,239613.0,0,MEDIO
+Rosario Oeste,MT,16999.0,0,BAIXO
+Santa Cruz Do Xingu,MT,2700.0,0,BAIXO
+Salto Do Ceu,MT,3226.0,0,BAIXO
+Santa Rita Do Trivelato,MT,3602.0,0,BAIXO
+Santa Terezinha,MT,8547.0,0,BAIXO
+Santo Antonio Do Leste,MT,5459.0,0,BAIXO
+Santo Antonio Do Leverger,MT,17188.0,0,BAIXO
+Sao Felix Do Araguaia,MT,11934.0,0,BAIXO
+Sapezal,MT,27485.0,0,BAIXO
+Serra Nova Dourada,MT,1705.0,0,BAIXO
+Sinop,MT,148960.0,0,MEDIO
+Sorriso,MT,94941.0,0,BAIXO
+Tabapora,MT,9357.0,0,BAIXO
+Tangara Da Serra,MT,107631.0,0,MEDIO
+Tapurah,MT,14380.0,0,BAIXO
+Terra Nova Do Norte,MT,9284.0,0,BAIXO
+Tesouro,MT,3761.0,0,BAIXO
+Torixoreu,MT,3487.0,0,BAIXO
+Uniao Do Sul,MT,3455.0,0,BAIXO
+Vale De Sao Domingos,MT,3124.0,0,BAIXO
+Varzea Grande,MT,290383.0,0,MEDIO
+Vera,MT,11731.0,0,BAIXO
+Vila Rica,MT,26946.0,0,BAIXO
+Nova Guarita,MT,4407.0,0,BAIXO
+Nova Marilandia,MT,3332.0,0,BAIXO
+Nova Maringa,MT,9056.0,0,BAIXO
+Nova Monte Verde,MT,9375.0,0,BAIXO
+Abadia De Goias,GO,9158.0,0,BAIXO
+Abadiania,GO,20873.0,0,BAIXO
+Acreuna,GO,22710.0,0,BAIXO
+Adelandia,GO,2515.0,0,BAIXO
+Agua Fria De Goias,GO,5843.0,0,BAIXO
+Agua Limpa,GO,1809.0,0,BAIXO
+Aguas Lindas De Goias,GO,222850.0,0,MEDIO
+Alexania,GO,28360.0,0,BAIXO
+Aloandia,GO,1976.0,0,BAIXO
+Alto Horizonte,GO,6796.0,0,BAIXO
+Alto Paraiso De Goias,GO,7751.0,0,BAIXO
+Alvorada Do Norte,GO,8749.0,0,BAIXO
+Amaralina,GO,3875.0,0,BAIXO
+Americano Do Brasil,GO,6220.0,0,BAIXO
+Amorinopolis,GO,3011.0,0,BAIXO
+Anapolis,GO,396526.0,0,MEDIO
+Anhanguera,GO,1171.0,0,BAIXO
+Anicuns,GO,22113.0,0,BAIXO
+Aparecida De Goiania,GO,601844.0,0,ALTO
+Aparecida Do Rio Doce,GO,2474.0,0,BAIXO
+Apore,GO,4266.0,0,BAIXO
+Aracu,GO,3450.0,0,BAIXO
+Aragarcas,GO,20410.0,0,BAIXO
+Aragoiania,GO,10680.0,0,BAIXO
+Araguapaz,GO,7795.0,0,BAIXO
+Arenopolis,GO,2462.0,0,BAIXO
+Aruana,GO,10340.0,0,BAIXO
+Aurilandia,GO,3000.0,0,BAIXO
+Avelinopolis,GO,2401.0,0,BAIXO
+Baliza,GO,5418.0,0,BAIXO
+Barro Alto,GO,11643.0,0,BAIXO
+Bela Vista De Goias,GO,31004.0,0,BAIXO
+Bom Jardim De Goias,GO,8912.0,0,BAIXO
+Bom Jesus De Goias,GO,26069.0,0,BAIXO
+Bonfinopolis,GO,10120.0,0,BAIXO
+Bonopolis,GO,4579.0,0,BAIXO
+Brazabrantes,GO,3812.0,0,BAIXO
+Britania,GO,5815.0,0,BAIXO
+Buriti Alegre,GO,9515.0,0,BAIXO
+Buriti De Goias,GO,2464.0,0,BAIXO
+Buritinopolis,GO,3272.0,0,BAIXO
+Cabeceiras,GO,8098.0,0,BAIXO
+Cachoeira Alta,GO,12843.0,0,BAIXO
+Cachoeira De Goias,GO,1336.0,0,BAIXO
+Cachoeira Dourada,GO,7997.0,0,BAIXO
+Cacu,GO,16525.0,0,BAIXO
+Caiaponia,GO,19304.0,0,BAIXO
+Caldas Novas,GO,95183.0,0,BAIXO
+Caldazinha,GO,3900.0,0,BAIXO
+Campestre De Goias,GO,3662.0,0,BAIXO
+Campinacu,GO,3628.0,0,BAIXO
+Campinorte,GO,12880.0,0,BAIXO
+Campo Alegre De Goias,GO,7884.0,0,BAIXO
+Campo Limpo De Goias,GO,8087.0,0,BAIXO
+Campos Belos,GO,20124.0,0,BAIXO
+Campos Verdes,GO,1526.0,0,BAIXO
+Carmo Do Rio Verde,GO,10299.0,0,BAIXO
+Castelandia,GO,3380.0,0,BAIXO
+Catalao,GO,113091.0,0,MEDIO
+Caturai,GO,5132.0,0,BAIXO
+Cavalcante,GO,9740.0,0,BAIXO
+Ceres,GO,22407.0,0,BAIXO
+Cezarina,GO,8794.0,0,BAIXO
+Chapadao Do Ceu,GO,10797.0,0,BAIXO
+Cidade Ocidental,GO,74370.0,0,BAIXO
+Cocalzinho De Goias,GO,20771.0,0,BAIXO
+Colinas Do Sul,GO,3339.0,0,BAIXO
+Corrego Do Ouro,GO,2254.0,0,BAIXO
+Corumba De Goias,GO,11223.0,0,BAIXO
+Corumbaiba,GO,10012.0,0,BAIXO
+Cristalina,GO,61385.0,0,BAIXO
+Cristianopolis,GO,2962.0,0,BAIXO
+Crixas,GO,17136.0,0,BAIXO
+Crominia,GO,3458.0,0,BAIXO
+Cumari,GO,2820.0,0,BAIXO
+Damianopolis,GO,3302.0,0,BAIXO
+Damolandia,GO,2944.0,0,BAIXO
+Davinopolis,GO,2094.0,0,BAIXO
+Diorama,GO,2477.0,0,BAIXO
+Doverlandia,GO,7174.0,0,BAIXO
+Edealina,GO,3678.0,0,BAIXO
+Edeia,GO,12559.0,0,BAIXO
+Estrela Do Norte,GO,3253.0,0,BAIXO
+Faina,GO,6527.0,0,BAIXO
+Fazenda Nova,GO,5471.0,0,BAIXO
+Firminopolis,GO,13604.0,0,BAIXO
+Flores De Goias,GO,17415.0,0,BAIXO
+Formosa,GO,125705.0,0,MEDIO
+Formoso,GO,4098.0,0,BAIXO
+Gameleira De Goias,GO,3923.0,0,BAIXO
+Divinopolis De Goias,GO,4701.0,0,BAIXO
+Goianapolis,GO,11217.0,0,BAIXO
+Goiandira,GO,5650.0,0,BAIXO
+Goianesia,GO,72045.0,0,BAIXO
+Goiania,GO,1555626.0,1,ALTO
+Goianira,GO,46278.0,0,BAIXO
+Goias,GO,22122.0,0,BAIXO
+Goiatuba,GO,34307.0,0,BAIXO
+Gouvelandia,GO,6076.0,0,BAIXO
+Guapo,GO,14206.0,0,BAIXO
+Guaraita,GO,1905.0,0,BAIXO
+Guarani De Goias,GO,3801.0,0,BAIXO
+Guarinos,GO,1681.0,0,BAIXO
+Heitorai,GO,3742.0,0,BAIXO
+Hidrolandia,GO,22533.0,0,BAIXO
+Hidrolina,GO,3450.0,0,BAIXO
+Iaciara,GO,14215.0,0,BAIXO
+Inaciolandia,GO,6275.0,0,BAIXO
+Indiara,GO,15962.0,0,BAIXO
+Inhumas,GO,53655.0,0,BAIXO
+Ipameri,GO,27365.0,0,BAIXO
+Ipiranga De Goias,GO,2892.0,0,BAIXO
+Ipora,GO,31471.0,0,BAIXO
+Israelandia,GO,2772.0,0,BAIXO
+Itaberai,GO,44329.0,0,BAIXO
+Itaguari,GO,4684.0,0,BAIXO
+Itaguaru,GO,5184.0,0,BAIXO
+Itaja,GO,4412.0,0,BAIXO
+Itapaci,GO,23850.0,0,BAIXO
+Itapirapua,GO,4380.0,0,BAIXO
+Itapuranga,GO,25597.0,0,BAIXO
+Itaruma,GO,7337.0,0,BAIXO
+Itaucu,GO,8968.0,0,BAIXO
+Itumbiara,GO,106845.0,0,MEDIO
+Ivolandia,GO,2295.0,0,BAIXO
+Jandaia,GO,6001.0,0,BAIXO
+Jaragua,GO,52160.0,0,BAIXO
+Jatai,GO,103221.0,0,MEDIO
+Jaupaci,GO,2843.0,0,BAIXO
+Jesupolis,GO,2497.0,0,BAIXO
+Joviania,GO,7417.0,0,BAIXO
+Jussara,GO,18266.0,0,BAIXO
+Lagoa Santa,GO,1652.0,0,BAIXO
+Leopoldo De Bulhoes,GO,7663.0,0,BAIXO
+Luziania,GO,214645.0,0,MEDIO
+Mairipotaba,GO,2358.0,0,BAIXO
+Mambai,GO,9277.0,0,BAIXO
+Mara Rosa,GO,9234.0,0,BAIXO
+Marzagao,GO,2263.0,0,BAIXO
+Matrincha,GO,4321.0,0,BAIXO
+Maurilandia,GO,14568.0,0,BAIXO
+Mimoso De Goias,GO,2575.0,0,BAIXO
+Minacu,GO,28518.0,0,BAIXO
+Mineiros,GO,69477.0,0,BAIXO
+Moipora,GO,1471.0,0,BAIXO
+Monte Alegre De Goias,GO,8759.0,0,BAIXO
+Montes Claros De Goias,GO,8037.0,0,BAIXO
+Montividiu,GO,13935.0,0,BAIXO
+Montividiu Do Norte,GO,4538.0,0,BAIXO
+Morrinhos,GO,46955.0,0,BAIXO
+Morro Agudo De Goias,GO,2217.0,0,BAIXO
+Mossamedes,GO,4120.0,0,BAIXO
+Mozarlandia,GO,16077.0,0,BAIXO
+Mundo Novo,GO,4540.0,0,BAIXO
+Mutunopolis,GO,3749.0,0,BAIXO
+Nazario,GO,9375.0,0,BAIXO
+Neropolis,GO,30931.0,0,BAIXO
+Niquelandia,GO,47064.0,0,BAIXO
+Nova America,GO,2362.0,0,BAIXO
+Nova Aurora,GO,2236.0,0,BAIXO
+Nova Crixas,GO,13020.0,0,BAIXO
+Nova Gloria,GO,8063.0,0,BAIXO
+Nova Iguacu De Goias,GO,2939.0,0,BAIXO
+Nova Roma,GO,3208.0,0,BAIXO
+Nova Veneza,GO,10193.0,0,BAIXO
+Novo Brasil,GO,2775.0,0,BAIXO
+Novo Gama,GO,119649.0,0,MEDIO
+Novo Planalto,GO,4592.0,0,BAIXO
+Orizona,GO,15834.0,0,BAIXO
+Ouro Verde De Goias,GO,3679.0,0,BAIXO
+Ouvidor,GO,6895.0,0,BAIXO
+Padre Bernardo,GO,35011.0,0,BAIXO
+Palestina De Goias,GO,3470.0,0,BAIXO
+Palmeiras De Goias,GO,29915.0,0,BAIXO
+Palmelo,GO,2382.0,0,BAIXO
+Palminopolis,GO,3578.0,0,BAIXO
+Panama,GO,2590.0,0,BAIXO
+Paranaiguara,GO,10221.0,0,BAIXO
+Parauna,GO,10988.0,0,BAIXO
+Perolandia,GO,3156.0,0,BAIXO
+Petrolina De Goias,GO,10240.0,0,BAIXO
+Pilar De Goias,GO,2135.0,0,BAIXO
+Piracanjuba,GO,24543.0,0,BAIXO
+Piranhas,GO,10161.0,0,BAIXO
+Pirenopolis,GO,25218.0,0,BAIXO
+Pires Do Rio,GO,31909.0,0,BAIXO
+Planaltina,GO,91345.0,0,BAIXO
+Pontalina,GO,17899.0,0,BAIXO
+Porangatu,GO,45866.0,0,BAIXO
+Porteirao,GO,3979.0,0,BAIXO
+Portelandia,GO,4032.0,0,BAIXO
+Posse,GO,37924.0,0,BAIXO
+Professor Jamil,GO,3211.0,0,BAIXO
+Quirinopolis,GO,51323.0,0,BAIXO
+Rialma,GO,10961.0,0,BAIXO
+Rianapolis,GO,4832.0,0,BAIXO
+Rio Quente,GO,4728.0,0,BAIXO
+Rio Verde,GO,247259.0,0,MEDIO
+Rubiataba,GO,20012.0,0,BAIXO
+Sanclerlandia,GO,7630.0,0,BAIXO
+Santa Barbara De Goias,GO,6701.0,0,BAIXO
+Santa Cruz De Goias,GO,2782.0,0,BAIXO
+Santa Fe De Goias,GO,5585.0,0,BAIXO
+Santa Helena De Goias,GO,38962.0,0,BAIXO
+Santa Isabel,GO,3821.0,0,BAIXO
+Santa Rita Do Araguaia,GO,9110.0,0,BAIXO
+Santa Rita Do Novo Destino,GO,3367.0,0,BAIXO
+Santa Rosa De Goias,GO,2200.0,0,BAIXO
+Santa Tereza De Goias,GO,3207.0,0,BAIXO
+Santa Terezinha De Goias,GO,8386.0,0,BAIXO
+Santo Antonio Da Barra,GO,4886.0,0,BAIXO
+Santo Antonio De Goias,GO,6593.0,0,BAIXO
+Santo Antonio Do Descoberto,GO,76871.0,0,BAIXO
+Sao Domingos,GO,13305.0,0,BAIXO
+Sao Francisco De Goias,GO,6265.0,0,BAIXO
+Sao Joao D'Alianca,GO,14423.0,0,BAIXO
+Sao Joao Da Parauna,GO,1312.0,0,BAIXO
+Sao Luis De Montes Belos,GO,34488.0,0,BAIXO
+Sao Luiz Do Norte,GO,5263.0,0,BAIXO
+Sao Miguel Do Araguaia,GO,21849.0,0,BAIXO
+Sao Miguel Do Passa Quatro,GO,4105.0,0,BAIXO
+Sao Patricio,GO,2040.0,0,BAIXO
+Sao Simao,GO,21318.0,0,BAIXO
+Senador Canedo,GO,121447.0,0,MEDIO
+Serranopolis,GO,8737.0,0,BAIXO
+Silvania,GO,20938.0,0,BAIXO
+Simolandia,GO,6895.0,0,BAIXO
+Sitio D'Abadia,GO,3040.0,0,BAIXO
+Taquaral De Goias,GO,3506.0,0,BAIXO
+Teresina De Goias,GO,3538.0,0,BAIXO
+Terezopolis De Goias,GO,8326.0,0,BAIXO
+Tres Ranchos,GO,2830.0,0,BAIXO
+Trindade,GO,132006.0,0,MEDIO
+Trombas,GO,3497.0,0,BAIXO
+Turvania,GO,4526.0,0,BAIXO
+Turvelandia,GO,5447.0,0,BAIXO
+Uirapuru,GO,2829.0,0,BAIXO
+Uruacu,GO,41150.0,0,BAIXO
+Uruana,GO,13795.0,0,BAIXO
+Urutai,GO,3056.0,0,BAIXO
+Valparaiso De Goias,GO,175720.0,0,MEDIO
+Varjao,GO,3848.0,0,BAIXO
+Vianopolis,GO,14088.0,0,BAIXO
+Vicentinopolis,GO,9002.0,0,BAIXO
+Vila Boa,GO,6451.0,0,BAIXO
+Vila Propicio,GO,5941.0,0,BAIXO
+Brasilia,DF,3094325.0,1,ALTO
+,,,0,DESCONHECIDO
